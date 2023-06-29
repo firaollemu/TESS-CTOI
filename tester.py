@@ -24,8 +24,6 @@ ctoi_review_false_positives = []
 # exofop_edited: TIC, CTOI, Transit Epoch, Period (exofop), Planet Radius, Duration, Depth, TFOPWG Disposition [8]
 
 
-master_header = ['TIC ID', 'CTOI ID', 'Transit Epoch', 'Period (exofop)', 'Period (TEV)', 'Planet Radius', 'Duration',
-'Depth', 'TFOPWG Disposition', 'TEV Disposition', 'Notes', 'CTOI Category']
 
 
 exofop_header = ['TIC', 'CTOI', 'Transit Epoch', 'Period', 'Duration', 'Depth', 'Planet Radius', 'Notes', 'TFOPWG Disposition', 'CTOI Designation']
@@ -96,31 +94,22 @@ exofop_fp_file = 'exofop_fp_tester.csv'
 ctoi_df = pd.read_csv(ctoi_file)
 exofop_df = pd.read_csv(exofop_fp_file)
 
-
-
-common_columns = ['TIC', 'CTOI', 'Notes', 'CTOI Category']
-
-# Rename the title of the column name in the EXOFOP false positive list
-# exofop_df.rename(columns={'TIC ID': 'TIC'}, inplace=True)
+# Common headers
+master_header = ['TIC ID', 'CTOI ID', 'Transit Epoch', 'Period (exofop)', 'Period (TEV)', 'Planet Radius', 'Duration', 'Depth', 'TFOPWG Disposition', 'TEV Disposition', 'Notes', 'CTOI Category']
 
 
 
 
-# Now, merge these two
-# merged_df = pd.merge(ctoi_df, exofop_df, on=['TIC', 'CTOI', 'Notes', 'CTOI Category'], how='inner')
 
 
 
-# save the merged pandas dataframe into a csv file
-# merged_df.to_csv('Mereged_false_positives.csv', index=False)
 
-# Merging error.
+
+# with open(ctoi_file, 'w', newline='') as ctoi_fp_file:
+#     writer = csv.writer(ctoi_fp_file)
+#     writer.writerows(ctoi_review_false_positives)
 #
-with open(ctoi_file, 'w', newline='') as ctoi_fp_file:
-    writer = csv.writer(ctoi_fp_file)
-    writer.writerows(ctoi_review_false_positives)
-
-
-with open(exofop_fp_file, 'w', newline='') as exofop_fp:
-    writer = csv.writer(exofop_fp)
-    writer.writerows(exofop_false_positive)
+#
+# with open(exofop_fp_file, 'w', newline='') as exofop_fp:
+#     writer = csv.writer(exofop_fp)
+#     writer.writerows(exofop_false_positive)
