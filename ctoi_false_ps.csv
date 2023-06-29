@@ -1,4 +1,16 @@
 TIC,CTOI,Period (exfop),Notes
+120311283.0,120311283.01,nan,CTOI epoch = 1701.6138 TBJD matches to TEV signal
+123496379.0,123496379.01,nan,CTOI epoch = 1699.4466 TBJD matches to TEV signal
+190885165.0,190885165.01,1.649,synchronized
+230130556.0,230130556.01,-,too large to be inflated hot jupiter; CTOI epoch = 2645.14 TBJD matches to TEV signal
+246966307.0,246966307.01,6.629,NEB; centroid offset on TIC 246966304
+257395093.0,257395093.01,14.4,EB in quadruple star system
+333785427.0,333785427.01,1.579,synchronized; likely EB
+356632361.0,356632361.01,2.611,in spoc-s49-b02 noted to be synchronized with a secondary
+358487062.0,358487062.01,5.502,source is TIC 358487041
+434133200.0,434133200.01,14.131,half phase coverage with spoc-s42-s46 so period can't be half; too large for insolation
+461634737.0,461634737.01,4.23,NEB; Clear centroid offset on TIC 41634738 in spoc-s14s16-b02
+95839645.0,95839645.01,0.896,"new CTOI, Montalto et al. (2020); 7/8 sigma odd-even in TEC plots for SPOC s61"
 364400981.0,364400981.01,1.94,"All data obtained using the LightKurve framework; has a report made, but I think this is an EB with a slightly eccentric orbit. There is a significant secondary just beyond phase 0.5."
 10697188.0,10697188.01,5.44,"Camera 2, CCD 1, Column 2051, Row 1597, Sector 18, Mission TESS"
 10697190.0,10697190.01,5.44,"Camera 2, CCD 1, Column 2051, Row 1597, Sector 18, Mission TESS"
