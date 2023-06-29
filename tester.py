@@ -50,20 +50,35 @@ for index, row in exofop_df.iterrows():
 
         exofop_row_values.append('Likely FP')
 
-        exofop_false_positive.append(exofop_row_values)
+#         exofop_false_positive.append(exofop_row_values)
 
 
 
-# for index, row in ctoi_review_fp_df.iterrows():
-#     if row['TEV Disposition'] == category1 or row['TEV Disposition'] == category2:
-#         row_values = [
-#             int(row['TIC']),
-#             row['CTOI'],
-#             row['TEV Disposition'],
-#             row['Notes']
-#         ]
-#         row_values.append('Likely FP')
-#         ctoi_review_false_positives.append(row_values)
+
+
+ctoi_header = ['TIC', 'CTOI', 'Period (exofop)', 'Period (TEV)', 'Notes', 'Public comment', 'TEV Disposition', 'CTOI Designation']
+ctoi_review_false_positives.append(ctoi_header)
+
+for index, row in ctoi_review_fp_df.iterrows():
+    ctoi_row_values = [
+        row['TIC'],
+        row['CTOI'],
+        row['Period (exofop)'],
+        row['Period (TEV)'],
+        row['Notes'],
+        row['Public comment'],
+        row['TEV Disposition']
+    ]
+    ctoi_row_values.append('Likely FP')
+
+    ctoi_review_false_positives.append(ctoi_row_values)
+
+
+
+
+
+
+
 
 
 
@@ -86,7 +101,7 @@ exofop_df = pd.read_csv(exofop_fp_file)
 common_columns = ['TIC', 'CTOI', 'Notes', 'CTOI Category']
 
 # Rename the title of the column name in the EXOFOP false positive list
-exofop_df.rename(columns={'TIC ID': 'TIC'}, inplace=True)
+# exofop_df.rename(columns={'TIC ID': 'TIC'}, inplace=True)
 
 
 
@@ -101,9 +116,9 @@ exofop_df.rename(columns={'TIC ID': 'TIC'}, inplace=True)
 
 # Merging error.
 #
-# with open(ctoi_file, 'w', newline='') as ctoi_fp_file:
-#     writer = csv.writer(ctoi_fp_file)
-#     writer.writerows(ctoi_review_false_positives)
+with open(ctoi_file, 'w', newline='') as ctoi_fp_file:
+    writer = csv.writer(ctoi_fp_file)
+    writer.writerows(ctoi_review_false_positives)
 
 
 with open(exofop_fp_file, 'w', newline='') as exofop_fp:

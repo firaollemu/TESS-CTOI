@@ -24,8 +24,8 @@ marked_as_fp_exofop = []
 ctoi_review_fp_df_rows = len(ctoi_review_fp_df)
 exofop_df_rows = len(exofop_df)
 
-print(f"ctoi length {ctoi_review_fp_df_rows}")
-print(f"exofop length {exofop_df_rows}")
+# print(f"ctoi length {ctoi_review_fp_df_rows}")
+# print(f"exofop length {exofop_df_rows}")
 # Append the column to the false positive list
 column_title_for_ctoi_fp = ['TIC', 'CTOI','Period (exfop)', 'Notes']
 column_title_for_exofop_fp = ['TIC ID', 'CTOI', 'Transit Epoch (BJD)', 'Period (days)', 'Planet Radius (R_Earth)', 'Duration (hours)', 'Depth (mmag)', 'TFOPWG Disposition']
@@ -39,7 +39,7 @@ marked_as_fp_exofop.append(column_title_for_exofop_fp)
 
 # Loop through each row in the two df 
 for ctoi_index, ctoi_row in ctoi_review_fp_df.iterrows():
-    if ctoi_row['TEV Disposition'] == 'FP (EB)' or ctoi_row['TEV Disposition'] == 'FP(EB)':
+    if ctoi_row['TEV Disposition'] == 'FP (EB)' or ctoi_row['TEV Disposition'] == 'FP(EB)' or ctoi_row['TEV Disposition'] == 'EB':
         ctoi_row_values = [
             ctoi_row['TIC'],
             ctoi_row['CTOI'],
@@ -72,9 +72,9 @@ ctoi_fp_s = 'ctoi_false_ps.csv'
 exofop_fp_s = 'exofop_false_ps.csv'
 
 
-# with open(ctoi_fp_s, 'w', newline='') as ctoi_fp_file:
-#     ctoi_fp_data = csv.writer(ctoi_fp_file)
-#     ctoi_fp_data.writerows(marked_as_fp_ctoi)
+with open(ctoi_fp_s, 'w', newline='') as ctoi_fp_file:
+    ctoi_fp_data = csv.writer(ctoi_fp_file)
+    ctoi_fp_data.writerows(marked_as_fp_ctoi)
 
 
 # with open(exofop_fp_s, 'w', newline='') as exofop_fp_file:
