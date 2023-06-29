@@ -1,373 +1,405 @@
-TIC,CTOI,TEV Disposition,Notes,CTOI Category
-120311283,120311283.01,EB,CTOI epoch = 1701.6138 TBJD matches to TEV signal,Likely FP
-123496379,123496379.01,EB,CTOI epoch = 1699.4466 TBJD matches to TEV signal,Likely FP
-190885165,190885165.01,EB,synchronized,Likely FP
-230130556,230130556.01,EB,too large to be inflated hot jupiter; CTOI epoch = 2645.14 TBJD matches to TEV signal,Likely FP
-246966307,246966307.01,EB,NEB; centroid offset on TIC 246966304,Likely FP
-257395093,257395093.01,EB,EB in quadruple star system,Likely FP
-333785427,333785427.01,EB,synchronized; likely EB,Likely FP
-356632361,356632361.01,EB,in spoc-s49-b02 noted to be synchronized with a secondary,Likely FP
-358487062,358487062.01,EB,source is TIC 358487041,Likely FP
-434133200,434133200.01,EB,half phase coverage with spoc-s42-s46 so period can't be half; too large for insolation,Likely FP
-461634737,461634737.01,EB,NEB; Clear centroid offset on TIC 41634738 in spoc-s14s16-b02,Likely FP
-95839645,95839645.01,EB,"new CTOI, Montalto et al. (2020); 7/8 sigma odd-even in TEC plots for SPOC s61",Likely FP
-364400981,364400981.01,FP (EB),"All data obtained using the LightKurve framework; has a report made, but I think this is an EB with a slightly eccentric orbit. There is a significant secondary just beyond phase 0.5.",Likely FP
-10697188,10697188.01,FP(EB),"Camera 2, CCD 1, Column 2051, Row 1597, Sector 18, Mission TESS",Likely FP
-10697190,10697190.01,FP(EB),"Camera 2, CCD 1, Column 2051, Row 1597, Sector 18, Mission TESS",Likely FP
-28799599,28799599.01,FP(EB),"hot Jupiter candidate around evolved star. nearby companion, needs SG1 followup; off target according to difference image",Likely FP
-37692356,37692356.01,FP(EB),"Camera 2. CCD 3, Column 1887, Row 1839, Sector 8, Possible binary system; secondary visible in Y1 QLP; Rp ~ 32 Re; EB",Likely FP
-46029346,46029346.01,FP(EB),Synchronized with stellar variability; large,Likely FP
-83703886,83703886.01,FP(EB),"Camera 1, CCD 4, Column 535, Row 642, Sector 11; QLP report at 2x CTOI period has strong odd-even; likely EB",Likely FP
-92880493,92880493.01,FP(EB),"All data are obtained using the TESS data and LightKurve Framework; FP: significant secondary, V-shaped, and has significant depth-aperture correlation ",Likely FP
-120861864,120861864.01,FP(EB),"Camera 2, CCD 1, Column 1817, Row 239, Sector 10; clear odd-even in QLP report with 2x CTOI period; Rp ~ 83 Re",Likely FP
-138772345,138772345.01,FP(EB),"Camera 1, CCD 2, Column 1193, Row 1317, Sector 22; Rp ~ 69 Re from QLP report with same period and epoch; secondary",Likely FP
-178414921,178414921.01,FP(EB),"Camera 2, CCD 2, Column 2018, Row 1017, Sector 9; v-shaped; Rp ~43.5 Re",Likely FP
-186941307,186941307.01,FP(EB),"Camera 1, CCD 2, Column 1063, Row 964, Sector 18; off target EB; significant depth-aperture correlation",Likely FP
-202152389,202152389.01,FP(EB),"Camera 2, CCD 1, Column 1885, Row 1962, Sector 17, unclear orbital period; Rp ~ 125 Re;",Likely FP
-224327878,224327878.01,FP(EB),34 transits; either full transit or nearly full.,Likely FP
-234945462,234945462.01,FP(EB),"Camera 1, CCD 2, Column 965, Row 1422, Sector 6; period is off in qlp report; eccentric eclipsing binary",Likely FP
-302926645,302926645.01,FP(EB),Found with our in-house single transit finder; off target in SPOC s6,Likely FP
-311413113,311413113.01,FP(EB),"Camera 2, CCD 2, Column 1261, Row 164, Sector 12; off-target EB; significant depth aperture correlation and secondary",Likely FP
-399868187,399868187.02,FP(EB),WINE hot Jupiter; TFOPWG FP; NEB,Likely FP
-428962300,428962300.01,FP(EB),hot Jupiter candidate around evolved star; EB at 2x CTOI period; CTOI is likely secondaries,Likely FP
-438591493,438591493.01,FP(EB),"Camera 2, CCD 4, Column 1178, Row 446, Sector 11; ; secondary visible in Y1 QLP; Rp ~ 29.3 Re; EB",Likely FP
-438727861,438727861.01,FP(EB),"Camera 2, CCD 4, Column 341, Row 1818, Sector 11; eclipsing binary (15 sigma odd-even)",Likely FP
-444222135,444222135.01,FP(EB),Eccentric EB from outside sources,Likely FP
-450087539,450087539.01,FP(EB),"Camera 1, CCD 3, Column 1173, Row 1470, Sector 5; Rp ~ 35.4 Re in Y1 qlp",Likely FP
-8963901,8963901.01,FP(EB),Rp = 300 Re; non-transit signal,Likely FP
-13093071,13093071.01,FP(EB),WINE single transit,Likely FP
-29667425,29667425.01,FP(EB),Single transit; centroid offset but not centered on anything; background light spikes at epoch 1342,Likely FP
-39018208,39018208.02,FP(EB),2000 ppm secondary,Likely FP
-55659311,55659311.01,FP(EB),Rp = 90 Re,Likely FP
-55659311,55659311.02,FP(EB),Rp = 90 Re,Likely FP
-61710042,61710042.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-65450588,65450588.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-67747088,67747088.01,FP(EB),v-shaped; weak; centroid offset; Found with our in-house single transit finder; additional partial transit; Sector 32,Likely FP
-72985912,72985912.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-91369561,91369561.01,FP(EB),Rp = 77 Re,Likely FP
-92349924,92349924.02,FP(EB),Rp = 27 Re; v-shaped,Likely FP
-92349924,92349924.03,FP(EB),Rp = 27 Re; v-shaped,Likely FP
-92896631,92896631.01,FP(EB),Looks good but could be too large; odd-even; recon spectra shows composite; likely SB2,Likely FP
-100029948,100029948.01,FP(EB),Rp = 79 Re; odd-even,Likely FP
-100029948,100029948.02,FP(EB),Rp = 79 Re; odd-even,Likely FP
-124852105,124852105.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-130469151,130469151.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-135243705,135243705.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-138941853,138941853.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-139825840,139825840.01,FP(EB),Rp = 267 Re,Likely FP
-139825840,139825840.02,FP(EB),Rp = 267 Re,Likely FP
-141268467,141268467.01,FP(EB),Rp = 164 Re,Likely FP
-141268467,141268467.02,FP(EB),Rp = 164 Re,Likely FP
-141307678,141307678.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-141622065,141622065.01,FP(EB),Rp = 164 Re,Likely FP
-141622065,141622065.02,FP(EB),Rp = 164 Re,Likely FP
-141809359,141809359.01,FP(EB),Rp = 179 Re,Likely FP
-150429807,150429807.01,FP(EB),Rp = 43 Re,Likely FP
-150442264,150442264.01,FP(EB),EB,Likely FP
-151940400,151940400.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-153077619,153077619.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-153734545,153734545.01,FP(EB),"radius 77 earth radii; new CTOI likely member of NGC 2527     , PATHOS-14 in Nardiello et al. (2020)",Likely FP
-153735144,153735144.01,FP(EB),"radius 31 earth radii; new CTOI likely member of NGC 2527     , PATHOS-15 in Nardiello et al. (2020)",Likely FP
-158737091,158737091.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-178154917,178154917.01,FP(EB),WINE single transit,Likely FP
-180412528,180412528.01,FP(EB),Eccentric EB,Likely FP
-180412528,180412528.02,FP(EB),Eccentric EB,Likely FP
-198008002,198008002.01,FP(EB),"new CTOI; off target
-",Likely FP
-200321330,200321330.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-201256771,201256771.01,FP(EB),Rp = 42 Re,Likely FP
-201256771,201256771.02,FP(EB),Rp = 42 Re,Likely FP
-204497617,204497617.02,FP(EB),EB,Likely FP
-206462116,206462116.01,FP(EB),Rp = 131 Re,Likely FP
-206462116,206462116.02,FP(EB),Rp = 131 Re,Likely FP
-207080350,207080350.02,FP(EB),EB,Likely FP
-214517366,214517366.01,FP(EB),Single transit; Rp = 27 Re,Likely FP
-219254268,219254268.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-220076110,220076110.01,FP(EB),"new CTOI, Montalto et al. (2020); had odd-even in sector 6 but only 4 transits",Likely FP
-220402290,220402290.02,FP(EB),Rp = 52 Re,Likely FP
-220474209,220474209.02,FP(EB),EB,Likely FP
-220567625,220567625.01,FP(EB),Rp = 68 Re,Likely FP
-220567625,220567625.02,FP(EB),Rp = 68 Re,Likely FP
-224307602,224307602.01,FP(EB),Centroid offset on another star,Likely FP
-231833061,231833061.01,FP(EB),EB,Likely FP
-231833061,231833061.02,FP(EB),EB,Likely FP
-231860752,231860752.01,FP(EB),Rp = 43 Re,Likely FP
-233961334,233961334.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-234347951,234347951.01,FP(EB),Rp = 104 Re,Likely FP
-234347951,234347951.02,FP(EB),Rp = 104 Re,Likely FP
-251061007,251061007.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-253922296,253922296.02,FP(EB),Synchronized; secondary,Likely FP
-259784884,259784884.01,FP(EB),First 2 events seem spurious; third is real,Likely FP
-260639999,260639999.01,FP(EB),Too faint for QLP; possible single; centroid offset in SPOC,Likely FP
-263074592,263074592.01,FP(EB),Rp = 288 Re,Likely FP
-263074592,263074592.02,FP(EB),Rp = 288 Re,Likely FP
-265469420,265469420.01,FP(EB),Rp = 47 Re,Likely FP
-265469420,265469420.02,FP(EB),Rp = 47 Re,Likely FP
-267185423,267185423.01,FP(EB),Single transit; too large,Likely FP
-267608606,267608606.01,FP(EB),Multi or EB; investigate further,Likely FP
-270450687,270450687.02,FP(EB),Possibly EB primary transit to .01,Likely FP
-273792220,273792220.01,FP(EB),248 sigma odd-even,Likely FP
-273792220,273792220.02,FP(EB),248 sigma odd-even,Likely FP
-275083922,275083922.01,FP(EB),SPOC centroid offset centered near other star,Likely FP
-278683641,278683641.01,FP(EB),Rp = 74 Re,Likely FP
-278683641,278683641.02,FP(EB),Rp = 74 Re,Likely FP
-278784173,278784173.01,FP(EB),Rp = 35 Re,Likely FP
-278988794,278988794.01,FP(EB),Rp = 59 Re,Likely FP
-278988794,278988794.02,FP(EB),Rp = 59 Re,Likely FP
-278990954,278990954.01,FP(EB),EB in GV,Likely FP
-287328866,287328866.01,FP(EB),Rp =27.5 Re; ruled EB,Likely FP
-287328866,287328866.02,FP(EB),Rp =27.5 Re; ruled EB,Likely FP
-290049697,290049697.01,FP(EB),Single transit; too large to be planet,Likely FP
-300903537,300903537.03,FP(EB),Primary/secondary,Likely FP
-302495337,302495337.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-304339227,304339227.01,FP(EB),Centroid offset,Likely FP
-306667367,306667367.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-309658221,309658221.01,FP(EB),Rp = 37 Re,Likely FP
-309658221,309658221.02,FP(EB),Rp = 37 Re,Likely FP
-325469795,325469795.01,FP(EB),Rp = 211 Re,Likely FP
-325469795,325469795.02,FP(EB),Rp = 211 Re,Likely FP
-341492896,341492896.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-350479101,350479101.01,FP(EB),Rp = 54 Re,Likely FP
-364302118,364302118.01,FP(EB),Odd-even,Likely FP
-364302118,364302118.02,FP(EB),Odd-even,Likely FP
-369456296,369456296.01,FP(EB),Single transit; Rp = 25 Re; investigate further,Likely FP
-370324073,370324073.01,FP(EB),Rp = 51 Re,Likely FP
-370324073,370324073.02,FP(EB),Rp = 51 Re,Likely FP
-389927567,389927567.01,FP(EB),"new CTOI likely member of Melotte 101  , PATHOS-24 in Nardiello et al. (2020)",Likely FP
-394230860,394230860.01,FP(EB),Rp = 147 Re,Likely FP
-394230860,394230860.02,FP(EB),Rp = 147 Re,Likely FP
-404927661,404927661.01,FP(EB),Rp = 72 Re,Likely FP
-404927661,404927661.02,FP(EB),Rp = 72 Re,Likely FP
-406276109,406276109.02,FP(EB),Secondary,Likely FP
-410126347,410126347.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-441056702,441056702.01,FP(EB),Single transit; scattered light; centroid offset; background flux spikes around epoch 1371,Likely FP
-441422527,441422527.01,FP(EB),Rp = 65 Re,Likely FP
-11356662,11356662.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-25078924,25078924.01,FP(EB),Primary/secondary,Likely FP
-25078924,25078924.02,FP(EB),Primary/secondary,Likely FP
-25226885,25226885.01,FP(EB),Primary/secondary,Likely FP
-25226885,25226885.02,FP(EB),Primary/secondary,Likely FP
-25354620,25354620.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-29478974,29478974.01,FP(EB),Primary/secondary,Likely FP
-29478974,29478974.02,FP(EB),Primary/secondary,Likely FP
-29986808,29986808.01,FP(EB),Primary/secondary,Likely FP
-29986808,29986808.02,FP(EB),Primary/secondary,Likely FP
-12,30836645.01,FP(EB),Found with our in-house single transit finder,Likely FP
-31869740,31869740.01,FP(EB),new CTOI; secondary,Likely FP
-32150630,32150630.01,FP(EB),Primary/secondary,Likely FP
-32150630,32150630.02,FP(EB),Primary/secondary,Likely FP
-39018208,39018208.01,FP(EB),nan,Likely FP
-41896812,41896812.01,FP(EB),Primary/secondary,Likely FP
-41896812,41896812.02,FP(EB),Primary/secondary,Likely FP
-46627823,46627823.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-50380257,50380257.01,FP(EB),Synchronized; secondary,Likely FP
-52079677,52079677.01,FP(EB),Primary/secondary,Likely FP
-52079677,52079677.02,FP(EB),Primary/secondary,Likely FP
-52449797,52449797.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-54256015,54256015.01,FP(EB),newCTOI; large likely EB; 1000 ppm secondary,Likely FP
-55404385,55404385.01,FP(EB),Primary/secondary,Likely FP
-55404385,55404385.02,FP(EB),Primary/secondary,Likely FP
-55497281,55497281.01,FP(EB),Primary/secondary,Likely FP
-55524055,55524055.01,FP(EB),Primary/secondary,Likely FP
-55524055,55524055.02,FP(EB),Primary/secondary,Likely FP
-70442570,70442570.01,FP(EB),Primary/secondary,Likely FP
-70442570,70442570.02,FP(EB),Primary/secondary,Likely FP
-78740218,78740218.01,FP(EB),nan,Likely FP
-91369561,91369561.02,FP(EB),Primary/secondary,Likely FP
-91369561,91369561.03,FP(EB),Primary/secondary,Likely FP
-92320552,92320552.01,FP(EB),Preliminary Vetting with DAVE,Likely FP
-92350408,92350408.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-92594505,92594505.01,FP(EB),Too large,Likely FP
-99086567,99086567.01,FP(EB),newCTOI,Likely FP
-102169275,102169275.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-115115136,115115136.01,FP(EB),nan,Likely FP
-115115136,115115136.02,FP(EB),nan,Likely FP
-115410334,115410334.01,FP(EB),Centroid offset + depth-aperture correlation,Likely FP
-118084297,118084297.01,FP(EB),newCTOI; Y1 and s36 SPOC shows eccentric EB,Likely FP
-118084297,118084297.01,FP(EB),newCTOI,Likely FP
-121420805,121420805.01,FP(EB),Primary/secondary,Likely FP
-121420805,121420805.02,FP(EB),Primary/secondary,Likely FP
-122897814,122897814.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-126945917,126945917.01,FP(EB),Primary/secondary,Likely FP
-126945917,126945917.02,FP(EB),Primary/secondary,Likely FP
-129268651,129268651.01,FP(EB),nan,Likely FP
-135050395,135050395.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-136886352,136886352.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-137205922,137205922.01,FP(EB),33 Re,Likely FP
-140659980,140659980.01,FP(EB),nan,Likely FP
-140659980,140659980.02,FP(EB),nan,Likely FP
-140736015,140736015.01,FP(EB),52 Re,Likely FP
-141708335,141708335.01,FP(EB),Centroid offset centered on another star,Likely FP
-141770592,141770592.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-141809359,141809359.02,FP(EB),nan,Likely FP
-141943694,141943694.01,FP(EB),Centroid offset centered on another star,Likely FP
-142443425,142443425.01,FP(EB),new CTOI,Likely FP
-143924219,143924219.01,FP(EB),Primary/secondary,Likely FP
-143924219,143924219.02,FP(EB),Primary/secondary,Likely FP
-144000467,144000467.01,FP(EB),Primary/secondary,Likely FP
-144000467,144000467.02,FP(EB),Primary/secondary,Likely FP
-144284873,144284873.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-144462697,144462697.01,FP(EB),Primary/secondary,Likely FP
-144462697,144462697.02,FP(EB),Primary/secondary,Likely FP
-146129309,146129309.01,FP(EB),Some depth-aperture; PC in individual vetting; recon spectra show it's SB2,Likely FP
-147035057,147035057.01,FP(EB),Found with our in-house single transit finder,Likely FP
-148158540,148158540.01,FP(EB),Eccentric EB,Likely FP
-150101472,150101472.01,FP(EB),new CTOI,Likely FP
-150442264,150442264.02,FP(EB),nan,Likely FP
-152223725,152223725.01,FP(EB),Primary/secondary,Likely FP
-152223725,152223725.02,FP(EB),Primary/secondary,Likely FP
-153123407,153123407.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-160036449,160036449.01,FP(EB),Primary/secondary,Likely FP
-160036449,160036449.02,FP(EB),Primary/secondary,Likely FP
-161577376,161577376.01,FP(EB),Preliminary Vetting with DAVE.  There are 3 transits with centroids.,Likely FP
-162694128,162694128.01,FP(EB),Centroid offset and 4-sigma secondary,Likely FP
-165493409,165493409.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-165531514,165531514.01,FP(EB),Centroid offset on another star,Likely FP
-167554898,167554898.01,FP(EB),new CTOI,Likely FP
-167692429,167692429.01,FP(EB),Primary/secondary,Likely FP
-167692429,167692429.02,FP(EB),Primary/secondary,Likely FP
-167792080,167792080.01,FP(EB),Centroid offset centered on another star,Likely FP
-177350401,177350401.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-191672086,191672086.01,FP(EB),nan,Likely FP
-197760286,197760286.01,FP(EB),new CTOI,Likely FP
-198382308,198382308.02,FP(EB),Signal is secondary; centroid offset,Likely FP
-200324182,200324182.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-201234926,201234926.01,FP(EB),Too large,Likely FP
-201293780,201293780.01,FP(EB),Primary/secondary,Likely FP
-201293780,201293780.02,FP(EB),Primary/secondary,Likely FP
-204327008,204327008.01,FP(EB),Primary/secondary,Likely FP
-204327008,204327008.02,FP(EB),Primary/secondary,Likely FP
-204497617,204497617.01,FP(EB),Too large; secondary,Likely FP
-206556127,206556127.01,FP(EB),Too large,Likely FP
-207080350,207080350.01,FP(EB),Eccentric EB,Likely FP
-211380233,211380233.01,FP(EB),nan,Likely FP
-214299966,214299966.01,FP(EB),Signal is secondary,Likely FP
-219095755,219095755.01,FP(EB),Centroid offset on another star,Likely FP
-219151731,219151731.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-219207175,219207175.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-219308281,219308281.01,FP(EB),Primary/secondary,Likely FP
-219308281,219308281.02,FP(EB),Primary/secondary,Likely FP
-219322317,219322317.01,FP(EB),early year 1 report; priority 4/5; new CTOI,Likely FP
-219421728,219421728.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-219777401,219777401.01,FP(EB),Centroid offset on another star,Likely FP
-219780464,219780464.01,FP(EB),V-shaped; 4 sigma odd-even,Likely FP
-219865181,219865181.01,FP(EB),Centroid offset on another star,Likely FP
-220388567,220388567.01,FP(EB),Odd-even,Likely FP
-220402290,220402290.01,FP(EB),Primary/secondary,Likely FP
-220474209,220474209.01,FP(EB),Primary/secondary,Likely FP
-220523550,220523550.01,FP(EB),Primary/secondary,Likely FP
-220523550,220523550.02,FP(EB),Primary/secondary,Likely FP
-220595524,220595524.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-229487733,229487733.01,FP(EB),26 full transits,Likely FP
-229597404,229597404.01,FP(EB),Deep secondary away from phase 0.5,Likely FP
-229778990,229778990.01,FP(EB),Centroid offset on another star,Likely FP
-229808144,229808144.01,FP(EB),Primary/secondary,Likely FP
-229808144,229808144.02,FP(EB),Primary/secondary,Likely FP
-230023734,230023734.01,FP(EB),"U-shaped, very weak & uncertain secondary.",Likely FP
-230050959,230050959.01,FP(EB),1350 ppm secondary,Likely FP
-231279823,231279823.01,FP(EB),Centroid offset centered on another star,Likely FP
-231714759,231714759.01,FP(EB),Primary/secondary,Likely FP
-231714759,231714759.02,FP(EB),Primary/secondary,Likely FP
-231840927,231840927.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-233051157,233051157.01,FP(EB),Centroid offset on another star,Likely FP
-233058265,233058265.01,FP(EB),Deep secondary away from phase 0.5,Likely FP
-233208635,233208635.01,FP(EB),Depth-aperture correlation,Likely FP
-233714939,233714939.01,FP(EB),Secondary; depth-aperture correlation,Likely FP
-233744223,233744223.01,FP(EB),26 Re at 44 d,Likely FP
-234503282,234503282.01,FP(EB),nan,Likely FP
-235009317,235009317.01,FP(EB),Primary/secondary,Likely FP
-235009317,235009317.02,FP(EB),Primary/secondary,Likely FP
-236761861,236761861.01,FP(EB),25 Re,Likely FP
-237236168,237236168.01,FP(EB),Significant depth-aperture correlation,Likely FP
-237332597,237332597.01,FP(EB),Primary/secondary,Likely FP
-237332597,237332597.02,FP(EB),Primary/secondary,Likely FP
-238082493,238082493.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-238235254,238235254.01,FP(EB),"new CTOI likely member of Velorum association, PATHOS-39 in Nardiello (2020)",Likely FP
-238616144,238616144.01,FP(EB),nan,Likely FP
-251087387,251087387.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-253922296,253922296.01,FP(EB),nan,Likely FP
-253928535,253928535.01,FP(EB),Odd-even,Likely FP
-256865091,256865091.01,FP(EB),Deep secondary away from phase 0.5,Likely FP
-257648522,257648522.01,FP(EB),KELT FP; new CTOI,Likely FP
-258918835,258918835.01,FP(EB),Centroid offset on another star,Likely FP
-260502102,260502102.01,FP(EB),Primary/secondary,Likely FP
-260502102,260502102.02,FP(EB),Primary/secondary,Likely FP
-261107974,261107974.01,FP(EB),Centroid offset centered on another star,Likely FP
-261335113,261335113.01,FP(EB),Primary/secondary,Likely FP
-261335113,261335113.02,FP(EB),Primary/secondary,Likely FP
-264051559,264051559.01,FP(EB),new CTOI,Likely FP
-265279725,265279725.01,FP(EB),sector 34 only- good fit to model transits,Likely FP
-265489698,265489698.01,FP(EB),Primary/secondary,Likely FP
-265489698,265489698.02,FP(EB),Primary/secondary,Likely FP
-265613590,265613590.01,FP(EB),Primary/secondary,Likely FP
-265613590,265613590.02,FP(EB),Primary/secondary,Likely FP
-266996791,266996791.01,FP(EB),Primary/secondary,Likely FP
-266996791,266996791.02,FP(EB),Primary/secondary,Likely FP
-269698422,269698422.01,FP(EB),new CTOI,Likely FP
-269829384,269829384.01,FP(EB),Primary/secondary,Likely FP
-269829384,269829384.02,FP(EB),Primary/secondary,Likely FP
-270677759,270677759.01,FP(EB),Centroid offset centered on another star,Likely FP
-272357134,272357134.01,FP(EB),nan,Likely FP
-272357134,272357134.02,FP(EB),nan,Likely FP
-275570329,275570329.01,FP(EB),EB Kepler-854 b,Likely FP
-277649549,277649549.01,FP(EB),Primary/secondary,Likely FP
-277649549,277649549.02,FP(EB),Primary/secondary,Likely FP
-279314488,279314488.01,FP(EB),Primary/secondary,Likely FP
-279314488,279314488.02,FP(EB),Primary/secondary,Likely FP
-284206913,284206913.01,FP(EB),Identification and vetting detailed in https://arxiv.org/abs/2101.10919.,Likely FP
-284990199,284990199.01,FP(EB),new CTOI,Likely FP
-290044434,290044434.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-293480903,293480903.01,FP(EB),Primary/secondary,Likely FP
-293480903,293480903.02,FP(EB),Primary/secondary,Likely FP
-293689267,293689267.01,FP(EB),nan,Likely FP
-300560295,300560295.01,FP(EB),Too large + secondary,Likely FP
-300903537,300903537.01,FP(EB),9000 ppm secondary,Likely FP
-300903537,300903537.02,FP(EB),Primary/secondary,Likely FP
-303909865,303909865.01,FP(EB),Primary/secondary,Likely FP
-303909865,303909865.02,FP(EB),Primary/secondary,Likely FP
-306385801,306385801.01,FP(EB),Large; killed in GV; recon spectra show it's SB2,Likely FP
-306828113,306828113.01,FP(EB),newCTOI; significant odd even; very v-shaped; short period; EB,Likely FP
-308425348,308425348.01,FP(EB),Significant depth-aperture correlation in QLP report; no match on simbad;alerted by mistake,Likely FP
-308851582,308851582.01,FP(EB),Primary/secondary,Likely FP
-308851582,308851582.02,FP(EB),Primary/secondary,Likely FP
-308991822,308991822.01,FP(EB),EB; primary/secondary,Likely FP
-309146836,309146836.01,FP(EB),Primary/secondary,Likely FP
-309146836,309146836.02,FP(EB),Primary/secondary,Likely FP
-318357083,318357083.01,FP(EB),"RUWE binarity score = 0.95.  Found several transits, and it looks like a 'U'.",Likely FP
-325205605,325205605.01,FP(EB),Primary/secondary,Likely FP
-325205605,325205605.02,FP(EB),Primary/secondary,Likely FP
-326356701,326356701.01,FP(EB),Primary/secondary,Likely FP
-326356701,326356701.02,FP(EB),Primary/secondary,Likely FP
-341983711,341983711.01,FP(EB),Centroid offset centered on another star,Likely FP
-344087362,344087362.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-349154435,349154435.01,FP(EB),Primary/secondary,Likely FP
-349154435,349154435.02,FP(EB),Primary/secondary,Likely FP
-349518145,349518145.01,FP(EB),nan,Likely FP
-350479101,350479101.02,FP(EB),EB; too large,Likely FP
-350480660,350480660.01,FP(EB),Preliminary Vetting with DAVE,Likely FP
-352915304,352915304.01,FP(EB),Centroid offset centered on another star,Likely FP
-355601117,355601117.01,FP(EB),nan,Likely FP
-355601117,355601117.02,FP(EB),nan,Likely FP
-358457398,358457398.01,FP(EB),Primary/secondary,Likely FP
-358457398,358457398.02,FP(EB),Primary/secondary,Likely FP
-360205899,360205899.01,FP(EB),EB; primary/secondary,Likely FP
-372913337,372913337.01,FP(EB),"new CTOI likely member of NGC 2516     , PATHOS-23 in Nardiello et al. (2020)",Likely FP
-374732772,374732772.01,FP(EB),"new CTOI likely member of Lupus association  , PATHOS-42 in Nardiello (2020)",Likely FP
-381854774,381854774.01,FP(EB),Odd-even; v-shaped; large,Likely FP
-381856446,381856446.01,FP(EB),Preliminary Vetting with DAVE,Likely FP
-382260153,382260153.01,FP(EB),new CTOI; centroid offset,Likely FP
-382517745,382517745.01,FP(EB),nan,Likely FP
-382517745,382517745.02,FP(EB),nan,Likely FP
-388128308,388128308.01,FP(EB),nan,Likely FP
-394585218,394585218.01,FP(EB),Primary/secondary,Likely FP
-394585218,394585218.02,FP(EB),Primary/secondary,Likely FP
-406276109,406276109.01,FP(EB),Eccentric EB,Likely FP
-406681360,406681360.01,FP(EB),31 Re,Likely FP
-407584737,407584737.01,FP(EB),Primary/secondary,Likely FP
-407584737,407584737.02,FP(EB),Primary/secondary,Likely FP
-419744996,419744996.01,FP(EB),Primary/secondary,Likely FP
-419744996,419744996.02,FP(EB),Primary/secondary,Likely FP
-438524691,438524691.01,FP(EB),newCTOI,Likely FP
-439366537,439366537.01,FP(EB),"new CTOI, Montalto et al. (2020)",Likely FP
-441422220,441422220.01,FP(EB),Primary/secondary,Likely FP
-441422220,441422220.02,FP(EB),Primary/secondary,Likely FP
+TIC,CTOI,Period (exofop),Period (TEV),Notes,Public comment,TEV Disposition,CTOI Designation
+120311283.0,120311283.01,nan,9.2709,CTOI epoch = 1701.6138 TBJD matches to TEV signal,secondary; RV error 6.95 km/s,EB,Likely FP
+123496379.0,123496379.01,nan,34.6573,CTOI epoch = 1699.4466 TBJD matches to TEV signal,200 ppm secondary; RV error 17.6 km/s,EB,Likely FP
+190885165.0,190885165.01,1.649,1.649165088,synchronized,Variability phased with transits; spin and orbit sychronized with transits; small star does not irradiate enough to inflate a hot Jupiter; likely EB rather than large PC,EB,Likely FP
+230130556.0,230130556.01,-,22.2584,too large to be inflated hot jupiter; CTOI epoch = 2645.14 TBJD matches to TEV signal,Too large; not possible as an inflated HJ,EB,Likely FP
+246966307.0,246966307.01,6.629,6.63643258,NEB; centroid offset on TIC 246966304,nan,EB,Likely FP
+257395093.0,257395093.01,14.4,14.41921845,EB in quadruple star system,14.41 day EB in quadruple star system (Rappaport et. al 2017),EB,Likely FP
+333785427.0,333785427.01,1.579,1.57934,synchronized; likely EB,250 ppm secondary; synchronized,EB,Likely FP
+356632361.0,356632361.01,2.611,2.61149,in spoc-s49-b02 noted to be synchronized with a secondary,Synchronization drifts; secondary consistent with a planet; v-shaped,EB,Likely FP
+358487062.0,358487062.01,5.502,5.5051606,source is TIC 358487041,nan,EB,Likely FP
+434133200.0,434133200.01,14.131,14.1421506,half phase coverage with spoc-s42-s46 so period can't be half; too large for insolation,nan,EB,Likely FP
+461634737.0,461634737.01,4.23,4.229605319,NEB; Clear centroid offset on TIC 41634738 in spoc-s14s16-b02,Clear centroid offset on TIC 41634738 in spoc-s14s16-b02; CTOI from Alton Spencer; two stars nearby; also found in faint-star QLP search,EB,Likely FP
+95839645.0,95839645.01,0.896,0.89625,"new CTOI, Montalto et al. (2020); 7/8 sigma odd-even in TEC plots for SPOC s61",nan,EB,Likely FP
+364400981.0,364400981.01,1.94,nan,"All data obtained using the LightKurve framework; has a report made, but I think this is an EB with a slightly eccentric orbit. There is a significant secondary just beyond phase 0.5.",nan,FP (EB),Likely FP
+10697188.0,10697188.01,5.44,nan,"Camera 2, CCD 1, Column 2051, Row 1597, Sector 18, Mission TESS",qlp s18 report Rp ~ 47 Re; EB,FP(EB),Likely FP
+10697190.0,10697190.01,5.44,nan,"Camera 2, CCD 1, Column 2051, Row 1597, Sector 18, Mission TESS",qlp s18 report Rp ~ 43 Re; EB,FP(EB),Likely FP
+28799599.0,28799599.01,3.577,nan,"hot Jupiter candidate around evolved star. nearby companion, needs SG1 followup; off target according to difference image",nan,FP(EB),Likely FP
+37692356.0,37692356.01,2.7,nan,"Camera 2. CCD 3, Column 1887, Row 1839, Sector 8, Possible binary system; secondary visible in Y1 QLP; Rp ~ 32 Re; EB",nan,FP(EB),Likely FP
+46029346.0,46029346.01,1.381,nan,Synchronized with stellar variability; large,nan,FP(EB),Likely FP
+83703886.0,83703886.01,0.58,nan,"Camera 1, CCD 4, Column 535, Row 642, Sector 11; QLP report at 2x CTOI period has strong odd-even; likely EB",nan,FP(EB),Likely FP
+92880493.0,92880493.01,1.04,nan,"All data are obtained using the TESS data and LightKurve Framework; FP: significant secondary, V-shaped, and has significant depth-aperture correlation ",nan,FP(EB),Likely FP
+120861864.0,120861864.01,18,nan,"Camera 2, CCD 1, Column 1817, Row 239, Sector 10; clear odd-even in QLP report with 2x CTOI period; Rp ~ 83 Re",nan,FP(EB),Likely FP
+138772345.0,138772345.01,8.57,nan,"Camera 1, CCD 2, Column 1193, Row 1317, Sector 22; Rp ~ 69 Re from QLP report with same period and epoch; secondary",nan,FP(EB),Likely FP
+178414921.0,178414921.01,1.2,nan,"Camera 2, CCD 2, Column 2018, Row 1017, Sector 9; v-shaped; Rp ~43.5 Re",nan,FP(EB),Likely FP
+186941307.0,186941307.01,1.05,nan,"Camera 1, CCD 2, Column 1063, Row 964, Sector 18; off target EB; significant depth-aperture correlation",nan,FP(EB),Likely FP
+202152389.0,202152389.01,8.43,nan,"Camera 2, CCD 1, Column 1885, Row 1962, Sector 17, unclear orbital period; Rp ~ 125 Re;",nan,FP(EB),Likely FP
+224327878.0,224327878.01,0.67,0.66997,34 transits; either full transit or nearly full.,nan,FP(EB),Likely FP
+234945462.0,234945462.01,7.08,nan,"Camera 1, CCD 2, Column 965, Row 1422, Sector 6; period is off in qlp report; eccentric eclipsing binary",nan,FP(EB),Likely FP
+302926645.0,302926645.01,nan,nan,Found with our in-house single transit finder; off target in SPOC s6,nan,FP(EB),Likely FP
+311413113.0,311413113.01,18.66,nan,"Camera 2, CCD 2, Column 1261, Row 164, Sector 12; off-target EB; significant depth aperture correlation and secondary",nan,FP(EB),Likely FP
+399868187.0,399868187.02,6.485,nan,WINE hot Jupiter; TFOPWG FP; NEB,nan,FP(EB),Likely FP
+428962300.0,428962300.01,2.942,nan,hot Jupiter candidate around evolved star; EB at 2x CTOI period; CTOI is likely secondaries,nan,FP(EB),Likely FP
+438591493.0,438591493.01,7.98,nan,"Camera 2, CCD 4, Column 1178, Row 446, Sector 11; ; secondary visible in Y1 QLP; Rp ~ 29.3 Re; EB",nan,FP(EB),Likely FP
+438727861.0,438727861.01,3.46,nan,"Camera 2, CCD 4, Column 341, Row 1818, Sector 11; eclipsing binary (15 sigma odd-even)",nan,FP(EB),Likely FP
+444222135.0,444222135.01,3.038,nan,Eccentric EB from outside sources,nan,FP(EB),Likely FP
+450087539.0,450087539.01,1.75,nan,"Camera 1, CCD 3, Column 1173, Row 1470, Sector 5; Rp ~ 35.4 Re in Y1 qlp",nan,FP(EB),Likely FP
+8963901.0,8963901.01,0.485,0.9639,Rp = 300 Re; non-transit signal,nan,FP(EB),Likely FP
+13093071.0,13093071.01,nan,25.0001,WINE single transit,nan,FP(EB),Likely FP
+29667425.0,29667425.01,nan,8.1135,Single transit; centroid offset but not centered on anything; background light spikes at epoch 1342,nan,FP(EB),Likely FP
+39018208.0,39018208.02,6.66,6.6493; 6.6495,2000 ppm secondary,nan,FP(EB),Likely FP
+55659311.0,55659311.01,nan,16.805; 16.756,Rp = 90 Re,nan,FP(EB),Likely FP
+55659311.0,55659311.02,nan,16.805; 16.756,Rp = 90 Re,nan,FP(EB),Likely FP
+61710042.0,61710042.01,1.888,0.94555,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+65450588.0,65450588.01,0.649,0.64873,"new CTOI, Montalto et al. (2020)",two stars in center pixel; needs SG1 to follow up,FP(EB),Likely FP
+67747088.0,67747088.01,nan,"6.7058, 12.7231",v-shaped; weak; centroid offset; Found with our in-house single transit finder; additional partial transit; Sector 32,nan,FP(EB),Likely FP
+72985912.0,72985912.01,1.68,1.68051,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+91369561.0,91369561.01,0.077,3.9837; 3.9875,Rp = 77 Re,nan,FP(EB),Likely FP
+92349924.0,92349924.02,nan,8.8031; 12.1403,Rp = 27 Re; v-shaped,nan,FP(EB),Likely FP
+92349924.0,92349924.03,nan,8.8031; 12.1403,Rp = 27 Re; v-shaped,nan,FP(EB),Likely FP
+92896631.0,92896631.01,5.639,5.6583,Looks good but could be too large; odd-even; recon spectra shows composite; likely SB2,nan,FP(EB),Likely FP
+100029948.0,100029948.01,2.778,1.3888,Rp = 79 Re; odd-even,nan,FP(EB),Likely FP
+100029948.0,100029948.02,2.775,1.3888,Rp = 79 Re; odd-even,nan,FP(EB),Likely FP
+124852105.0,124852105.01,0.27,0.26952,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+130469151.0,130469151.01,2.403,nan,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+135243705.0,135243705.01,2.659,2.65926,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+138941853.0,138941853.01,11.59,11.6007,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+139825840.0,139825840.01,7.668,3.844,Rp = 267 Re,nan,FP(EB),Likely FP
+139825840.0,139825840.02,7.701,3.844,Rp = 267 Re,nan,FP(EB),Likely FP
+141268467.0,141268467.01,4.181,2.0902; 2.0889,Rp = 164 Re,nan,FP(EB),Likely FP
+141268467.0,141268467.02,4.175,2.0902; 2.0889,Rp = 164 Re,nan,FP(EB),Likely FP
+141307678.0,141307678.01,15.891,7.9419,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+141622065.0,141622065.01,2.952,1.464,Rp = 164 Re,nan,FP(EB),Likely FP
+141622065.0,141622065.02,3,1.464,Rp = 164 Re,nan,FP(EB),Likely FP
+141809359.0,141809359.01,12.149,12.1585; 12.1574,Rp = 179 Re,nan,FP(EB),Likely FP
+150429807.0,150429807.01,nan,26.2247; 15.2182,Rp = 43 Re,nan,FP(EB),Likely FP
+150442264.0,150442264.01,1.653,14.4139; 38.1634; 2.9817; 11.8572; 2.9818; 2.9817; 10.7795; 5.9614; 11.5175; 2.9818,EB,nan,FP(EB),Likely FP
+151940400.0,151940400.01,3.558,3.5576,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+153077619.0,153077619.01,18.083,6.0256,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+153734545.0,153734545.01,3.22,3.219,"radius 77 earth radii; new CTOI likely member of NGC 2527     , PATHOS-14 in Nardiello et al. (2020)",nan,FP(EB),Likely FP
+153735144.0,153735144.01,3.779,3.7787,"radius 31 earth radii; new CTOI likely member of NGC 2527     , PATHOS-15 in Nardiello et al. (2020)",nan,FP(EB),Likely FP
+158737091.0,158737091.01,0.517,0.51718,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+178154917.0,178154917.01,nan,"11.8511, 40.0917",WINE single transit,nan,FP(EB),Likely FP
+180412528.0,180412528.01,4.588,2.2936; 13.0032,Eccentric EB,nan,FP(EB),Likely FP
+180412528.0,180412528.02,4.589,2.2936; 13.0032,Eccentric EB,nan,FP(EB),Likely FP
+198008002.0,198008002.01,6.56,3.2797,"new CTOI; off target
+",nan,FP(EB),Likely FP
+200321330.0,200321330.01,1.815,1.81523,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+201256771.0,201256771.01,3.755,1.8806,Rp = 42 Re,nan,FP(EB),Likely FP
+201256771.0,201256771.02,3.767,1.8806,Rp = 42 Re,nan,FP(EB),Likely FP
+204497617.0,204497617.02,3.18,1.5892; 1.5892,EB,nan,FP(EB),Likely FP
+206462116.0,206462116.01,2.974,1.4837,Rp = 131 Re,nan,FP(EB),Likely FP
+206462116.0,206462116.02,2.969,1.4837,Rp = 131 Re,nan,FP(EB),Likely FP
+207080350.0,207080350.02,18.382,6.2375; 9.1069; 9.1069,EB,nan,FP(EB),Likely FP
+214517366.0,214517366.01,nan,20.9616,Single transit; Rp = 27 Re,nan,FP(EB),Likely FP
+219254268.0,219254268.01,6.955,6.95526,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+220076110.0,220076110.01,4.808,4.80649,"new CTOI, Montalto et al. (2020); had odd-even in sector 6 but only 4 transits",nan,FP(EB),Likely FP
+220402290.0,220402290.02,0.722,0.7853; 0.7853,Rp = 52 Re,nan,FP(EB),Likely FP
+220474209.0,220474209.02,0.942,1.9603; 0.9811; 24.5475; 0.9801,EB,nan,FP(EB),Likely FP
+220567625.0,220567625.01,19.444,44.9483; 55.16; 51.3871; 18.6113; 10.4999; 55.5924,Rp = 68 Re,nan,FP(EB),Likely FP
+220567625.0,220567625.02,nan,44.9483; 55.16; 51.3871; 18.6113; 10.4999; 55.5924,Rp = 68 Re,nan,FP(EB),Likely FP
+224307602.0,224307602.01,0,17.215,Centroid offset on another star,PHT candidate. Single transit event.,FP(EB),Likely FP
+231833061.0,231833061.01,nan,26.1556; 26.1877,EB,nan,FP(EB),Likely FP
+231833061.0,231833061.02,nan,26.1556; 26.1877,EB,nan,FP(EB),Likely FP
+231860752.0,231860752.01,0.989,1.9599,Rp = 43 Re,nan,FP(EB),Likely FP
+233961334.0,233961334.01,1.153,1.15256,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+234347951.0,234347951.01,nan,23.3043; 6.1164,Rp = 104 Re,nan,FP(EB),Likely FP
+234347951.0,234347951.02,nan,23.3043; 6.1164,Rp = 104 Re,nan,FP(EB),Likely FP
+251061007.0,251061007.01,2.621,2.62081,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+253922296.0,253922296.02,9.426,3.1386; 3.1417,Synchronized; secondary,nan,FP(EB),Likely FP
+259784884.0,259784884.01,nan,9.6613,First 2 events seem spurious; third is real,nan,FP(EB),Likely FP
+260639999.0,260639999.01,22.635,16.7643,Too faint for QLP; possible single; centroid offset in SPOC,nan,FP(EB),Likely FP
+263074592.0,263074592.01,8.376,19.5809; 16.3529; 8.0703,Rp = 288 Re,nan,FP(EB),Likely FP
+263074592.0,263074592.02,8.413,19.5809; 16.3529; 8.0703,Rp = 288 Re,nan,FP(EB),Likely FP
+265469420.0,265469420.01,nan,15.5267,Rp = 47 Re,nan,FP(EB),Likely FP
+265469420.0,265469420.02,nan,15.5267,Rp = 47 Re,nan,FP(EB),Likely FP
+267185423.0,267185423.01,nan,11.2268,Single transit; too large,nan,FP(EB),Likely FP
+267608606.0,267608606.01,0,8.3251,Multi or EB; investigate further,nan,FP(EB),Likely FP
+270450687.0,270450687.02,0,42.7131,Possibly EB primary transit to .01,nan,FP(EB),Likely FP
+273792220.0,273792220.01,1.987,28.822; 22.9961; 9.8263; 13.578; 18.2389; 0.9939,248 sigma odd-even,nan,FP(EB),Likely FP
+273792220.0,273792220.02,1.987,28.822; 22.9961; 9.8263; 13.578; 18.2389; 0.9939,248 sigma odd-even,nan,FP(EB),Likely FP
+275083922.0,275083922.01,7.404,2.9286; 14.8333,SPOC centroid offset centered near other star,nan,FP(EB),Likely FP
+278683641.0,278683641.01,4.252,4.2414; 4.2419,Rp = 74 Re,nan,FP(EB),Likely FP
+278683641.0,278683641.02,4.26,4.2414; 4.2419,Rp = 74 Re,nan,FP(EB),Likely FP
+278784173.0,278784173.01,1.497,0.7474,Rp = 35 Re,nan,FP(EB),Likely FP
+278988794.0,278988794.01,7.503,15.184; 7.5916,Rp = 59 Re,nan,FP(EB),Likely FP
+278988794.0,278988794.02,3.808,15.184; 7.5916,Rp = 59 Re,nan,FP(EB),Likely FP
+278990954.0,278990954.01,0,10.393,EB in GV,Planet Hunters TESS candidate. Single transit event.,FP(EB),Likely FP
+287328866.0,287328866.01,2.063,0.9616; 0.9614; 1.0384; 0.9616; 0.9616; 0.9616,Rp =27.5 Re; ruled EB,nan,FP(EB),Likely FP
+287328866.0,287328866.02,2.08,0.9616; 0.9614; 1.0384; 0.9616; 0.9616; 0.9616,Rp =27.5 Re; ruled EB,nan,FP(EB),Likely FP
+290049697.0,290049697.01,nan,12.4277,Single transit; too large to be planet,nan,FP(EB),Likely FP
+300903537.0,300903537.03,nan,5.823336,Primary/secondary,nan,FP(EB),Likely FP
+302495337.0,302495337.01,2.25,2.24778,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+304339227.0,304339227.01,0,9.0521,Centroid offset,PHT candidate. Single transit event.,FP(EB),Likely FP
+306667367.0,306667367.01,10.049,10.049,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+309658221.0,309658221.01,7.587,3.7975,Rp = 37 Re,nan,FP(EB),Likely FP
+309658221.0,309658221.02,7.59,3.7975,Rp = 37 Re,nan,FP(EB),Likely FP
+325469795.0,325469795.01,nan,17.4569,Rp = 211 Re,nan,FP(EB),Likely FP
+325469795.0,325469795.02,nan,17.4569,Rp = 211 Re,nan,FP(EB),Likely FP
+341492896.0,341492896.01,3.732,3.7331,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+350479101.0,350479101.01,nan,54.0977; 11.9169; 57.2133; 54.9704,Rp = 54 Re,nan,FP(EB),Likely FP
+364302118.0,364302118.01,1.347,34.8206; 0.6727; 0.6728; 0.6727,Odd-even,nan,FP(EB),Likely FP
+364302118.0,364302118.02,1.349,34.8206; 0.6727; 0.6728; 0.6727,Odd-even,nan,FP(EB),Likely FP
+369456296.0,369456296.01,nan,11.4021,Single transit; Rp = 25 Re; investigate further,nan,FP(EB),Likely FP
+370324073.0,370324073.01,nan,7.8428; 6.5837,Rp = 51 Re,nan,FP(EB),Likely FP
+370324073.0,370324073.02,nan,7.8428; 6.5837,Rp = 51 Re,nan,FP(EB),Likely FP
+389927567.0,389927567.01,6.941,6.9418,"new CTOI likely member of Melotte 101  , PATHOS-24 in Nardiello et al. (2020)",too large; radius 73 earth radii,FP(EB),Likely FP
+394230860.0,394230860.01,nan,10.9347,Rp = 147 Re,nan,FP(EB),Likely FP
+394230860.0,394230860.02,nan,10.9347,Rp = 147 Re,nan,FP(EB),Likely FP
+404927661.0,404927661.01,18.535,95.3949; 11.3702; 13.205; 88.3725,Rp = 72 Re,nan,FP(EB),Likely FP
+404927661.0,404927661.02,nan,95.3949; 11.3702; 13.205; 88.3725,Rp = 72 Re,nan,FP(EB),Likely FP
+406276109.0,406276109.02,7.556,7.5472; 7.5478,Secondary,nan,FP(EB),Likely FP
+410126347.0,410126347.01,1.413,1.4272,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+441056702.0,441056702.01,6.342,nan,Single transit; scattered light; centroid offset; background flux spikes around epoch 1371,nan,FP(EB),Likely FP
+441422527.0,441422527.01,0.208,0.373; 0.3729,Rp = 65 Re,nan,FP(EB),Likely FP
+11356662.0,11356662.01,3.249,3.245846,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+25078924.0,25078924.01,0.91,0.904341,Primary/secondary,nan,FP(EB),Likely FP
+25078924.0,25078924.02,0.9,0.904341,Primary/secondary,nan,FP(EB),Likely FP
+25226885.0,25226885.01,1.631,1.632095,Primary/secondary,nan,FP(EB),Likely FP
+25226885.0,25226885.02,1.63,1.632095,Primary/secondary,nan,FP(EB),Likely FP
+25354620.0,25354620.01,5.023,5.026564,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+29478974.0,29478974.01,24.903,24.907366,Primary/secondary,nan,FP(EB),Likely FP
+29478974.0,29478974.02,12.458,12.453897,Primary/secondary,nan,FP(EB),Likely FP
+29986808.0,29986808.01,2.134,2.118708,Primary/secondary,nan,FP(EB),Likely FP
+29986808.0,29986808.02,2.123,2.118708,Primary/secondary,nan,FP(EB),Likely FP
+12.84663084,30836645.01,17.283,17.2833,Found with our in-house single transit finder,nan,FP(EB),Likely FP
+31869740.0,31869740.01,4.429,4.427,new CTOI; secondary,nan,FP(EB),Likely FP
+32150630.0,32150630.01,1.494,1.490921,Primary/secondary,nan,FP(EB),Likely FP
+32150630.0,32150630.02,1.489,1.490921,Primary/secondary,nan,FP(EB),Likely FP
+39018208.0,39018208.01,6.646,6.649337,nan,nan,FP(EB),Likely FP
+41896812.0,41896812.01,1.259,1.260549,Primary/secondary,nan,FP(EB),Likely FP
+41896812.0,41896812.02,1.263,1.260549,Primary/secondary,nan,FP(EB),Likely FP
+46627823.0,46627823.01,6.005,6.004997,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+50380257.0,50380257.01,1.349,1.348477,Synchronized; secondary,nan,FP(EB),Likely FP
+52079677.0,52079677.01,9.035,9.029811,Primary/secondary,nan,FP(EB),Likely FP
+52079677.0,52079677.02,9.042,9.029811,Primary/secondary,nan,FP(EB),Likely FP
+52449797.0,52449797.01,2.45,4.899041,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+54256015.0,54256015.01,4.904,4.9045,newCTOI; large likely EB; 1000 ppm secondary,nan,FP(EB),Likely FP
+55404385.0,55404385.01,2.95,2.952049,Primary/secondary,nan,FP(EB),Likely FP
+55404385.0,55404385.02,2.95,2.952049,Primary/secondary,nan,FP(EB),Likely FP
+55497281.0,55497281.01,14.903,14.90555,Primary/secondary,nan,FP(EB),Likely FP
+55524055.0,55524055.01,2.649,2.649465,Primary/secondary,nan,FP(EB),Likely FP
+55524055.0,55524055.02,2.649,2.649465,Primary/secondary,nan,FP(EB),Likely FP
+70442570.0,70442570.01,11.527,11.527153,Primary/secondary,nan,FP(EB),Likely FP
+70442570.0,70442570.02,11.5,11.527153,Primary/secondary,nan,FP(EB),Likely FP
+78740218.0,78740218.01,2.56,2.558682,nan,nan,FP(EB),Likely FP
+91369561.0,91369561.02,3.993,3.983716,Primary/secondary,nan,FP(EB),Likely FP
+91369561.0,91369561.03,3.992,3.983716,Primary/secondary,nan,FP(EB),Likely FP
+92320552.0,92320552.01,1.623,1.622,Preliminary Vetting with DAVE,nan,FP(EB),Likely FP
+92350408.0,92350408.01,2.956,2.957841,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+92594505.0,92594505.01,22.869,22.870032,Too large,nan,FP(EB),Likely FP
+99086567.0,99086567.01,11.85,11.857,newCTOI,off target in spoc s33 and spoc s34,FP(EB),Likely FP
+102169275.0,102169275.01,6.55,6.5499,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+115115136.0,115115136.01,3.971,3.961847,nan,nan,FP(EB),Likely FP
+115115136.0,115115136.02,4,3.961847,nan,nan,FP(EB),Likely FP
+115410334.0,115410334.01,13.424,13.442,Centroid offset + depth-aperture correlation,"seems close to a grazing transit, but not quite.",FP(EB),Likely FP
+118084297.0,118084297.01,15.803,15.803,newCTOI; Y1 and s36 SPOC shows eccentric EB,nan,FP(EB),Likely FP
+118084297.0,118084297.01,15.803,15.797,newCTOI,nan,FP(EB),Likely FP
+121420805.0,121420805.01,1.72,1.716666,Primary/secondary,nan,FP(EB),Likely FP
+121420805.0,121420805.02,1.72,1.716666,Primary/secondary,nan,FP(EB),Likely FP
+122897814.0,122897814.01,3.2,3.2003,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+126945917.0,126945917.01,1.348,1.341009,Primary/secondary,nan,FP(EB),Likely FP
+126945917.0,126945917.02,1.342,1.341009,Primary/secondary,nan,FP(EB),Likely FP
+129268651.0,129268651.01,5.965,5.962751,nan,primary with a secondary,FP(EB),Likely FP
+135050395.0,135050395.01,6.76,6.76,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+136886352.0,136886352.01,2.722,1.3589,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+137205922.0,137205922.01,3.3,3.2996,33 Re,V/U-shaped graze but no secondary. Coincides with stellar variability,FP(EB),Likely FP
+140659980.0,140659980.01,9.442,9.440329,nan,nan,FP(EB),Likely FP
+140659980.0,140659980.02,9.438,9.440329,nan,nan,FP(EB),Likely FP
+140736015.0,140736015.01,7.314,7.313,52 Re,"V-shaped grazing transit, no secondary",FP(EB),Likely FP
+141708335.0,141708335.01,4.762,4.760993,Centroid offset centered on another star,nan,FP(EB),Likely FP
+141770592.0,141770592.01,12.125,12.12459,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+141809359.0,141809359.02,12.161,12.158472,nan,nan,FP(EB),Likely FP
+141943694.0,141943694.01,1.836,1.83475,Centroid offset centered on another star,nan,FP(EB),Likely FP
+142443425.0,142443425.01,0.308,0.30825,new CTOI,nan,FP(EB),Likely FP
+143924219.0,143924219.01,2.818,2.820099,Primary/secondary,nan,FP(EB),Likely FP
+143924219.0,143924219.02,2.815,2.820099,Primary/secondary,nan,FP(EB),Likely FP
+144000467.0,144000467.01,8.883,8.883343,Primary/secondary,nan,FP(EB),Likely FP
+144000467.0,144000467.02,8.884,8.883343,Primary/secondary,nan,FP(EB),Likely FP
+144284873.0,144284873.01,0.893,0.893054,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+144462697.0,144462697.01,1.233,1.233992,Primary/secondary,nan,FP(EB),Likely FP
+144462697.0,144462697.02,1.235,1.233992,Primary/secondary,nan,FP(EB),Likely FP
+146129309.0,146129309.01,3.214,3.2151,Some depth-aperture; PC in individual vetting; recon spectra show it's SB2,nan,FP(EB),Likely FP
+147035057.0,147035057.01,nan,11.5578,Found with our in-house single transit finder,too big; EB,FP(EB),Likely FP
+148158540.0,148158540.01,1.849,1.849554,Eccentric EB,nan,FP(EB),Likely FP
+150101472.0,150101472.01,3.278,3.2784,new CTOI,nan,FP(EB),Likely FP
+150442264.0,150442264.02,2.982,2.981688,nan,nan,FP(EB),Likely FP
+152223725.0,152223725.01,4.432,4.43705,Primary/secondary,nan,FP(EB),Likely FP
+152223725.0,152223725.02,4.44,4.43705,Primary/secondary,nan,FP(EB),Likely FP
+153123407.0,153123407.01,0.257,0.25717,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+160036449.0,160036449.01,1.897,1.893055,Primary/secondary,nan,FP(EB),Likely FP
+160036449.0,160036449.02,1.894,1.893055,Primary/secondary,nan,FP(EB),Likely FP
+161577376.0,161577376.01,8.29,8.2838,Preliminary Vetting with DAVE.  There are 3 transits with centroids.,nan,FP(EB),Likely FP
+162694128.0,162694128.01,1.334,2.6663,Centroid offset and 4-sigma secondary,"V-shaped grazing, 52 transits",FP(EB),Likely FP
+165493409.0,165493409.01,9.112,9.1121,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+165531514.0,165531514.01,3.108,3.1069,Centroid offset on another star,nan,FP(EB),Likely FP
+167554898.0,167554898.01,4.454,4.4536,new CTOI,nan,FP(EB),Likely FP
+167692429.0,167692429.01,10.257,10.290123,Primary/secondary,nan,FP(EB),Likely FP
+167692429.0,167692429.02,10.26,10.290123,Primary/secondary,nan,FP(EB),Likely FP
+167792080.0,167792080.01,3.254,3.25061,Centroid offset centered on another star,nan,FP(EB),Likely FP
+177350401.0,177350401.01,12.075,12.07461,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+191672086.0,191672086.01,2.683,2.679475,nan,offset,FP(EB),Likely FP
+197760286.0,197760286.01,0.601,0.60128,new CTOI,nan,FP(EB),Likely FP
+198382308.0,198382308.02,2.0806,2.0802,Signal is secondary; centroid offset,"secondary transit to 198382308.01, but boxy, so full transit",FP(EB),Likely FP
+200324182.0,200324182.01,1.297,1.297,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+201234926.0,201234926.01,14.094,14.092215,Too large,nan,FP(EB),Likely FP
+201293780.0,201293780.01,0.94,0.938671,Primary/secondary,nan,FP(EB),Likely FP
+201293780.0,201293780.02,0.88,0.938671,Primary/secondary,nan,FP(EB),Likely FP
+204327008.0,204327008.01,0.32,0.323262,Primary/secondary,nan,FP(EB),Likely FP
+204327008.0,204327008.02,0.32,0.323262,Primary/secondary,nan,FP(EB),Likely FP
+204497617.0,204497617.01,1.59,1.589161,Too large; secondary,nan,FP(EB),Likely FP
+206556127.0,206556127.01,1.106,1.105503,Too large,nan,FP(EB),Likely FP
+207080350.0,207080350.01,9.106,9.106941,Eccentric EB,nan,FP(EB),Likely FP
+211380233.0,211380233.01,4.59,4.637339,nan,Source is 211380239.,FP(EB),Likely FP
+214299966.0,214299966.01,3.068,3.063765,Signal is secondary,possibly syncd to stellar rotation,FP(EB),Likely FP
+219095755.0,219095755.01,8.908,8.9003,Centroid offset on another star,nan,FP(EB),Likely FP
+219151731.0,219151731.01,1.485,1.4853,"new CTOI, Montalto et al. (2020)",depth aperture correlation,FP(EB),Likely FP
+219207175.0,219207175.01,2.343,2.3428,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+219308281.0,219308281.01,2.86,2.856943,Primary/secondary,nan,FP(EB),Likely FP
+219308281.0,219308281.02,2.85,2.856943,Primary/secondary,nan,FP(EB),Likely FP
+219322317.0,219322317.01,8.546,8.545,early year 1 report; priority 4/5; new CTOI,Clear secondary in sector-1-early-look,FP(EB),Likely FP
+219421728.0,219421728.01,0.671,0.67115,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+219777401.0,219777401.01,4.608,4.6099,Centroid offset on another star,nan,FP(EB),Likely FP
+219780464.0,219780464.01,1.001,1.0004,V-shaped; 4 sigma odd-even,nan,FP(EB),Likely FP
+219865181.0,219865181.01,1.118,1.116988,Centroid offset on another star,nan,FP(EB),Likely FP
+220388567.0,220388567.01,1.829,1.82361,Odd-even,nan,FP(EB),Likely FP
+220402290.0,220402290.01,0.783,0.785319,Primary/secondary,nan,FP(EB),Likely FP
+220474209.0,220474209.01,0.981,0.981124,Primary/secondary,nan,FP(EB),Likely FP
+220523550.0,220523550.01,13.524,13.496574,Primary/secondary,nan,FP(EB),Likely FP
+220523550.0,220523550.02,13.495,13.496574,Primary/secondary,nan,FP(EB),Likely FP
+220595524.0,220595524.01,10.741,5.3716,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+229487733.0,229487733.01,13.338,"13.3127, 13.356999999999999",26 full transits,nan,FP(EB),Likely FP
+229597404.0,229597404.01,6.372,6.3725,Deep secondary away from phase 0.5,nan,FP(EB),Likely FP
+229778990.0,229778990.01,7.78,7.7757,Centroid offset on another star,nan,FP(EB),Likely FP
+229808144.0,229808144.01,11.611,11.610027,Primary/secondary,nan,FP(EB),Likely FP
+229808144.0,229808144.02,11.608,11.610027,Primary/secondary,nan,FP(EB),Likely FP
+230023734.0,230023734.01,10.063,20.137,"U-shaped, very weak & uncertain secondary.",nan,FP(EB),Likely FP
+230050959.0,230050959.01,1.128,2.2549,1350 ppm secondary,nan,FP(EB),Likely FP
+231279823.0,231279823.01,5.976,5.968964,Centroid offset centered on another star,nan,FP(EB),Likely FP
+231714759.0,231714759.01,5.486,5.450688,Primary/secondary,nan,FP(EB),Likely FP
+231714759.0,231714759.02,5.48,5.450688,Primary/secondary,nan,FP(EB),Likely FP
+231840927.0,231840927.01,0.818,0.8182,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+233051157.0,233051157.01,0.72,0.72014,Centroid offset on another star,nan,FP(EB),Likely FP
+233058265.0,233058265.01,26.277,26.278,Deep secondary away from phase 0.5,nan,FP(EB),Likely FP
+233208635.0,233208635.01,8.742,8.7432,Depth-aperture correlation,nan,FP(EB),Likely FP
+233714939.0,233714939.01,2.2,2.1995,Secondary; depth-aperture correlation,nan,FP(EB),Likely FP
+233744223.0,233744223.01,44.562,44.559,26 Re at 44 d,nan,FP(EB),Likely FP
+234503282.0,234503282.01,1.438,1.439303,nan,It is KS,FP(EB),Likely FP
+235009317.0,235009317.01,7.458,7.456863,Primary/secondary,nan,FP(EB),Likely FP
+235009317.0,235009317.02,7.453,7.456863,Primary/secondary,nan,FP(EB),Likely FP
+236761861.0,236761861.01,0.893,0.89296,25 Re,nan,FP(EB),Likely FP
+237236168.0,237236168.01,2.316,2.31351,Significant depth-aperture correlation,nan,FP(EB),Likely FP
+237332597.0,237332597.01,2.93,2.927444,Primary/secondary,nan,FP(EB),Likely FP
+237332597.0,237332597.02,2.93,2.927444,Primary/secondary,nan,FP(EB),Likely FP
+238082493.0,238082493.01,0.877,0.8774,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+238235254.0,238235254.01,5.571,5.5699,"new CTOI likely member of Velorum association, PATHOS-39 in Nardiello (2020)",odd/even; v-shaped; too deep,FP(EB),Likely FP
+238616144.0,238616144.01,2.466,2.46544,nan,contaminates 238616135,FP(EB),Likely FP
+251087387.0,251087387.01,3.025,3.0248,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+253922296.0,253922296.01,3.141,3.13859,nan,nan,FP(EB),Likely FP
+253928535.0,253928535.01,1.122,1.124764,Odd-even,nan,FP(EB),Likely FP
+256865091.0,256865091.01,5.199,5.1993,Deep secondary away from phase 0.5,nan,FP(EB),Likely FP
+257648522.0,257648522.01,2.695,2.6947,KELT FP; new CTOI,nan,FP(EB),Likely FP
+258918835.0,258918835.01,5.986,5.9855,Centroid offset on another star,nan,FP(EB),Likely FP
+260502102.0,260502102.01,7.315,7.315218,Primary/secondary,nan,FP(EB),Likely FP
+260502102.0,260502102.02,7.31,7.315218,Primary/secondary,nan,FP(EB),Likely FP
+261107974.0,261107974.01,12.768,12.760552,Centroid offset centered on another star,nan,FP(EB),Likely FP
+261335113.0,261335113.01,8.119,8.130552,Primary/secondary,nan,FP(EB),Likely FP
+261335113.0,261335113.02,8.131,8.130552,Primary/secondary,nan,FP(EB),Likely FP
+264051559.0,264051559.01,5.464,5.4638,new CTOI,nan,FP(EB),Likely FP
+265279725.0,265279725.01,2.554,2.5536,sector 34 only- good fit to model transits,EBLM J0851+05,FP(EB),Likely FP
+265489698.0,265489698.01,1.156,1.155455,Primary/secondary,nan,FP(EB),Likely FP
+265489698.0,265489698.02,1.153,1.155455,Primary/secondary,nan,FP(EB),Likely FP
+265613590.0,265613590.01,4.82,4.818091,Primary/secondary,nan,FP(EB),Likely FP
+265613590.0,265613590.02,4.815,4.818091,Primary/secondary,nan,FP(EB),Likely FP
+266996791.0,266996791.01,2.126,2.126088,Primary/secondary,nan,FP(EB),Likely FP
+266996791.0,266996791.02,2.123,2.126088,Primary/secondary,nan,FP(EB),Likely FP
+269698422.0,269698422.01,2.39,2.3913,new CTOI,nan,FP(EB),Likely FP
+269829384.0,269829384.01,1.231,1.243205,Primary/secondary,nan,FP(EB),Likely FP
+269829384.0,269829384.02,1.248,1.243205,Primary/secondary,nan,FP(EB),Likely FP
+270677759.0,270677759.01,9.121,9.12911,Centroid offset centered on another star,nan,FP(EB),Likely FP
+272357134.0,272357134.01,4.188,4.197416,nan,nan,FP(EB),Likely FP
+272357134.0,272357134.02,4.196,4.197416,nan,nan,FP(EB),Likely FP
+275570329.0,275570329.01,2.142,2.1448,EB Kepler-854 b,Kepler confirmed planet KOI-1450.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep),FP(EB),Likely FP
+277649549.0,277649549.01,14.488,14.490452,Primary/secondary,nan,FP(EB),Likely FP
+277649549.0,277649549.02,14.49,14.490452,Primary/secondary,nan,FP(EB),Likely FP
+279314488.0,279314488.01,1.83,1.832658,Primary/secondary,nan,FP(EB),Likely FP
+279314488.0,279314488.02,1.83,1.832658,Primary/secondary,nan,FP(EB),Likely FP
+284206913.0,284206913.01,10.511,10.51135,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.,deeper transit on tic match to 284206931 which is R=15Rs,FP(EB),Likely FP
+284990199.0,284990199.01,4.093,4.0935,new CTOI,nan,FP(EB),Likely FP
+290044434.0,290044434.01,1.089,1.0891,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+293480903.0,293480903.01,7.578,7.569497,Primary/secondary,nan,FP(EB),Likely FP
+293480903.0,293480903.02,7.57,7.569497,Primary/secondary,nan,FP(EB),Likely FP
+293689267.0,293689267.01,14.834,14.812223,nan,centroid,FP(EB),Likely FP
+300560295.0,300560295.01,10.289,10.294329,Too large + secondary,nan,FP(EB),Likely FP
+300903537.0,300903537.01,5.824,5.8233; 5.8236; 11.6262,9000 ppm secondary,nan,FP(EB),Likely FP
+300903537.0,300903537.02,5.798,5.823336,Primary/secondary,nan,FP(EB),Likely FP
+303909865.0,303909865.01,2.131,2.125059,Primary/secondary,nan,FP(EB),Likely FP
+303909865.0,303909865.02,2.125,2.125059,Primary/secondary,nan,FP(EB),Likely FP
+306385801.0,306385801.01,7.018,7.01878,Large; killed in GV; recon spectra show it's SB2,nan,FP(EB),Likely FP
+306828113.0,306828113.01,0.425,0.42529,newCTOI; significant odd even; very v-shaped; short period; EB,nan,FP(EB),Likely FP
+308425348.0,308425348.01,3.399,3.3983,Significant depth-aperture correlation in QLP report; no match on simbad;alerted by mistake,nan,FP(EB),Likely FP
+308851582.0,308851582.01,4.919,4.912427,Primary/secondary,nan,FP(EB),Likely FP
+308851582.0,308851582.02,4.912,4.912427,Primary/secondary,nan,FP(EB),Likely FP
+308991822.0,308991822.01,8.226,8.224998,EB; primary/secondary,nan,FP(EB),Likely FP
+309146836.0,309146836.01,5.426,5.427521,Primary/secondary,nan,FP(EB),Likely FP
+309146836.0,309146836.02,5.43,5.427521,Primary/secondary,nan,FP(EB),Likely FP
+318357083.0,318357083.01,3.24,3.245,"RUWE binarity score = 0.95.  Found several transits, and it looks like a 'U'.",nan,FP(EB),Likely FP
+325205605.0,325205605.01,4.245,4.248996,Primary/secondary,nan,FP(EB),Likely FP
+325205605.0,325205605.02,4.25,4.248996,Primary/secondary,nan,FP(EB),Likely FP
+326356701.0,326356701.01,1.111,1.112218,Primary/secondary,nan,FP(EB),Likely FP
+326356701.0,326356701.02,1.11,1.112218,Primary/secondary,nan,FP(EB),Likely FP
+341983711.0,341983711.01,2.516,2.5152,Centroid offset centered on another star,"appears confidently for 8 transits in a row, but only appears once during the previous 7.",FP(EB),Likely FP
+344087362.0,344087362.01,14.496,7.2383,"new CTOI, Montalto et al. (2020)",BEB,FP(EB),Likely FP
+349154435.0,349154435.01,4.431,4.431976,Primary/secondary,nan,FP(EB),Likely FP
+349154435.0,349154435.02,4.431,4.431976,Primary/secondary,nan,FP(EB),Likely FP
+349518145.0,349518145.01,4.14,4.139636,nan,odd-even,FP(EB),Likely FP
+350479101.0,350479101.02,11.923,11.916872,EB; too large,nan,FP(EB),Likely FP
+350480660.0,350480660.01,4.463,4.4638,Preliminary Vetting with DAVE,Kelt FP,FP(EB),Likely FP
+352915304.0,352915304.01,3.4929,3.4904,Centroid offset centered on another star,"very good, reliable signal.",FP(EB),Likely FP
+355601117.0,355601117.01,4.157,4.152178,nan,Too big.,FP(EB),Likely FP
+355601117.0,355601117.02,4.15,4.152178,nan,Too big.,FP(EB),Likely FP
+358457398.0,358457398.01,2.268,2.276353,Primary/secondary,nan,FP(EB),Likely FP
+358457398.0,358457398.02,2.266,2.276353,Primary/secondary,nan,FP(EB),Likely FP
+360205899.0,360205899.01,0.429,0.428576,EB; primary/secondary,nan,FP(EB),Likely FP
+372913337.0,372913337.01,1.786,1.786,"new CTOI likely member of NGC 2516     , PATHOS-23 in Nardiello et al. (2020)",v-shaped; varying transit depths; odd-even,FP(EB),Likely FP
+374732772.0,374732772.01,18.794,18.843,"new CTOI likely member of Lupus association  , PATHOS-42 in Nardiello (2020)",large odd/even,FP(EB),Likely FP
+381854774.0,381854774.01,1.642,1.644572,Odd-even; v-shaped; large,nan,FP(EB),Likely FP
+381856446.0,381856446.01,1.769,1.769,Preliminary Vetting with DAVE,nan,FP(EB),Likely FP
+382260153.0,382260153.01,5.7,5.7008,new CTOI; centroid offset,nan,FP(EB),Likely FP
+382517745.0,382517745.01,10.436,10.441504,nan,nan,FP(EB),Likely FP
+382517745.0,382517745.02,10.438,10.441504,nan,nan,FP(EB),Likely FP
+388128308.0,388128308.01,1.194,1.194174,nan,nan,FP(EB),Likely FP
+394585218.0,394585218.01,3.967,3.964158,Primary/secondary,nan,FP(EB),Likely FP
+394585218.0,394585218.02,3.96,3.964158,Primary/secondary,nan,FP(EB),Likely FP
+406276109.0,406276109.01,7.548,7.547228,Eccentric EB,nan,FP(EB),Likely FP
+406681360.0,406681360.01,4.904,4.9018,31 Re,"Pronounced dip in lightcurve, indicative of potent planetary transit",FP(EB),Likely FP
+407584737.0,407584737.01,5.656,5.650127,Primary/secondary,nan,FP(EB),Likely FP
+407584737.0,407584737.02,5.653,5.650127,Primary/secondary,nan,FP(EB),Likely FP
+419744996.0,419744996.01,7.002,7.00499,Primary/secondary,nan,FP(EB),Likely FP
+419744996.0,419744996.02,7.02,7.00499,Primary/secondary,nan,FP(EB),Likely FP
+438524691.0,438524691.01,8.88,8.86703771,newCTOI,off-target from spoc-s32-b02,FP(EB),Likely FP
+439366537.0,439366537.01,4.314,4.314034,"new CTOI, Montalto et al. (2020)",nan,FP(EB),Likely FP
+441422220.0,441422220.01,3.7,3.699999,Primary/secondary,nan,FP(EB),Likely FP
+441422220.0,441422220.02,3.7,3.699999,Primary/secondary,nan,FP(EB),Likely FP
+140298355.0,140298355.01,nan,nan,Found with our in-house single transit finder; looks like systematic,nan,FP(IS),Likely FP
+147855066.0,147855066.01,nan,nan,Found with our in-house single transit finder; likely systematic; data at location flagged out due to poor quality,nan,FP(IS),Likely FP
+313006381.0,313006381.01,nan,320.71,PHT candidate. Single transit event.,nan,FP(IS),Likely FP
+336075472.0,336075472.01,nan,49.137,PHT candidate. Single transit event.,nan,FP(IS),Likely FP
+349096525.0,349096525.01,nan,nan,Found with our in-house single transit finder; can't see transit and duration (0.6 hr) too short for single,nan,FP(IS),Likely FP
+407663579.0,407663579.01,nan,nan,Found with our in-house single transit finder; looks like systematic,nan,FP(IS),Likely FP
+31273263.0,31273263.01,nan,12.0333,Rp = 142 Re,nan,FP(IS),Likely FP
+49678165.0,49678165.01,35.64,12.364,Single transit; centroid offset but not centered on anything; investigate further; background light at epoch 1371 consistent with asteroid,nan,FP(IS),Likely FP
+100103200.0,100103200.01,18.446,26.5883; 15.9484,IS,nan,FP(IS),Likely FP
+212323118.0,212323118.01,169,14.0738; 13.4617,Spurious signal,nan,FP(IS),Likely FP
+220408612.0,220408612.01,20.428,91.1899,Signal seems spurious,nan,FP(IS),Likely FP
+220408612.0,220408612.02,59.992,91.1899,Signal seems spurious,nan,FP(IS),Likely FP
+229556468.0,229556468.01,nan,13.2668,single transit (nominal period: 120 days),nan,FP(IS),Likely FP
+229556468.0,229556468.02,nan,13.2668,single transit (nominal period: 50 days),nan,FP(IS),Likely FP
+238027971.0,238027971.01,14.408,14.4745,Scattered light,nan,FP(IS),Likely FP
+244247384.0,244247384.01,nan,12.1559,Found with our in-house single transit finder; Sector 32; One transit looks potentially real; other looks like IS,nan,FP(IS),Likely FP
+260504147.0,260504147.01,4.276,4.2092; 10.8208,Rp = 107 Re,nan,FP(IS),Likely FP
+307958020.0,307958020.02,0,122.2058,"another single transit, low impact parameter",nan,FP(IS),Likely FP
+308991822.0,308991822.02,8.299,8.225; 9.6769; 8.2244,Rp = 72 Re,nan,FP(IS),Likely FP
+143114211.0,143114211.01,13.29,13.279,Scattered light (SPOC),2 V-shaped grazing transits,FP(IS),Likely FP
+219792161.0,219792161.01,1.441851,1.441842,Signal from CBV,nan,FP(IS),Likely FP
+327667965.0,327667965.01,0.443,9.631,SPOC S27 just shows sinusoidal signal,nan,FP(V),Likely FP
+11435037.0,11435037.01,0.53,1.2285,"Camera 2, CCD 1, Column 1957, Row 1636, Sector 18; Y1 SPOC multisector report looks like variability",nan,FP(V),Likely FP
+139468902.0,139468902.01,0.465,0.9104,Stellar variability,nan,FP(V),Likely FP
+139468902.0,139468902.02,0.457,0.9104,Stellar variability,nan,FP(V),Likely FP
+158241252.0,158241252.01,1.851,1.8496,Preliminary Vetting with DAVE,nan,FP(V),Likely FP
+372851967.0,372851967.01,0.275,nan,"new CTOI, Montalto et al. (2020)",nan,FP(V),Likely FP
+206544316.0,206544316.01,0.324,0.32195,Variability,nan,FP(V),Likely FP
+206544316.0,206544316.02,0.325,0.32195,Variability,nan,FP(V),Likely FP
+206544316.0,206544316.03,0.321,0.32195,Variability,nan,FP(V),Likely FP
+206544316.0,206544316.04,0.326,0.32195,Variability,nan,FP(V),Likely FP
+341840536.0,341840536.01,2.196,2.1942,Variability,appears reliably for 18 transits. Possible shallow second dip could indicate rotation but it looks real.,FP(V),Likely FP
