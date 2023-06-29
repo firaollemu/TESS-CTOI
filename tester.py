@@ -1,6 +1,6 @@
 import pandas as pd
 import csv
-
+import numpy as np
 
 ctoi_review_fp = 'CTOI_Review_FP.csv'
 exofop = 'exofop_edited.csv'
@@ -97,10 +97,36 @@ exofop_df = pd.read_csv(exofop_fp_file)
 # Common headers
 master_header = ['TIC ID', 'CTOI ID', 'Transit Epoch', 'Period (exofop)', 'Period (TEV)', 'Planet Radius', 'Duration', 'Depth', 'TFOPWG Disposition', 'TEV Disposition', 'Notes', 'CTOI Category']
 
+master_df = pd.DataFrame(columns=master_header) # make the column a header
+
+
+# Now, loop through the exofop df and populate the master DataFrame
+for index, row in exofop_df.iterrows():
+    master_row = {}
+    for column in master_header:
+        if column in exofop_header:
+            master_row[column] = row[exofop_header.index(column)]
+        else:
+            master_row[column] = np.nan
+    master_df = master_row.append(master_row, ignore_index=True)
+
+
+
+# Loop through the CTOI DF
+for index, row in ctoi_df.iterrows():
+    master_row = {}
+    for column in master_header:
+        if column in ctoi_header:
+            master_row[column] = row[ctoi_header.index(column)]
+        else:
+            master_row[column] = np.nan
+    master_df = master_row.append(master_row, ignore_index=True)
 
 
 
 
+# Now, save the master DataFrame into a CSV file
+master_df.to_csv('master_data.csv', index=False)
 
 
 
