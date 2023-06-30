@@ -102,7 +102,7 @@ master_df = pd.DataFrame(columns=master_header) # make the column a header
 
 
 
-master = 'master_test.CSV'
+master = 'master_test.csv'
 
 with open(master, 'w', newline='') as m:
     writer = csv.writer(m)
