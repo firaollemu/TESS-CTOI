@@ -75,18 +75,19 @@ exofop_fp_file = 'exofop_fp_tester.csv'
 ctoi_df = pd.read_csv(ctoi_file)
 exofop_df = pd.read_csv(exofop_fp_file)
 
-# Common headersS
+# Common headers
 master_header = ['TIC ID', 'CTOI ID', 'Transit Epoch',
                  'Period (exofop)', 'Period (TEV)', 'Planet Radius', 'Duration', 'Depth', 'TFOPWG Disposition', 'TEV Disposition', 'Notes', 'CTOI Category']
 
 master_df = pd.DataFrame(columns=master_header)  # make the column a header
 
+master_list = [master_header]
 
 master = 'master_test.csv'
 
 with open(master, 'w', newline='') as m:
     writer = csv.writer(m)
-    writer.writerows(master_header)
+    writer.writerows(master_list)
 
 
 # with open(ctoi_file, 'w', newline='') as ctoi_fp_file:
