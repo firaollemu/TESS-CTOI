@@ -48,8 +48,7 @@ for index, row in exofop_df.iterrows():
 #         exofop_false_positive.append(exofop_row_values)
 
 
-ctoi_header = ['TIC', 'CTOI', 'Period (exofop)', 'Period (TEV)',
-               'Notes', 'Public comment', 'TEV Disposition', 'CTOI Designation']
+ctoi_header = ['TIC', 'CTOI', 'Period (exofop)', 'Period (TEV)', 'Notes', 'Public comment', 'TEV Disposition', 'CTOI Designation']
 ctoi_review_false_positives.append(ctoi_header)
 
 # for index, row in ctoi_review_fp_df.iterrows():
@@ -77,7 +76,7 @@ exofop_df = pd.read_csv(exofop_fp_file)
 
 # Common headers
 master_header = ['TIC', 'CTOI', 'Transit Epoch',
-                 'Period (exofop)', 'Period (TEV)', 'Planet Radius', 'Duration', 'Depth', 'TFOPWG Disposition', 'TEV Disposition', 'Notes', 'CTOI Category']
+                 'Period (exofop)', 'Period (TEV)', 'Planet Radius', 'Duration', 'Depth', 'TFOPWG Disposition', 'TEV Disposition', 'Notes', 'CTOI Designation']
 
 master_data = []
 # Loop through each row in the exofop_data 
@@ -114,6 +113,12 @@ for _, ctoi_row in ctoi_df.iterrows():
 
 # Create a new DataFrame from the master dataset 
 master_df = pd.DataFrame(master_data, columns=master_header)
+
+
+# Set the CTOI Designation to 'Likely FP' 
+column_name = 'CTOI Designation'
+
+master_df[column_name] = master_df[column_name].fillna('Likely FP')
 
 # Save the master DataFrame to a new CSV file
 master_df.to_csv('master1.csv', index=False)
