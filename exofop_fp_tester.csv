@@ -1,1 +1,5 @@
 TIC,CTOI,Transit Epoch,Period,Duration,Depth,Planet Radius,Notes,TFOPWG Disposition,CTOI Designation
+46627823,46627823.01,2458464.509,6.005,0.237,17.436,21.82,"new CTOI, Montalto et al. (2020)",FP,Likely FP
+125192758,125192758.01,2458492.689,1.731,2.686,35.612,29.247,"Giant PC in M50, 100Myr star; rot variable. Parallax a tad low, but within CG18's M50 members.  (CDIPS; Bouma+19)",FP,Likely FP
+349118653,349118653.01,2458492.439,0.756,2.851,22.971,44.772,"Cand VHJ in NGC2421 (CG18). Either stellar EB, or contracting planet / BD. Worth checking. (CDIPS; Bouma+19)",FP,Likely FP
+399868187,399868187.02,2458444.08,6.485,nan,10.583,nan,WINE hot Jupiter,FP,Likely FP

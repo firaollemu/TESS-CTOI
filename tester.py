@@ -2,7 +2,7 @@ import pandas as pd
 import csv
 import numpy as np
 
-ctoi_review_fp = 'CTOI_Review_FP.csv'
+ctoi_review_fp = 'CTOI_review_sheet.csv'
 exofop = 'exofop_edited.csv'
 
 
@@ -14,23 +14,24 @@ exofop_false_positive_tic_ids = []
 exofop_false_positive = []
 ctoi_review_false_positives = []
 
-# Goal: have a CSV file with the following header
-# TIC, CTOI, Transit Epoch, Period (exofop), Period (TEV), Planet Radius, Duration, Depth, TFOPWG Disposition, TEV Disposition
+# TIC, CTOI, DISPOSTION, NOTES, ADDITIONAL COMMENT 
+
+ctoi_review_headers = ['TIC', 'CTOI', 'TEV Disposition', 'Notes', 'CTOI Category']
+exofop_df_headers = ['TIC ID', 'CTOI', 'TFOPWG Disposition', 'Notes', 'CTOI Category']
 
 
 # CTOI_Review_FP headers: TIC, CTOI, Period (exofop), Period (TEV), TEV Disposition [5]
 # exofop_edited: TIC, CTOI, Transit Epoch, Period (exofop), Planet Radius, Duration, Depth, TFOPWG Disposition [8]
 
 
-<<<<<<< HEAD
+master_header = ['TIC ID', 'CTOI ID', 'Transit Epoch', 'Period (exofop)', 'Period (TEV)', 'Planet Radius', 'Duration',
+'Depth', 'TFOPWG Disposition', 'TEV Disposition', 'Notes', 'CTOI Category']
 
 
-exofop_header = ['TIC', 'CTOI', 'Transit Epoch', 'Period', 'Duration', 'Depth', 'Planet Radius', 'Notes', 'TFOPWG Disposition', 'TOI Review']
-=======
-exofop_header = ['TIC', 'CTOI', 'Transit Epoch', 'Period', 'Duration',
-                 'Depth', 'Planet Radius', 'Notes', 'TFOPWG Disposition', 'CTOI Designation']
->>>>>>> 81ac3364ef1c4c99166fe63b8996834c20321be4
+exofop_header = ['TIC', 'CTOI', 'Transit Epoch', 'Period', 'Duration', 'Depth', 'Planet Radius', 'Notes', 'TFOPWG Disposition', 'CTOI Designation']
 exofop_false_positive.append(exofop_header)
+
+
 
 
 for index, row in exofop_df.iterrows():
@@ -38,15 +39,10 @@ for index, row in exofop_df.iterrows():
         exofop_row_values = [
             int(row['TIC ID']),
             row['CTOI'],
-            row['Transit Epoch (BJD)'],
-            row['Period (days)'],
-            row['Duration (hours)'],
-            row['Depth (mmag)'],
-            row['Planet Radius (R_Earth)'],
-            row['Notes'],
             row['TFOPWG Disposition']
         ]
 
+        exofop_row_values.append('Nan')
         exofop_row_values.append('Likely FP')
 
 #         exofop_false_positive.append(exofop_row_values)
@@ -56,17 +52,16 @@ ctoi_header = ['TIC', 'CTOI', 'Period (exofop)', 'Period (TEV)',
                'Notes', 'Public comment', 'TEV Disposition', 'CTOI Designation']
 ctoi_review_false_positives.append(ctoi_header)
 
-for index, row in ctoi_review_fp_df.iterrows():
-    ctoi_row_values = [
-        row['TIC'],
-        row['CTOI'],
-        row['Period (exofop)'],
-        row['Period (TEV)'],
-        row['Notes'],
-        row['Public comment'],
-        row['TEV Disposition']
-    ]
-    ctoi_row_values.append('Likely FP')
+# for index, row in ctoi_review_fp_df.iterrows():
+#     if row['TEV Disposition'] == category1 or row['TEV Disposition'] == category2:
+#         row_values = [
+#             int(row['TIC']),
+#             row['CTOI'],
+#             row['TEV Disposition'],
+#             row['Notes']
+#         ]
+#         row_values.append('Likely FP')
+#         ctoi_review_false_positives.append(row_values)
 
     ctoi_review_false_positives.append(ctoi_row_values)
 
@@ -75,10 +70,10 @@ ctoi_file = 'ctoi_false_postive.csv'
 exofop_fp_file = 'exofop_fp_tester.csv'
 
 
-# Now, merge those two file together
+# Now, merge those two file together 
 # Read both csv files both from ctoi list and the exofop one
 
-ctoi_df = pd.read_csv(ctoi_file)
+ctoi_df = pd.read_csv(ctoi_file) 
 exofop_df = pd.read_csv(exofop_fp_file)
 
 # Common headers
@@ -101,17 +96,10 @@ for _, exofop_row in exofop_df.iterrows():
     master_data.append(master_row)
 
 
-# Iterate over the ctoi_data 
-for _, ctoi_row in ctoi_df.iterrows():
-    master_row = {}
-    
-    for column in master_header:
-        if column in ctoi_header:
-            master_row[column] = ctoi_row[column]
-        else:
-            master_row[column] = ""
-    
-    master_data.append(master_row)
+
+
+# Now, merge these two
+# merged_df = pd.merge(ctoi_df, exofop_df, on=['TIC', 'CTOI', 'Notes', 'CTOI Category'], how='inner')
 
 
 # Create a new DataFrame from the master dataset 
@@ -131,7 +119,11 @@ with open(master, 'w', newline='') as m:
     writer.writerows(master_list)
 >>>>>>> 81ac3364ef1c4c99166fe63b8996834c20321be4
 
+# save the merged pandas dataframe into a csv file
+# merged_df.to_csv('Mereged_false_positives.csv', index=False)
 
+# Merging error.
+#
 # with open(ctoi_file, 'w', newline='') as ctoi_fp_file:
 #     writer = csv.writer(ctoi_fp_file)
 #     writer.writerows(ctoi_review_false_positives)
@@ -140,3 +132,8 @@ with open(master, 'w', newline='') as m:
 # with open(exofop_fp_file, 'w', newline='') as exofop_fp:
 #     writer = csv.writer(exofop_fp)
 #     writer.writerows(exofop_false_positive)
+
+
+
+
+
