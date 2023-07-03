@@ -76,7 +76,7 @@ ctoi_df = pd.read_csv(ctoi_file)
 exofop_df = pd.read_csv(exofop_fp_file)
 
 # Common headers
-master_header = ['TIC ID', 'CTOI ID', 'Transit Epoch',
+master_header = ['TIC', 'CTOI', 'Transit Epoch',
                  'Period (exofop)', 'Period (TEV)', 'Planet Radius', 'Duration', 'Depth', 'TFOPWG Disposition', 'TEV Disposition', 'Notes', 'CTOI Category']
 
 master_data = []
