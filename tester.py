@@ -63,7 +63,6 @@ ctoi_review_false_positives.append(ctoi_header)
 #         row_values.append('Likely FP')
 #         ctoi_review_false_positives.append(row_values)
 
-    ctoi_review_false_positives.append(ctoi_row_values)
 
 
 ctoi_file = 'ctoi_false_postive.csv'
