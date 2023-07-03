@@ -26,7 +26,7 @@ ctoi_review_false_positives = []
 
 
 
-exofop_header = ['TIC', 'CTOI', 'Transit Epoch', 'Period', 'Duration', 'Depth', 'Planet Radius', 'Notes', 'TFOPWG Disposition', 'CTOI Designation']
+exofop_header = ['TIC', 'CTOI', 'Transit Epoch', 'Period', 'Duration', 'Depth', 'Planet Radius', 'Notes', 'TFOPWG Disposition', 'TOI Review']
 exofop_false_positive.append(exofop_header)
 
 
@@ -97,45 +97,46 @@ exofop_df = pd.read_csv(exofop_fp_file)
 # Common headers
 master_header = ['TIC ID', 'CTOI ID', 'Transit Epoch', 'Period (exofop)', 'Period (TEV)', 'Planet Radius', 'Duration', 'Depth', 'TFOPWG Disposition', 'TEV Disposition', 'Notes', 'CTOI Category']
 
-master_df = pd.DataFrame(columns=master_header) # make the column a header
+master_data = []
+# Loop through each row in the exofop_data 
+for _, exofop_row in exofop_df.iterrows():
+    master_row = {} 
 
-
-# Now, loop through the exofop df and populate the master DataFrame
-for index, row in exofop_df.iterrows():
-    master_row = {}
     for column in master_header:
         if column in exofop_header:
-            master_row[column] = row[exofop_header.index(column)]
+            master_row[column] = exofop_row[column]
         else:
-            master_row[column] = np.nan
-    master_df = master_row.append(master_row, ignore_index=True)
+            master_row[column] = ""
+    
+    # Append the master row to the master dataframe 
+    master_data.append(master_row)
 
 
-
-# Loop through the CTOI DF
-for index, row in ctoi_df.iterrows():
+# Iterate over the ctoi_data 
+for _, ctoi_row in ctoi_df.iterrows():
     master_row = {}
+    
     for column in master_header:
         if column in ctoi_header:
-            master_row[column] = row[ctoi_header.index(column)]
+            master_row[column] = ctoi_row[column]
         else:
-            master_row[column] = np.nan
-    master_df = master_row.append(master_row, ignore_index=True)
+            master_row[column] = ""
+    
+    master_data.append(master_row)
 
 
+# Create a new DataFrame from the master dataset 
+master_df = pd.DataFrame(master_data, columns=master_header)
 
-
-# Now, save the master DataFrame into a CSV file
-master_df.to_csv('master_data.csv', index=False)
-
-
+# Save the master DataFrame to a new CSV file
+master_df.to_csv('master1.csv', index=False)
 
 
 # with open(ctoi_file, 'w', newline='') as ctoi_fp_file:
 #     writer = csv.writer(ctoi_fp_file)
 #     writer.writerows(ctoi_review_false_positives)
-#
-#
+
+
 # with open(exofop_fp_file, 'w', newline='') as exofop_fp:
 #     writer = csv.writer(exofop_fp)
 #     writer.writerows(exofop_false_positive)
