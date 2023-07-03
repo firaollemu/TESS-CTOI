@@ -6,7 +6,6 @@ ctoi_review_fp = 'CTOI_Review_FP.csv'
 exofop = 'exofop_edited.csv'
 
 
-
 ctoi_review_fp_df = pd.read_csv(ctoi_review_fp)
 exofop_df = pd.read_csv(exofop)
 
@@ -19,17 +18,19 @@ ctoi_review_false_positives = []
 # TIC, CTOI, Transit Epoch, Period (exofop), Period (TEV), Planet Radius, Duration, Depth, TFOPWG Disposition, TEV Disposition
 
 
-
 # CTOI_Review_FP headers: TIC, CTOI, Period (exofop), Period (TEV), TEV Disposition [5]
 # exofop_edited: TIC, CTOI, Transit Epoch, Period (exofop), Planet Radius, Duration, Depth, TFOPWG Disposition [8]
 
 
+<<<<<<< HEAD
 
 
 exofop_header = ['TIC', 'CTOI', 'Transit Epoch', 'Period', 'Duration', 'Depth', 'Planet Radius', 'Notes', 'TFOPWG Disposition', 'TOI Review']
+=======
+exofop_header = ['TIC', 'CTOI', 'Transit Epoch', 'Period', 'Duration',
+                 'Depth', 'Planet Radius', 'Notes', 'TFOPWG Disposition', 'CTOI Designation']
+>>>>>>> 81ac3364ef1c4c99166fe63b8996834c20321be4
 exofop_false_positive.append(exofop_header)
-
-
 
 
 for index, row in exofop_df.iterrows():
@@ -51,10 +52,8 @@ for index, row in exofop_df.iterrows():
 #         exofop_false_positive.append(exofop_row_values)
 
 
-
-
-
-ctoi_header = ['TIC', 'CTOI', 'Period (exofop)', 'Period (TEV)', 'Notes', 'Public comment', 'TEV Disposition', 'CTOI Designation']
+ctoi_header = ['TIC', 'CTOI', 'Period (exofop)', 'Period (TEV)',
+               'Notes', 'Public comment', 'TEV Disposition', 'CTOI Designation']
 ctoi_review_false_positives.append(ctoi_header)
 
 for index, row in ctoi_review_fp_df.iterrows():
@@ -72,20 +71,8 @@ for index, row in ctoi_review_fp_df.iterrows():
     ctoi_review_false_positives.append(ctoi_row_values)
 
 
-
-
-
-
-
-
-
-
-
-
 ctoi_file = 'ctoi_false_postive.csv'
 exofop_fp_file = 'exofop_fp_tester.csv'
-
-
 
 
 # Now, merge those two file together
@@ -95,8 +82,10 @@ ctoi_df = pd.read_csv(ctoi_file)
 exofop_df = pd.read_csv(exofop_fp_file)
 
 # Common headers
-master_header = ['TIC ID', 'CTOI ID', 'Transit Epoch', 'Period (exofop)', 'Period (TEV)', 'Planet Radius', 'Duration', 'Depth', 'TFOPWG Disposition', 'TEV Disposition', 'Notes', 'CTOI Category']
+master_header = ['TIC ID', 'CTOI ID', 'Transit Epoch',
+                 'Period (exofop)', 'Period (TEV)', 'Planet Radius', 'Duration', 'Depth', 'TFOPWG Disposition', 'TEV Disposition', 'Notes', 'CTOI Category']
 
+<<<<<<< HEAD
 master_data = []
 # Loop through each row in the exofop_data 
 for _, exofop_row in exofop_df.iterrows():
@@ -130,6 +119,17 @@ master_df = pd.DataFrame(master_data, columns=master_header)
 
 # Save the master DataFrame to a new CSV file
 master_df.to_csv('master1.csv', index=False)
+=======
+master_df = pd.DataFrame(columns=master_header)  # make the column a header
+
+master_list = [master_header]
+
+master = 'master_test.csv'
+
+with open(master, 'w', newline='') as m:
+    writer = csv.writer(m)
+    writer.writerows(master_list)
+>>>>>>> 81ac3364ef1c4c99166fe63b8996834c20321be4
 
 
 # with open(ctoi_file, 'w', newline='') as ctoi_fp_file:
