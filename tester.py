@@ -79,7 +79,6 @@ exofop_df = pd.read_csv(exofop_fp_file)
 master_header = ['TIC ID', 'CTOI ID', 'Transit Epoch',
                  'Period (exofop)', 'Period (TEV)', 'Planet Radius', 'Duration', 'Depth', 'TFOPWG Disposition', 'TEV Disposition', 'Notes', 'CTOI Category']
 
-<<<<<<< HEAD
 master_data = []
 # Loop through each row in the exofop_data 
 for _, exofop_row in exofop_df.iterrows():
@@ -106,17 +105,6 @@ master_df = pd.DataFrame(master_data, columns=master_header)
 
 # Save the master DataFrame to a new CSV file
 master_df.to_csv('master1.csv', index=False)
-=======
-master_df = pd.DataFrame(columns=master_header)  # make the column a header
-
-master_list = [master_header]
-
-master = 'master_test.csv'
-
-with open(master, 'w', newline='') as m:
-    writer = csv.writer(m)
-    writer.writerows(master_list)
->>>>>>> 81ac3364ef1c4c99166fe63b8996834c20321be4
 
 # save the merged pandas dataframe into a csv file
 # merged_df.to_csv('Mereged_false_positives.csv', index=False)
