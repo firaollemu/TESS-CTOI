@@ -94,6 +94,18 @@ for _, exofop_row in exofop_df.iterrows():
     master_data.append(master_row)
 
 
+for _, ctoi_row in ctoi_df.iterrows():
+    master_row = {}
+
+    for column in master_header:
+        if column in ctoi_header:
+            master_row[column] = ctoi_row[column]
+        else:
+            master_row[column] = ""
+    
+    master_data.append(master_row)
+
+
 
 
 # Now, merge these two
