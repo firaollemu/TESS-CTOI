@@ -37,7 +37,7 @@ ctois_need_more_review_from_tois.append(exofop_header)
 
 # loop through the ctoi_review_sheet and see if the TIC exists in either the ctoi_fp. If not add it to a list to be added to a new csv file.
 for _, row in ctoi_review_sheet_df.iterrows():
-    if (row['TIC'] not in ctoi_fp_TICs) or (row['TIC'] not in toi_TICs):
+    if (row['TIC'] not in ctoi_fp_TICs) and (row['TIC'] not in toi_TICs):
         row_values = [
             row['TIC'],
             row['CTOI'],
