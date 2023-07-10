@@ -52,7 +52,7 @@ for _, row in ctoi_review_sheet_df.iterrows():
 
 
 # Now, do the excat same thing for the TOIs
-for _, row in toi_df.iterrows():
+for _, row in exofop_df.iterrows():
     if (row['TIC ID'] not in ctoi_fp_TICs) and (row['TIC ID'] not in toi_TICs):
         row_values = [
             int(row['TIC ID']),
