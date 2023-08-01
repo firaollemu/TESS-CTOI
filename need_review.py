@@ -70,7 +70,7 @@ for _, row in exofop_df.iterrows():
 # Period (days) in new_tois same thing as period (exofop) in ctoi_fp_sheet
 
 ctois_need_more_review_from_fp_sheet = 'need_more_review_from_fp_sheet.csv'
-ctois_need_more_review_from_exofop_csv = 'need_more_review_from_TOIs.csv'
+ctois_need_more_review_from_exofop_csv = 'need_more_review_from_exofop.csv'
 
 # with open(ctois_need_more_review_from_fp_sheet, 'w', newline='') as from_fp_sheet:
 #     writer = csv.writer(from_fp_sheet)
@@ -78,9 +78,9 @@ ctois_need_more_review_from_exofop_csv = 'need_more_review_from_TOIs.csv'
 
 
 
-# with open(ctois_need_more_review_from_exofop_csv, 'w', newline='') as from_exofop:
-#     writer = csv.writer(from_exofop)
-#     writer.writerows(ctois_need_more_review_from_exofop)
+with open(ctois_need_more_review_from_exofop_csv, 'w', newline='') as from_exofop:
+    writer = csv.writer(from_exofop)
+    writer.writerows(ctois_need_more_review_from_exofop)
 
 
 # NOW MERGE THE TWO CSV FILES CONTAINING CTOIS THAT NEED MORE REVIEW. 
