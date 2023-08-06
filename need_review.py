@@ -65,22 +65,28 @@ for _, row in exofop_df.iterrows():
 
 
 
-# Now merge this two lists.
+
+# Filter out the unique TIC IDs using np.unique
+unique_ctois_need_review_review_sheet = np.unique(ctois_need_more_review_from_review_sheet)
+unique_ctois_need_review_exofop = np.unique(ctois_need_more_review_from_exofop)
+
+
+
+
 
 # Period (days) in new_tois same thing as period (exofop) in ctoi_fp_sheet
 
-ctois_need_more_review_from_fp_sheet = 'need_more_review_from_fp_sheet.csv'
-ctois_need_more_review_from_exofop_csv = 'need_more_review_from_exofop.csv'
+ctois_need_more_review_from_fp_sheet = 'UNIQUE_need_more_review_from_fp_sheet.csv'
+ctois_need_more_review_from_exofop_csv = 'UNIQUE_need_more_review_from_exofop.csv'
 
 # with open(ctois_need_more_review_from_fp_sheet, 'w', newline='') as from_fp_sheet:
 #     writer = csv.writer(from_fp_sheet)
-#     writer.writerows(ctois_need_more_review_from_review_sheet)
+#     writer.writerows(unique_ctois_need_review_review_sheet)
 
 
-
-with open(ctois_need_more_review_from_exofop_csv, 'w', newline='') as from_exofop:
-    writer = csv.writer(from_exofop)
-    writer.writerows(ctois_need_more_review_from_exofop)
+# with open(ctois_need_more_review_from_exofop_csv, 'w', newline='') as from_exofop:
+#     writer = csv.writer(from_exofop)
+#     writer.writerows(unique_ctois_need_review_exofop)
 
 
 # NOW MERGE THE TWO CSV FILES CONTAINING CTOIS THAT NEED MORE REVIEW. 
@@ -133,4 +139,4 @@ master_df[additional_column_name] = master_df[additional_column_name].fillna('In
 
 
 
-master_df.to_csv('need_review1.csv', index=False)
+master_df.to_csv('UNIQUE_need_review.csv', index=False)
