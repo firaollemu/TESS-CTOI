@@ -67,8 +67,6 @@ for _, row in exofop_df.iterrows():
 
 
 # Filter out the unique TIC IDs using np.unique
-unique_ctois_need_review_review_sheet = np.unique(ctois_need_more_review_from_review_sheet)
-unique_ctois_need_review_exofop = np.unique(ctois_need_more_review_from_exofop)
 
 
 
@@ -76,8 +74,8 @@ unique_ctois_need_review_exofop = np.unique(ctois_need_more_review_from_exofop)
 
 # Period (days) in new_tois same thing as period (exofop) in ctoi_fp_sheet
 
-ctois_need_more_review_from_fp_sheet = 'UNIQUE_need_more_review_from_fp_sheet.csv'
-ctois_need_more_review_from_exofop_csv = 'UNIQUE_need_more_review_from_exofop.csv'
+ctois_need_more_review_from_fp_sheet = 'need_more_review_from_fp_sheet.csv'
+ctois_need_more_review_from_exofop_csv = 'need_more_review_from_exofop.csv'
 
 # with open(ctois_need_more_review_from_fp_sheet, 'w', newline='') as from_fp_sheet:
 #     writer = csv.writer(from_fp_sheet)
@@ -94,6 +92,8 @@ ctois_need_more_review_from_exofop_csv = 'UNIQUE_need_more_review_from_exofop.cs
 review_ctois_from_fp_sheet = pd.read_csv(ctois_need_more_review_from_fp_sheet)
 review_ctois_from_exofop = pd.read_csv(ctois_need_more_review_from_exofop_csv)
 
+UNIQUE_review_ctois_from_fp_sheet = review_ctois_from_fp_sheet.drop_duplicates()
+UNIQUE_review_ctois_from_exofop = review_ctois_from_exofop.drop_duplicates()
 
 
 master_csv_header = ['TIC', 'CTOI', 'Period (exofop)', 'Period (TEV)', 'Notes', 'TOI Comments']
@@ -101,7 +101,7 @@ master_csv_header = ['TIC', 'CTOI', 'Period (exofop)', 'Period (TEV)', 'Notes', 
 master_data = []
 
 
-for _, row in review_ctois_from_fp_sheet.iterrows():
+for _, row in UNIQUE_review_ctois_from_fp_sheet.iterrows():
     master_row = {}
 
     for column in master_csv_header:
@@ -114,7 +114,7 @@ for _, row in review_ctois_from_fp_sheet.iterrows():
     master_data.append(master_row)
 
 
-for _, row in review_ctois_from_exofop.iterrows():
+for _, row in UNIQUE_review_ctois_from_exofop.iterrows():
     master_row = {}
 
     for column in master_csv_header:
