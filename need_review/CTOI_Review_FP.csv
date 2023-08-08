@@ -1,0 +1,405 @@
+TIC,CTOI,TOI,Period (exofop),Period (TEV),TESS mag,In TEV?,Eph match?,Data on PDO?,Upload to TEV?,TEV Disposition,Alert? (Yes/no/unsure/hold),Notes,Public comment,User,Report Type
+120311283,120311283.01,,,9.2709,11.7694,Y,Y,Y,Y,EB,N,CTOI epoch = 1701.6138 TBJD matches to TEV signal,secondary; RV error 6.95 km/s,dragomir,spoc
+123496379,123496379.01,,,34.6573,11.4767,Y,Y,Y,Y,EB,N,CTOI epoch = 1699.4466 TBJD matches to TEV signal,200 ppm secondary; RV error 17.6 km/s,dragomir,spoc
+190885165,190885165.01,,1.649,1.649165088,13.2957,Y,Y,Y,Y,EB,N,synchronized,Variability phased with transits; spin and orbit sychronized with transits; small star does not irradiate enough to inflate a hot Jupiter; likely EB rather than large PC,rowland,spoc
+230130556,230130556.01,,-,22.2584,10.8972,Y,Y,Y,Y,EB,N,too large to be inflated hot jupiter; CTOI epoch = 2645.14 TBJD matches to TEV signal,Too large; not possible as an inflated HJ,vogl,qlp
+246966307,246966307.01,,6.629,6.63643258,9.9869,Y,Y,Y,Y,EB,N,NEB; centroid offset on TIC 246966304,,spencer,spoc
+257395093,257395093.01,,14.4,14.41921845,12.2857,Y,Y,Y,Y,EB,N,EB in quadruple star system,14.41 day EB in quadruple star system (Rappaport et. al 2017),gsun,spoc
+333785427,333785427.01,,1.579,1.57934,10.0801,Y,Y,Y,Y,EB,N,synchronized; likely EB,250 ppm secondary; synchronized,gsun,qlp
+356632361,356632361.01,,2.611,2.61149,10.4776,Y,Y,Y,Y,EB,N,in spoc-s49-b02 noted to be synchronized with a secondary,Synchronization drifts; secondary consistent with a planet; v-shaped,rowland,spoc
+358487062,358487062.01,,5.502,5.5051606,8.1246,Y,Y,Y,Y,EB,N,source is TIC 358487041,,spencer,qlp
+434133200,434133200.01,,14.131,14.1421506,11.8415,Y,Y,Y,Y,EB,N,half phase coverage with spoc-s42-s46 so period can't be half; too large for insolation,,vogl,spoc
+461634737,461634737.01,,4.23,4.229605319,10.7062,Y,Y,Y,Y,EB,N,NEB; Clear centroid offset on TIC 41634738 in spoc-s14s16-b02,Clear centroid offset on TIC 41634738 in spoc-s14s16-b02; CTOI from Alton Spencer; two stars nearby; also found in faint-star QLP search,spencer,spoc
+95839645,95839645.01,,0.896,0.89625,11.5784,Y,Y,,,EB,N,"new CTOI, Montalto et al. (2020); 7/8 sigma odd-even in TEC plots for SPOC s61",,montalto,qlp
+364400981,364400981.01,,1.94,,12.6857,N,N,,,FP (EB),N,"All data obtained using the LightKurve framework; has a report made, but I think this is an EB with a slightly eccentric orbit. There is a significant secondary just beyond phase 0.5.",,chiarello,
+10697188,10697188.01,,5.44,,9.38696,N,N,,N,FP(EB),N,"Camera 2, CCD 1, Column 2051, Row 1597, Sector 18, Mission TESS",qlp s18 report Rp ~ 47 Re; EB,chiarello,qlp
+10697190,10697190.01,,5.44,,8.72959,N,N,,,FP(EB),N,"Camera 2, CCD 1, Column 2051, Row 1597, Sector 18, Mission TESS",qlp s18 report Rp ~ 43 Re; EB,chiarello,qlp
+28799599,28799599.01,,3.577,,10.9353,N,N,Y,N,FP(EB),N,"hot Jupiter candidate around evolved star. nearby companion, needs SG1 followup; off target according to difference image",,grunblatt,qlp
+37692356,37692356.01,,2.7,,11.151,N,N,Y,N,FP(EB),N,"Camera 2. CCD 3, Column 1887, Row 1839, Sector 8, Possible binary system; secondary visible in Y1 QLP; Rp ~ 32 Re; EB",,chiarello,qlp
+46029346,46029346.01,,1.381,,11.7803,N,N,,,FP(EB),N,Synchronized with stellar variability; large,,bouma,
+83703886,83703886.01,,0.58,,11.8455,N,N,Y,N,FP(EB),N,"Camera 1, CCD 4, Column 535, Row 642, Sector 11; QLP report at 2x CTOI period has strong odd-even; likely EB",,chiarello,qlp
+92880493,92880493.01,,1.04,,12.043,N,N,,,FP(EB),N,"All data are obtained using the TESS data and LightKurve Framework; FP: significant secondary, V-shaped, and has significant depth-aperture correlation ",,chiarello,
+120861864,120861864.01,,18,,10.4204,N,N,Y,N,FP(EB),N,"Camera 2, CCD 1, Column 1817, Row 239, Sector 10; clear odd-even in QLP report with 2x CTOI period; Rp ~ 83 Re",,chiarello,qlp
+138772345,138772345.01,,8.57,,9.91913,N,N,Y,N,FP(EB),N,"Camera 1, CCD 2, Column 1193, Row 1317, Sector 22; Rp ~ 69 Re from QLP report with same period and epoch; secondary",,chiarello,qlp
+178414921,178414921.01,,1.2,,9.6139,N,N,Y,N,FP(EB),N,"Camera 2, CCD 2, Column 2018, Row 1017, Sector 9; v-shaped; Rp ~43.5 Re",,chiarello,qlp
+186941307,186941307.01,,1.05,,9.9157,N,N,Y,N,FP(EB),N,"Camera 1, CCD 2, Column 1063, Row 964, Sector 18; off target EB; significant depth-aperture correlation",,chiarello,qlp
+202152389,202152389.01,,8.43,,7.39517,N,N,Y,N,FP(EB),N,"Camera 2, CCD 1, Column 1885, Row 1962, Sector 17, unclear orbital period; Rp ~ 125 Re;",,chiarello,qlp
+224327878,224327878.01,,0.67,0.66997,10.5651,N,N,,,FP(EB),N,34 transits; either full transit or nearly full.,,montalto,
+234945462,234945462.01,,7.08,,11.3211,N,N,Y,N,FP(EB),N,"Camera 1, CCD 2, Column 965, Row 1422, Sector 6; period is off in qlp report; eccentric eclipsing binary",,chiarello,qlp
+302926645,302926645.01,,,,10.2721,N,N,Y,N,FP(EB),N,Found with our in-house single transit finder; off target in SPOC s6,,steuer,spoc
+311413113,311413113.01,,18.66,,10.4796,N,N,Y,N,FP(EB),N,"Camera 2, CCD 2, Column 1261, Row 164, Sector 12; off-target EB; significant depth aperture correlation and secondary",,chiarello,qlp
+399868187,399868187.02,,6.485,,10.5347,N,N,,,FP(EB),N,WINE hot Jupiter; TFOPWG FP; NEB,,brahm,
+428962300,428962300.01,,2.942,,10.726,N,N,Y,N,FP(EB),N,hot Jupiter candidate around evolved star; EB at 2x CTOI period; CTOI is likely secondaries,,grunblatt,
+438591493,438591493.01,,7.98,,12.5875,N,N,Y,Y,FP(EB),N,"Camera 2, CCD 4, Column 1178, Row 446, Sector 11; ; secondary visible in Y1 QLP; Rp ~ 29.3 Re; EB",,chiarello,
+438727861,438727861.01,,3.46,,12.5347,N,N,Y,N,FP(EB),N,"Camera 2, CCD 4, Column 341, Row 1818, Sector 11; eclipsing binary (15 sigma odd-even)",,chiarello,qlp
+444222135,444222135.01,,3.038,,12.5494,N,N,,,FP(EB),N,Eccentric EB from outside sources,,bouma,
+450087539,450087539.01,,1.75,,10.7271,N,N,Y,N,FP(EB),N,"Camera 1, CCD 3, Column 1173, Row 1470, Sector 5; Rp ~ 35.4 Re in Y1 qlp",,chiarello,qlp
+8963901,8963901.01,,0.485,0.9639,11.2163,Y,N,,,FP(EB),N,Rp = 300 Re; non-transit signal,,lipponen,
+13093071,13093071.01,,,25.0001,11.5758,Y,N,,,FP(EB),N,WINE single transit,,brahm,qlp
+29667425,29667425.01,,,8.1135,10.2633,Y,N,,,FP(EB),N,Single transit; centroid offset but not centered on anything; background light spikes at epoch 1342,,lipponen,
+39018208,39018208.02,,6.66,6.6493; 6.6495,11.1032,Y,N,,,FP(EB),N,2000 ppm secondary,,lipponen,
+55659311,55659311.01,,,16.805; 16.756,9.7909,Y,N,,,FP(EB),N,Rp = 90 Re,,lipponen,
+55659311,55659311.02,,,16.805; 16.756,9.7909,Y,N,,,FP(EB),N,Rp = 90 Re,,lipponen,
+61710042,61710042.01,,1.888,0.94555,11.1366,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+65450588,65450588.01,,0.649,0.64873,11.1129,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",two stars in center pixel; needs SG1 to follow up,montalto,qlp
+67747088,67747088.01,,,"6.7058, 12.7231",10.5169,Y,N,,,FP(EB),N,v-shaped; weak; centroid offset; Found with our in-house single transit finder; additional partial transit; Sector 32,,steuer,qlp
+72985912,72985912.01,,1.68,1.68051,11.5147,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+91369561,91369561.01,,0.077,3.9837; 3.9875,10.9545,Y,N,,,FP(EB),N,Rp = 77 Re,,lipponen,
+92349924,92349924.02,,,8.8031; 12.1403,10.8199,Y,N,,,FP(EB),N,Rp = 27 Re; v-shaped,,lipponen,
+92349924,92349924.03,,,8.8031; 12.1403,10.8199,Y,N,,,FP(EB),N,Rp = 27 Re; v-shaped,,lipponen,
+92896631,92896631.01,,5.639,5.6583,10.9191,Y,N,,,FP(EB),N,Looks good but could be too large; odd-even; recon spectra shows composite; likely SB2,,bouma,
+100029948,100029948.01,,2.778,1.3888,11.6254,Y,N,,,FP(EB),N,Rp = 79 Re; odd-even,,lipponen,
+100029948,100029948.02,,2.775,1.3888,11.6254,Y,N,,,FP(EB),N,Rp = 79 Re; odd-even,,lipponen,
+124852105,124852105.01,,0.27,0.26952,12.168,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+130469151,130469151.01,,2.403,,12.3078,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+135243705,135243705.01,,2.659,2.65926,11.7929,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+138941853,138941853.01,,11.59,11.6007,11.5716,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+139825840,139825840.01,,7.668,3.844,5.64,Y,N,,,FP(EB),N,Rp = 267 Re,,lipponen,
+139825840,139825840.02,,7.701,3.844,5.64,Y,N,,,FP(EB),N,Rp = 267 Re,,lipponen,
+141268467,141268467.01,,4.181,2.0902; 2.0889,7.7088,Y,N,,,FP(EB),N,Rp = 164 Re,,lipponen,
+141268467,141268467.02,,4.175,2.0902; 2.0889,7.7088,Y,N,,,FP(EB),N,Rp = 164 Re,,lipponen,
+141307678,141307678.01,,15.891,7.9419,11.1534,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+141622065,141622065.01,,2.952,1.464,9.7993,Y,N,,,FP(EB),N,Rp = 164 Re,,lipponen,
+141622065,141622065.02,,3,1.464,9.7993,Y,N,,,FP(EB),N,Rp = 164 Re,,lipponen,
+141809359,141809359.01,,12.149,12.1585; 12.1574,11.3725,Y,N,,,FP(EB),N,Rp = 179 Re,,lipponen,
+150429807,150429807.01,,,26.2247; 15.2182,9.6161,Y,N,,,FP(EB),N,Rp = 43 Re,,lipponen,
+150442264,150442264.01,,1.653,14.4139; 38.1634; 2.9817; 11.8572; 2.9818; 2.9817; 10.7795; 5.9614; 11.5175; 2.9818,6.2927,Y,N,,,FP(EB),N,EB,,lipponen,
+151940400,151940400.01,,3.558,3.5576,11.0143,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+153077619,153077619.01,,18.083,6.0256,8.0365,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+153734545,153734545.01,,3.22,3.219,9.9302,Y,N,,,FP(EB),N,"radius 77 earth radii; new CTOI likely member of NGC 2527     , PATHOS-14 in Nardiello et al. (2020)",,nardiello,qlp
+153735144,153735144.01,,3.779,3.7787,11.586,Y,N,,,FP(EB),N,"radius 31 earth radii; new CTOI likely member of NGC 2527     , PATHOS-15 in Nardiello et al. (2020)",,nardiello,qlp
+158737091,158737091.01,,0.517,0.51718,11.0818,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+178154917,178154917.01,,,"11.8511, 40.0917",9.6779,Y,N,,,FP(EB),N,WINE single transit,,brahm,qlp
+180412528,180412528.01,,4.588,2.2936; 13.0032,10.758,Y,N,,,FP(EB),N,Eccentric EB,,lipponen,
+180412528,180412528.02,,4.589,2.2936; 13.0032,10.758,Y,N,,,FP(EB),N,Eccentric EB,,lipponen,
+198008002,198008002.01,,6.56,3.2797,10.3963,Y,N,,,FP(EB),N,"new CTOI; off target
+",,gsun,qlp
+200321330,200321330.01,,1.815,1.81523,11.1924,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+201256771,201256771.01,,3.755,1.8806,11.3801,Y,N,,,FP(EB),N,Rp = 42 Re,,lipponen,
+201256771,201256771.02,,3.767,1.8806,11.3801,Y,N,,,FP(EB),N,Rp = 42 Re,,lipponen,
+204497617,204497617.02,,3.18,1.5892; 1.5892,11.7963,Y,N,,,FP(EB),N,EB,,lipponen,
+206462116,206462116.01,,2.974,1.4837,9.181,Y,N,,,FP(EB),N,Rp = 131 Re,,lipponen,
+206462116,206462116.02,,2.969,1.4837,9.181,Y,N,,,FP(EB),N,Rp = 131 Re,,lipponen,
+207080350,207080350.02,,18.382,6.2375; 9.1069; 9.1069,7.0938,Y,N,,,FP(EB),N,EB,,lipponen,
+214517366,214517366.01,,,20.9616,10.4831,Y,N,,,FP(EB),N,Single transit; Rp = 27 Re,,lipponen,
+219254268,219254268.01,,6.955,6.95526,12.211,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+220076110,220076110.01,2796.01,4.808,4.80649,11.916,Y,N,,Thought FP,FP(EB),N,"new CTOI, Montalto et al. (2020); had odd-even in sector 6 but only 4 transits",,montalto,qlp
+220402290,220402290.02,,0.722,0.7853; 0.7853,11.5681,Y,N,,,FP(EB),N,Rp = 52 Re,,lipponen,
+220474209,220474209.02,,0.942,1.9603; 0.9811; 24.5475; 0.9801,10.2897,Y,N,,,FP(EB),N,EB,,lipponen,
+220567625,220567625.01,,19.444,44.9483; 55.16; 51.3871; 18.6113; 10.4999; 55.5924,7.3545,Y,N,,,FP(EB),N,Rp = 68 Re,,lipponen,
+220567625,220567625.02,,,44.9483; 55.16; 51.3871; 18.6113; 10.4999; 55.5924,7.3545,Y,N,,,FP(EB),N,Rp = 68 Re,,lipponen,
+224307602,224307602.01,,0,17.215,8.7093,Y,N,,,FP(EB),N,Centroid offset on another star,PHT candidate. Single transit event.,eisner,
+231833061,231833061.01,,,26.1556; 26.1877,10.9619,Y,N,,,FP(EB),N,EB,,lipponen,
+231833061,231833061.02,,,26.1556; 26.1877,10.9619,Y,N,,,FP(EB),N,EB,,lipponen,
+231860752,231860752.01,,0.989,1.9599,8.582,Y,N,,,FP(EB),N,Rp = 43 Re,,lipponen,
+233961334,233961334.01,,1.153,1.15256,10.5873,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+234347951,234347951.01,,,23.3043; 6.1164,10.4416,Y,N,,,FP(EB),N,Rp = 104 Re,,lipponen,
+234347951,234347951.02,,,23.3043; 6.1164,10.4416,Y,N,,,FP(EB),N,Rp = 104 Re,,lipponen,
+251061007,251061007.01,,2.621,2.62081,10.2215,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+253922296,253922296.02,,9.426,3.1386; 3.1417,9.92411,Y,N,,,FP(EB),N,Synchronized; secondary,,lipponen,
+259784884,259784884.01,,,9.6613,11.5422,Y,N,,,FP(EB),N,First 2 events seem spurious; third is real,,lipponen,
+260639999,260639999.01,,22.635,16.7643,11.063,Y,N,,,FP(EB),N,Too faint for QLP; possible single; centroid offset in SPOC,,galgano,
+263074592,263074592.01,,8.376,19.5809; 16.3529; 8.0703,9.3587,Y,N,,,FP(EB),N,Rp = 288 Re,,lipponen,
+263074592,263074592.02,,8.413,19.5809; 16.3529; 8.0703,9.3587,Y,N,,,FP(EB),N,Rp = 288 Re,,lipponen,
+265469420,265469420.01,,,15.5267,11.3881,Y,N,,,FP(EB),N,Rp = 47 Re,,lipponen,
+265469420,265469420.02,,,15.5267,11.3881,Y,N,,,FP(EB),N,Rp = 47 Re,,lipponen,
+267185423,267185423.01,,,11.2268,9.4963,Y,N,,,FP(EB),N,Single transit; too large,,lipponen,
+267608606,267608606.01,,0,8.3251,9.5729,Y,N,,,FP(EB),N,Multi or EB; investigate further,,eisner,
+270450687,270450687.02,,0,42.7131,9.74467,Y,N,,,FP(EB),N,Possibly EB primary transit to .01,,deen,
+273792220,273792220.01,,1.987,28.822; 22.9961; 9.8263; 13.578; 18.2389; 0.9939,7.4648,Y,N,,,FP(EB),N,248 sigma odd-even,,lipponen,
+273792220,273792220.02,,1.987,28.822; 22.9961; 9.8263; 13.578; 18.2389; 0.9939,7.4648,Y,N,,,FP(EB),N,248 sigma odd-even,,lipponen,
+275083922,275083922.01,,7.404,2.9286; 14.8333,10.9613,Y,N,,,FP(EB),N,SPOC centroid offset centered near other star,,cloutier,
+278683641,278683641.01,,4.252,4.2414; 4.2419,9.5402,Y,N,,,FP(EB),N,Rp = 74 Re,,lipponen,
+278683641,278683641.02,,4.26,4.2414; 4.2419,9.5402,Y,N,,,FP(EB),N,Rp = 74 Re,,lipponen,
+278784173,278784173.01,,1.497,0.7474,12.814,Y,N,,,FP(EB),N,Rp = 35 Re,,lipponen,
+278988794,278988794.01,,7.503,15.184; 7.5916,13.7216,Y,N,,,FP(EB),N,Rp = 59 Re,,lipponen,
+278988794,278988794.02,,3.808,15.184; 7.5916,13.7216,Y,N,,,FP(EB),N,Rp = 59 Re,,lipponen,
+278990954,278990954.01,,0,10.393,10.1864,Y,N,,,FP(EB),N,EB in GV,Planet Hunters TESS candidate. Single transit event.,eisner,
+287328866,287328866.01,,2.063,0.9616; 0.9614; 1.0384; 0.9616; 0.9616; 0.9616,12.4034,Y,N,,,FP(EB),N,Rp =27.5 Re; ruled EB,,lipponen,
+287328866,287328866.02,,2.08,0.9616; 0.9614; 1.0384; 0.9616; 0.9616; 0.9616,12.4034,Y,N,,,FP(EB),N,Rp =27.5 Re; ruled EB,,lipponen,
+290049697,290049697.01,,,12.4277,9.188,Y,N,,,FP(EB),N,Single transit; too large to be planet,,lipponen,
+300903537,300903537.03,,,5.823336,12.2995,Y,N,,,FP(EB),N,Primary/secondary,,lipponen,
+302495337,302495337.01,,2.25,2.24778,9.36462,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+304339227,304339227.01,4629.01,0,9.0521,8.6577,Y,N,,,FP(EB),N,Centroid offset,PHT candidate. Single transit event.,eisner,spoc
+306667367,306667367.01,,10.049,10.049,12.3785,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+309658221,309658221.01,,7.587,3.7975,9.8567,Y,N,,,FP(EB),N,Rp = 37 Re,,lipponen,
+309658221,309658221.02,,7.59,3.7975,9.8567,Y,N,,,FP(EB),N,Rp = 37 Re,,lipponen,
+325469795,325469795.01,,,17.4569,9.7293,Y,N,,,FP(EB),N,Rp = 211 Re,,lipponen,
+325469795,325469795.02,,,17.4569,9.7293,Y,N,,,FP(EB),N,Rp = 211 Re,,lipponen,
+341492896,341492896.01,,3.732,3.7331,11.8629,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+350479101,350479101.01,,,54.0977; 11.9169; 57.2133; 54.9704,9.2823,Y,N,,,FP(EB),N,Rp = 54 Re,,lipponen,
+364302118,364302118.01,,1.347,34.8206; 0.6727; 0.6728; 0.6727,10.3606,Y,N,,,FP(EB),N,Odd-even,,lipponen,
+364302118,364302118.02,,1.349,34.8206; 0.6727; 0.6728; 0.6727,10.3606,Y,N,,,FP(EB),N,Odd-even,,lipponen,
+369456296,369456296.01,,,11.4021,11.0756,Y,N,,,FP(EB),N,Single transit; Rp = 25 Re; investigate further,,lipponen,
+370324073,370324073.01,,,7.8428; 6.5837,10.586,Y,N,,,FP(EB),N,Rp = 51 Re,,lipponen,
+370324073,370324073.02,,,7.8428; 6.5837,10.586,Y,N,,,FP(EB),N,Rp = 51 Re,,lipponen,
+389927567,389927567.01,,6.941,6.9418,13.1149,Y,N,,,FP(EB),N,"new CTOI likely member of Melotte 101  , PATHOS-24 in Nardiello et al. (2020)",too large; radius 73 earth radii,nardiello,qlp
+394230860,394230860.01,,,10.9347,10.0877,Y,N,,,FP(EB),N,Rp = 147 Re,,lipponen,
+394230860,394230860.02,,,10.9347,10.0877,Y,N,,,FP(EB),N,Rp = 147 Re,,lipponen,
+404927661,404927661.01,,18.535,95.3949; 11.3702; 13.205; 88.3725,8.9338,Y,N,,,FP(EB),N,Rp = 72 Re,,lipponen,
+404927661,404927661.02,,,95.3949; 11.3702; 13.205; 88.3725,8.9338,Y,N,,,FP(EB),N,Rp = 72 Re,,lipponen,
+406276109,406276109.02,,7.556,7.5472; 7.5478,13.8137,Y,N,,,FP(EB),N,Secondary,,lipponen,
+410126347,410126347.01,,1.413,1.4272,9.6856,Y,N,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+441056702,441056702.01,,6.342,nan,11.1028,Y,N,,,FP(EB),N,Single transit; scattered light; centroid offset; background flux spikes around epoch 1371,,christiansen,
+441422527,441422527.01,,0.208,0.373; 0.3729,6.1732,Y,N,,,FP(EB),N,Rp = 65 Re,,lipponen,
+11356662,11356662.01,,3.249,3.245846,10.0162,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,spoc
+25078924,25078924.01,,0.91,0.904341,10.705,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+25078924,25078924.02,,0.9,0.904341,10.705,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+25226885,25226885.01,,1.631,1.632095,11.9329,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+25226885,25226885.02,,1.63,1.632095,11.9329,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+25354620,25354620.01,,5.023,5.026564,11.8068,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,spoc
+29478974,29478974.01,,24.903,24.907366,10.619,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+29478974,29478974.02,,12.458,12.453897,10.619,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+29986808,29986808.01,,2.134,2.118708,10.4281,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+29986808,29986808.02,,2.123,2.118708,10.4281,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+12.84663084,30836645.01,,17.283,17.2833,10.3255,Y,Y,,,FP(EB),N,Found with our in-house single transit finder,,steuer,spoc
+31869740,31869740.01,,4.429,4.427,12.0465,Y,Y,,,FP(EB),N,new CTOI; secondary,,gsun,spoc
+32150630,32150630.01,,1.494,1.490921,11.9631,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+32150630,32150630.02,,1.489,1.490921,11.9631,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+39018208,39018208.01,,6.646,6.649337,11.1032,Y,Y,,,FP(EB),N,,,lipponen,
+41896812,41896812.01,,1.259,1.260549,10.7553,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+41896812,41896812.02,,1.263,1.260549,10.7553,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+46627823,46627823.01,,6.005,6.004997,11.0395,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+50380257,50380257.01,,1.349,1.348477,9.237701,Y,Y,,,FP(EB),N,Synchronized; secondary,,lipponen,
+52079677,52079677.01,,9.035,9.029811,11.9028,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+52079677,52079677.02,,9.042,9.029811,11.9028,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+52449797,52449797.01,,2.45,4.899041,10.5946,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+54256015,54256015.01,,4.904,4.9045,10.3404,Y,Y,Y,N,FP(EB),N,newCTOI; large likely EB; 1000 ppm secondary,,gsun,
+55404385,55404385.01,,2.95,2.952049,6.6081,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+55404385,55404385.02,,2.95,2.952049,6.6081,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+55497281,55497281.01,,14.903,14.90555,7.198,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+55524055,55524055.01,,2.649,2.649465,11.8378,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+55524055,55524055.02,,2.649,2.649465,11.8378,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+70442570,70442570.01,,11.527,11.527153,5.6605,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+70442570,70442570.02,,11.5,11.527153,5.6605,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+78740218,78740218.01,,2.56,2.558682,11.9019,Y,Y,,,FP(EB),N,,,cloutier,
+91369561,91369561.02,,3.993,3.983716,10.9545,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+91369561,91369561.03,,3.992,3.983716,10.9545,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+92320552,92320552.01,,1.623,1.622,9.892901,Y,Y,,,FP(EB),N,Preliminary Vetting with DAVE,,rao,
+92350408,92350408.01,,2.956,2.957841,11.0276,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,deen,qlp
+92594505,92594505.01,,22.869,22.870032,8.043,Y,Y,,,FP(EB),N,Too large,,lipponen,
+99086567,99086567.01,,11.85,11.857,7.5016,Y,Y,,,FP(EB),N,newCTOI,off target in spoc s33 and spoc s34,gsun,spoc
+102169275,102169275.01,,6.55,6.5499,11.6886,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,spoc
+115115136,115115136.01,,3.971,3.961847,11.3959,Y,Y,,,FP(EB),N,,,lipponen,
+115115136,115115136.02,,4,3.961847,11.3959,Y,Y,,,FP(EB),N,,,lipponen,
+115410334,115410334.01,,13.424,13.442,8.86497,Y,Y,,,FP(EB),N,Centroid offset + depth-aperture correlation,"seems close to a grazing transit, but not quite.",deen,
+118084297,118084297.01,,15.803,15.803,11.2718,Y,Y,Y,N,FP(EB),N,newCTOI; Y1 and s36 SPOC shows eccentric EB,,gsun,spoc
+118084297,118084297.01,,15.803,15.797,11.2718,Y,Y,,,FP(EB),N,newCTOI,,gsun,spoc
+121420805,121420805.01,,1.72,1.716666,11.3169,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+121420805,121420805.02,,1.72,1.716666,11.3169,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+122897814,122897814.01,,3.2,3.2003,10.5333,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+126945917,126945917.01,,1.348,1.341009,9.1063,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+126945917,126945917.02,,1.342,1.341009,9.1063,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+129268651,129268651.01,,5.965,5.962751,13.8728,Y,Y,,,FP(EB),N,,primary with a secondary,cloutier,
+135050395,135050395.01,,6.76,6.76,9.5765,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,spoc
+136886352,136886352.01,,2.722,1.3589,10.9402,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+137205922,137205922.01,,3.3,3.2996,10.595,Y,Y,,,FP(EB),N,33 Re,V/U-shaped graze but no secondary. Coincides with stellar variability,deen,
+140659980,140659980.01,,9.442,9.440329,8.984901,Y,Y,,,FP(EB),N,,,lipponen,
+140659980,140659980.02,,9.438,9.440329,8.984901,Y,Y,,,FP(EB),N,,,lipponen,
+140736015,140736015.01,,7.314,7.313,10.2518,Y,Y,,,FP(EB),N,52 Re,"V-shaped grazing transit, no secondary",deen,
+141708335,141708335.01,,4.762,4.760993,12.055,Y,Y,,,FP(EB),N,Centroid offset centered on another star,,cloutier,
+141770592,141770592.01,,12.125,12.12459,9.769301,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+141809359,141809359.02,,12.161,12.158472,11.3725,Y,Y,,,FP(EB),N,,,lipponen,
+141943694,141943694.01,,1.836,1.83475,11.3597,Y,Y,,,FP(EB),N,Centroid offset centered on another star,,galgano,
+142443425,142443425.01,,0.308,0.30825,10.9294,Y,Y,,,FP(EB),N,new CTOI,,gsun,spoc
+143924219,143924219.01,,2.818,2.820099,8.3245,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+143924219,143924219.02,,2.815,2.820099,8.3245,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+144000467,144000467.01,,8.883,8.883343,8.2307,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+144000467,144000467.02,,8.884,8.883343,8.2307,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+144284873,144284873.01,,0.893,0.893054,10.6479,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+144462697,144462697.01,,1.233,1.233992,11.8315,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+144462697,144462697.02,,1.235,1.233992,11.8315,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+146129309,146129309.01,,3.214,3.2151,10.8613,Y,Y,,,FP(EB),N,Some depth-aperture; PC in individual vetting; recon spectra show it's SB2,,bouma,
+147035057,147035057.01,,,11.5578,8.487701,Y,Y,,,FP(EB),N,Found with our in-house single transit finder,too big; EB,steuer,spoc
+148158540,148158540.01,,1.849,1.849554,5.8843,Y,Y,,,FP(EB),N,Eccentric EB,,montet,
+150101472,150101472.01,,3.278,3.2784,9.8773,Y,Y,,,FP(EB),N,new CTOI,,gsun,spoc
+150442264,150442264.02,,2.982,2.981688,6.2927,Y,Y,,,FP(EB),N,,,lipponen,
+152223725,152223725.01,,4.432,4.43705,9.3148,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+152223725,152223725.02,,4.44,4.43705,9.3148,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+153123407,153123407.01,,0.257,0.25717,10.4612,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+160036449,160036449.01,,1.897,1.893055,10.8022,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+160036449,160036449.02,,1.894,1.893055,10.8022,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+161577376,161577376.01,,8.29,8.2838,11.3119,Y,Y,,,FP(EB),N,Preliminary Vetting with DAVE.  There are 3 transits with centroids.,,rao,
+162694128,162694128.01,,1.334,2.6663,11.3705,Y,Y,,,FP(EB),N,Centroid offset and 4-sigma secondary,"V-shaped grazing, 52 transits",deen,
+165493409,165493409.01,,9.112,9.1121,10.3836,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,spoc
+165531514,165531514.01,,3.108,3.1069,12.0875,Y,Y,,,FP(EB),N,Centroid offset on another star,,kruse,
+167554898,167554898.01,,4.454,4.4536,9.6778,Y,Y,,,FP(EB),N,new CTOI,,gsun,spoc
+167692429,167692429.01,,10.257,10.290123,10.507,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+167692429,167692429.02,,10.26,10.290123,10.507,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+167792080,167792080.01,,3.254,3.25061,11.7956,Y,Y,,,FP(EB),N,Centroid offset centered on another star,,galgano,
+177350401,177350401.01,,12.075,12.07461,11.04,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,spoc 
+191672086,191672086.01,,2.683,2.679475,13.6497,Y,Y,,,FP(EB),N,,offset,cloutier,
+197760286,197760286.01,,0.601,0.60128,9.5841,Y,Y,,,FP(EB),N,new CTOI,,gsun,qlp
+198382308,198382308.02,,2.0806,2.0802,11.8049,Y,Y,,,FP(EB),N,Signal is secondary; centroid offset,"secondary transit to 198382308.01, but boxy, so full transit",deen,
+200324182,200324182.01,,1.297,1.297,10.379,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+201234926,201234926.01,,14.094,14.092215,11.5159,Y,Y,,,FP(EB),N,Too large,,lipponen,
+201293780,201293780.01,,0.94,0.938671,9.7546,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+201293780,201293780.02,,0.88,0.938671,9.7546,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+204327008,204327008.01,,0.32,0.323262,11.0763,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+204327008,204327008.02,,0.32,0.323262,11.0763,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+204497617,204497617.01,,1.59,1.589161,11.7963,Y,Y,,,FP(EB),N,Too large; secondary,,lipponen,
+206556127,206556127.01,,1.106,1.105503,8.8209,Y,Y,,,FP(EB),N,Too large,,lipponen,
+207080350,207080350.01,,9.106,9.106941,7.0938,Y,Y,,,FP(EB),N,Eccentric EB,,lipponen,
+211380233,211380233.01,,4.59,4.637339,12.1074,Y,Y,,,FP(EB),N,,Source is 211380239.,lipponen,
+214299966,214299966.01,,3.068,3.063765,10.4589,Y,Y,,,FP(EB),N,Signal is secondary,possibly syncd to stellar rotation,lipponen,
+219095755,219095755.01,,8.908,8.9003,11.0294,Y,Y,,,FP(EB),N,Centroid offset on another star,,kruse,
+219151731,219151731.01,2483.01,1.485,1.4853,10.1217,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",depth aperture correlation,montalto,qlp
+219207175,219207175.01,,2.343,2.3428,12.2043,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+219308281,219308281.01,,2.86,2.856943,11.7229,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+219308281,219308281.02,,2.85,2.856943,11.7229,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+219322317,219322317.01,,8.546,8.545,12.1903,Y,Y,,,FP(EB),N,early year 1 report; priority 4/5; new CTOI,Clear secondary in sector-1-early-look,gsun,qlp
+219421728,219421728.01,,0.671,0.67115,11.2065,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+219777401,219777401.01,,4.608,4.6099,12.4978,Y,Y,,,FP(EB),N,Centroid offset on another star,,kruse,
+219780464,219780464.01,,1.001,1.0004,11.6492,Y,Y,,,FP(EB),N,V-shaped; 4 sigma odd-even,,kruse,
+219865181,219865181.01,,1.118,1.116988,11.83,Y,Y,,,FP(EB),N,Centroid offset on another star,,kruse,
+220388567,220388567.01,,1.829,1.82361,9.1763,Y,Y,,,FP(EB),N,Odd-even,,lipponen,
+220402290,220402290.01,,0.783,0.785319,11.5681,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+220474209,220474209.01,,0.981,0.981124,10.2897,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+220523550,220523550.01,,13.524,13.496574,11.1117,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+220523550,220523550.02,,13.495,13.496574,11.1117,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+220595524,220595524.01,,10.741,5.3716,12.2418,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,spoc
+229487733,229487733.01,,13.338,"13.3127, 13.356999999999999",10.6484,Y,Y,,,FP(EB),N,26 full transits,,eisner,
+229597404,229597404.01,,6.372,6.3725,12.6601,Y,Y,,,FP(EB),N,Deep secondary away from phase 0.5,,kruse,
+229778990,229778990.01,,7.78,7.7757,12.5119,Y,Y,,,FP(EB),N,Centroid offset on another star,,kruse,
+229808144,229808144.01,,11.611,11.610027,10.0221,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+229808144,229808144.02,,11.608,11.610027,10.0221,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+230023734,230023734.01,,10.063,20.137,9.65178,Y,Y,,,FP(EB),N,"U-shaped, very weak & uncertain secondary.",,montalto,spoc
+230050959,230050959.01,,1.128,2.2549,11.9576,Y,Y,,,FP(EB),N,1350 ppm secondary,,kruse,
+231279823,231279823.01,,5.976,5.968964,8.70466,Y,Y,,,FP(EB),N,Centroid offset centered on another star,,cloutier,
+231714759,231714759.01,,5.486,5.450688,9.3827,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+231714759,231714759.02,,5.48,5.450688,9.3827,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+231840927,231840927.01,,0.818,0.8182,10.0031,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,spoc
+233051157,233051157.01,,0.72,0.72014,12.1896,Y,Y,,,FP(EB),N,Centroid offset on another star,,kruse,
+233058265,233058265.01,,26.277,26.278,11.733,Y,Y,,,FP(EB),N,Deep secondary away from phase 0.5,,kruse,
+233208635,233208635.01,,8.742,8.7432,12.8254,Y,Y,,,FP(EB),N,Depth-aperture correlation,,kruse,
+233714939,233714939.01,,2.2,2.1995,12.6501,Y,Y,,,FP(EB),N,Secondary; depth-aperture correlation,,kruse,
+233744223,233744223.01,,44.562,44.559,11.7661,Y,Y,,,FP(EB),N,26 Re at 44 d,,kruse,
+234503282,234503282.01,,1.438,1.439303,10.9643,Y,Y,,,FP(EB),N,,It is KS,feinstein,
+235009317,235009317.01,,7.458,7.456863,11.8251,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+235009317,235009317.02,,7.453,7.456863,11.8251,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+236761861,236761861.01,,0.893,0.89296,12.2506,Y,Y,,,FP(EB),N,25 Re,,kruse,
+237236168,237236168.01,,2.316,2.31351,10.2665,Y,Y,,,FP(EB),N,Significant depth-aperture correlation,,kruse,
+237332597,237332597.01,,2.93,2.927444,8.0969,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+237332597,237332597.02,,2.93,2.927444,8.0969,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+238082493,238082493.01,,0.877,0.8774,10.0982,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+238235254,238235254.01,,5.571,5.5699,6.5038,Y,Y,,,FP(EB),N,"new CTOI likely member of Velorum association, PATHOS-39 in Nardiello (2020)",odd/even; v-shaped; too deep,nardiello,qlp
+238616144,238616144.01,,2.466,2.46544,10.5649,Y,Y,,,FP(EB),N,,contaminates 238616135,bouma,
+251087387,251087387.01,,3.025,3.0248,10.5095,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,spoc
+253922296,253922296.01,,3.141,3.13859,9.92411,Y,Y,,,FP(EB),N,,,lipponen,
+253928535,253928535.01,,1.122,1.124764,11.1863,Y,Y,,,FP(EB),N,Odd-even,,lipponen,
+256865091,256865091.01,,5.199,5.1993,12.3856,Y,Y,,,FP(EB),N,Deep secondary away from phase 0.5,,kruse,
+257648522,257648522.01,,2.695,2.6947,9.78482,Y,Y,,,FP(EB),N,KELT FP; new CTOI,,gsun,qlp
+258918835,258918835.01,,5.986,5.9855,12.6961,Y,Y,,,FP(EB),N,Centroid offset on another star,,kruse,
+260502102,260502102.01,,7.315,7.315218,11.0261,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+260502102,260502102.02,,7.31,7.315218,11.0261,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+261107974,261107974.01,,12.768,12.760552,12.5716,Y,Y,,,FP(EB),N,Centroid offset centered on another star,,galgano,
+261335113,261335113.01,,8.119,8.130552,13.6527,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+261335113,261335113.02,,8.131,8.130552,13.6527,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+264051559,264051559.01,,5.464,5.4638,11.0722,Y,Y,,,FP(EB),N,new CTOI,,gsun,spoc
+265279725,265279725.01,,2.554,2.5536,12.045,Y,Y,,,FP(EB),N,sector 34 only- good fit to model transits,EBLM J0851+05,rrodrigues,spoc
+265489698,265489698.01,,1.156,1.155455,8.7863,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+265489698,265489698.02,,1.153,1.155455,8.7863,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+265613590,265613590.01,,4.82,4.818091,7.2228,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+265613590,265613590.02,,4.815,4.818091,7.2228,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+266996791,266996791.01,,2.126,2.126088,10.4893,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+266996791,266996791.02,,2.123,2.126088,10.4893,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+269698422,269698422.01,,2.39,2.3913,11.2163,Y,Y,,,FP(EB),N,new CTOI,,gsun,spoc
+269829384,269829384.01,,1.231,1.243205,11.9403,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+269829384,269829384.02,,1.248,1.243205,11.9403,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+270677759,270677759.01,,9.121,9.12911,12.5937,Y,Y,,,FP(EB),N,Centroid offset centered on another star,,galgano,
+272357134,272357134.01,,4.188,4.197416,8.5363,Y,Y,,,FP(EB),N,,,lipponen,
+272357134,272357134.02,,4.196,4.197416,8.5363,Y,Y,,,FP(EB),N,,,lipponen,
+275570329,275570329.01,,2.142,2.1448,13.0733,Y,Y,,,FP(EB),N,EB Kepler-854 b,Kepler confirmed planet KOI-1450.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep),wilson,
+277649549,277649549.01,,14.488,14.490452,7.5194,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+277649549,277649549.02,,14.49,14.490452,7.5194,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+279314488,279314488.01,,1.83,1.832658,10.519,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+279314488,279314488.02,,1.83,1.832658,10.519,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+284206913,284206913.01,3972.01,10.511,10.51135,10.7486,Y,Y,,,FP(EB),N,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.,deeper transit on tic match to 284206931 which is R=15Rs,olmschenk,qlp
+284990199,284990199.01,,4.093,4.0935,13.7187,Y,Y,,,FP(EB),N,new CTOI,,gsun,spoc
+290044434,290044434.01,,1.089,1.0891,9.8266,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,qlp
+293480903,293480903.01,,7.578,7.569497,10.4412,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+293480903,293480903.02,,7.57,7.569497,10.4412,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+293689267,293689267.01,,14.834,14.812223,9.529,Y,Y,,,FP(EB),N,,centroid,cloutier,
+300560295,300560295.01,,10.289,10.294329,10.7757,Y,Y,,,FP(EB),N,Too large + secondary,,lipponen,
+300903537,300903537.01,,5.824,5.8233; 5.8236; 11.6262,12.2995,Y,Y,,,FP(EB),N,9000 ppm secondary,,lipponen,
+300903537,300903537.02,,5.798,5.823336,12.2995,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+303909865,303909865.01,,2.131,2.125059,9.1941,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+303909865,303909865.02,,2.125,2.125059,9.1941,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+306385801,306385801.01,,7.018,7.01878,9.5283,Y,Y,,,FP(EB),N,Large; killed in GV; recon spectra show it's SB2,,bouma,
+306828113,306828113.01,,0.425,0.42529,10.9838,Y,Y,Y,N,FP(EB),N,newCTOI; significant odd even; very v-shaped; short period; EB,,gsun,
+308425348,308425348.01,1918.01,3.399,3.3983,12.2876,Y,Y,,,FP(EB),N,Significant depth-aperture correlation in QLP report; no match on simbad;alerted by mistake,,bouma,qlp
+308851582,308851582.01,,4.919,4.912427,9.8967,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+308851582,308851582.02,,4.912,4.912427,9.8967,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+308991822,308991822.01,,8.226,8.224998,9.0625,Y,Y,,,FP(EB),N,EB; primary/secondary,,lipponen,
+309146836,309146836.01,,5.426,5.427521,5.2111,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+309146836,309146836.02,,5.43,5.427521,5.2111,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+318357083,318357083.01,,3.24,3.245,10.2184,Y,Y,,,FP(EB),N,"RUWE binarity score = 0.95.  Found several transits, and it looks like a 'U'.",,rao,
+325205605,325205605.01,,4.245,4.248996,11.9179,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+325205605,325205605.02,,4.25,4.248996,11.9179,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+326356701,326356701.01,,1.111,1.112218,8.3387,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+326356701,326356701.02,,1.11,1.112218,8.3387,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+341983711,341983711.01,,2.516,2.5152,13.1335,Y,Y,,,FP(EB),N,Centroid offset centered on another star,"appears confidently for 8 transits in a row, but only appears once during the previous 7.",deen,
+344087362,344087362.01,,14.496,7.2383,10.0801,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",BEB,montalto,qlp
+349154435,349154435.01,,4.431,4.431976,12.2068,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+349154435,349154435.02,,4.431,4.431976,12.2068,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+349518145,349518145.01,,4.14,4.139636,12.6017,Y,Y,,,FP(EB),N,,odd-even,lipponen,
+350479101,350479101.02,,11.923,11.916872,9.2823,Y,Y,,,FP(EB),N,EB; too large,,lipponen,
+350480660,350480660.01,,4.463,4.4638,11.3075,Y,Y,,,FP(EB),N,Preliminary Vetting with DAVE,Kelt FP,rao,
+352915304,352915304.01,,3.4929,3.4904,10.9457,Y,Y,,,FP(EB),N,Centroid offset centered on another star,"very good, reliable signal.",deen,
+355601117,355601117.01,,4.157,4.152178,11.2088,Y,Y,,,FP(EB),N,,Too big.,lipponen,
+355601117,355601117.02,,4.15,4.152178,11.2088,Y,Y,,,FP(EB),N,,Too big.,lipponen,
+358457398,358457398.01,,2.268,2.276353,11.3587,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+358457398,358457398.02,,2.266,2.276353,11.3587,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+360205899,360205899.01,,0.429,0.428576,12.6942,Y,Y,,,FP(EB),N,EB; primary/secondary,,earley,
+372913337,372913337.01,,1.786,1.786,8.9232,Y,Y,,,FP(EB),N,"new CTOI likely member of NGC 2516     , PATHOS-23 in Nardiello et al. (2020)",v-shaped; varying transit depths; odd-even,nardiello,qlp
+374732772,374732772.01,,18.794,18.843,10.0122,Y,Y,,,FP(EB),N,"new CTOI likely member of Lupus association  , PATHOS-42 in Nardiello (2020)",large odd/even,nardiello,spoc
+381854774,381854774.01,,1.642,1.644572,10.5944,Y,Y,,,FP(EB),N,Odd-even; v-shaped; large,,lipponen,
+381856446,381856446.01,,1.769,1.769,12.2989,Y,Y,,,FP(EB),N,Preliminary Vetting with DAVE,,rao,
+382260153,382260153.01,,5.7,5.7008,11.3098,Y,Y,,,FP(EB),N,new CTOI; centroid offset,,gsun,
+382517745,382517745.01,,10.436,10.441504,10.5992,Y,Y,,,FP(EB),N,,,lipponen,
+382517745,382517745.02,,10.438,10.441504,10.5992,Y,Y,,,FP(EB),N,,,lipponen,
+388128308,388128308.01,,1.194,1.194174,12.0168,Y,Y,,,FP(EB),N,,,galgano,
+394585218,394585218.01,,3.967,3.964158,10.2965,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+394585218,394585218.02,,3.96,3.964158,10.2965,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+406276109,406276109.01,,7.548,7.547228,13.8137,Y,Y,,,FP(EB),N,Eccentric EB,,lipponen,
+406681360,406681360.01,,4.904,4.9018,9.61,Y,Y,,,FP(EB),N,31 Re,"Pronounced dip in lightcurve, indicative of potent planetary transit",nrao,
+407584737,407584737.01,,5.656,5.650127,7.5728,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+407584737,407584737.02,,5.653,5.650127,7.5728,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+419744996,419744996.01,,7.002,7.00499,8.579701,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+419744996,419744996.02,,7.02,7.00499,8.579701,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+438524691,438524691.01,,8.88,8.86703771,10.428,Y,Y,,,FP(EB),N,newCTOI,off-target from spoc-s32-b02,gsun,spoc
+439366537,439366537.01,,4.314,4.314034,8.84283,Y,Y,,,FP(EB),N,"new CTOI, Montalto et al. (2020)",,montalto,
+441422220,441422220.01,,3.7,3.699999,9.0641,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+441422220,441422220.02,,3.7,3.699999,9.0641,Y,Y,,,FP(EB),N,Primary/secondary,,lipponen,
+140298355,140298355.01,,,,8.3176,N,N,Y,N,FP(IS),N,Found with our in-house single transit finder; looks like systematic,,steuer,qlp
+147855066,147855066.01,,,,7.417,N,N,Y,N,FP(IS),N,Found with our in-house single transit finder; likely systematic; data at location flagged out due to poor quality,,steuer,qlp
+313006381,313006381.01,4631.01,,320.71,8.7551,N,N,,,FP(IS),N,PHT candidate. Single transit event.,,eisner,spoc
+336075472,336075472.01,4632.01,,49.137,10.6329,N,N,,,FP(IS),N,PHT candidate. Single transit event.,,eisner,spoc
+349096525,349096525.01,,,,6.0755,N,N,Y,N,FP(IS),N,Found with our in-house single transit finder; can't see transit and duration (0.6 hr) too short for single,,steuer,qlp
+407663579,407663579.01,,,,12.9767,N,N,Y,N,FP(IS),N,Found with our in-house single transit finder; looks like systematic,,steuer,qlp
+31273263,31273263.01,,,12.0333,10.7858,Y,N,,,FP(IS),N,Rp = 142 Re,,lipponen,
+49678165,49678165.01,,35.64,12.364,12.9993,Y,N,,,FP(IS),N,Single transit; centroid offset but not centered on anything; investigate further; background light at epoch 1371 consistent with asteroid,,christiansen,
+100103200,100103200.01,,18.446,26.5883; 15.9484,8.69367,Y,N,,,FP(IS),N,IS,,christiansen,
+212323118,212323118.01,,169,14.0738; 13.4617,13.9194,Y,N,,,FP(IS),N,Spurious signal,,damboiu,
+220408612,220408612.01,,20.428,91.1899,7.7421,Y,N,,,FP(IS),N,Signal seems spurious,,spencer,
+220408612,220408612.02,,59.992,91.1899,7.7421,Y,N,,,FP(IS),N,Signal seems spurious,,spencer,
+229556468,229556468.01,,,13.2668,10.0722,Y,N,,,FP(IS),N,single transit (nominal period: 120 days),,eisner,
+229556468,229556468.02,,,13.2668,10.0722,Y,N,,,FP(IS),N,single transit (nominal period: 50 days),,eisner,
+238027971,238027971.01,,14.408,14.4745,10.5178,Y,N,,,FP(IS),N,Scattered light,,cloutier,
+244247384,244247384.01,,,12.1559,10.6599,Y,N,,,FP(IS),N,Found with our in-house single transit finder; Sector 32; One transit looks potentially real; other looks like IS,,steuer,spoc
+260504147,260504147.01,,4.276,4.2092; 10.8208,8.529,Y,N,,,FP(IS),N,Rp = 107 Re,,lipponen,
+307958020,307958020.02,,0,122.2058,8.3498,Y,N,,,FP(IS),N,"another single transit, low impact parameter",,deen,
+308991822,308991822.02,,8.299,8.225; 9.6769; 8.2244,9.0625,Y,N,,,FP(IS),N,Rp = 72 Re,,lipponen,
+143114211,143114211.01,,13.29,13.279,9.92444,Y,Y,,,FP(IS),N,Scattered light (SPOC),2 V-shaped grazing transits,deen,
+219792161,219792161.01,,1.441851,1.441842,7.5456,Y,Y,,,FP(IS),N,Signal from CBV,,holstkristiansen,
+327667965,327667965.01,,0.443,9.631,8.1226,N,N,,,FP(V),N,SPOC S27 just shows sinusoidal signal,,lipponen,
+11435037,11435037.01,,0.53,1.2285,9.5197,Y,N,Y,N,FP(V),N,"Camera 2, CCD 1, Column 1957, Row 1636, Sector 18; Y1 SPOC multisector report looks like variability",,chiarello,spoc
+139468902,139468902.01,,0.465,0.9104,6.9729,Y,N,,,FP(V),N,Stellar variability,,lipponen,
+139468902,139468902.02,,0.457,0.9104,6.9729,Y,N,,,FP(V),N,Stellar variability,,lipponen,
+158241252,158241252.01,4443.01,1.851,1.8496,7.9147,Y,N,,,FP(V),N,Preliminary Vetting with DAVE,,montalto,spoc
+372851967,372851967.01,,0.275,,11.8618,Y,N,,,FP(V),N,"new CTOI, Montalto et al. (2020)",,montalto,
+206544316,206544316.01,,0.324,0.32195,11.6337,Y,Y,,,FP(V),N,Variability,,lipponen,
+206544316,206544316.02,,0.325,0.32195,11.6337,Y,Y,,,FP(V),N,Variability,,lipponen,
+206544316,206544316.03,,0.321,0.32195,11.6337,Y,Y,,,FP(V),N,Variability,,lipponen,
+206544316,206544316.04,,0.326,0.32195,11.6337,Y,Y,,,FP(V),N,Variability,,lipponen,
+341840536,341840536.01,,2.196,2.1942,8.82182,Y,Y,,,FP(V),N,Variability,appears reliably for 18 transits. Possible shallow second dip could indicate rotation but it looks real.,deen,

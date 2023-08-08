@@ -90,10 +90,19 @@ ctois_need_more_review_from_exofop_csv = 'need_more_review_from_exofop.csv'
 # NOW MERGE THE TWO CSV FILES CONTAINING CTOIS THAT NEED MORE REVIEW. 
 
 review_ctois_from_fp_sheet = pd.read_csv(ctois_need_more_review_from_fp_sheet)
-review_ctois_from_exofop = pd.read_csv(ctois_need_more_review_from_exofop_csv)
+review_ctois_from_exofop = pd.read_csv(ctois_need_more_review_from_exofop_csv) 
 
-UNIQUE_review_ctois_from_fp_sheet = review_ctois_from_fp_sheet.drop_duplicates()
-UNIQUE_review_ctois_from_exofop = review_ctois_from_exofop.drop_duplicates()
+
+# Dataframe with rows with duplicate columns
+# duplicated_TICS_from_fp_sheet = review_ctois_from_fp_sheet[review_ctois_from_fp_sheet.duplicated()]
+# duplicated_TICS_from_exofop = review_ctois_from_exofop[review_ctois_from_exofop.duplicated()]
+
+
+# DataFrame with duplicate rows removed
+filtered_TICs_from_fp_sheet = review_ctois_from_fp_sheet[~review_ctois_from_fp_sheet.duplicated()]
+filtered_TICs_from_exofop = review_ctois_from_exofop[~review_ctois_from_fp_sheet.duplicated()]
+
+
 
 
 master_csv_header = ['TIC', 'CTOI', 'Period (exofop)', 'Period (TEV)', 'Notes', 'TOI Comments']
@@ -101,7 +110,7 @@ master_csv_header = ['TIC', 'CTOI', 'Period (exofop)', 'Period (TEV)', 'Notes', 
 master_data = []
 
 
-for _, row in UNIQUE_review_ctois_from_fp_sheet.iterrows():
+for _, row in filtered_TICs_from_fp_sheet.iterrows():
     master_row = {}
 
     for column in master_csv_header:
@@ -114,7 +123,7 @@ for _, row in UNIQUE_review_ctois_from_fp_sheet.iterrows():
     master_data.append(master_row)
 
 
-for _, row in UNIQUE_review_ctois_from_exofop.iterrows():
+for _, row in filtered_TICs_from_exofop.iterrows():
     master_row = {}
 
     for column in master_csv_header:

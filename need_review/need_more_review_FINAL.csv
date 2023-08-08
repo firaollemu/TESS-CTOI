@@ -1,0 +1,2069 @@
+TIC,CTOI,Period (exofop),Period (TEV),Transit Epoch (BJD),Notes
+289947860.0,289947860.01,,,,
+277712294.0,277712294.01,,,2458521.27,DTARPS 302 in Melton+  arXiv:2302.06724
+12631674.0,12631674.01,,,,Found with our in-house single transit finder; Sector 31
+308538095.0,308538095.01,,,2458502.143,"Cand WJ, NGC 2516 member (CG18). DR2 RV tension w/ Soubiran+19 RV, at low significance (need RVs). (CDIPS; Bouma+19)"
+318753114.0,318753114.01,,,,Found with our in-house single transit finder; Sector 31
+56099207.0,56099207.01,,,2459191.092,Found with our in-house single transit finder; Sector 32
+53018991.0,53018991.01,,,2458814.833,"new CTOI, Montalto (2022)"
+117644481.0,117644481.01,0.251,0.2506,,"new CTOI, Montalto et al. (2020)"
+167653919.0,167653919.01,,,2459260.792,Found with our in-house single transit finder
+356868485.0,356868485.01,,,,
+224322722.0,224322722.01,,,2458975.438,"new CTOI, Montalto (2022)"
+154664949.0,154664949.01,,,2458983.187,"new CTOI, Montalto (2022)"
+13875852.0,13875852.01,,,,
+118389230.0,118389230.01,,,2458787.146,"new CTOI, Montalto (2022)"
+229950972.0,229950972.01,,,2458935.291,single transit event from the TSTPC working group
+290777444.0,290777444.01,,,2458320.446,"new CTOI, Montalto et al. (2020)"
+86184105.0,86184105.01,,,2458842.102,"new CTOI, Montalto (2022)"
+148624719.0,148624719.01,,,2458868.611,"new CTOI, Montalto (2022)"
+408094816.0,408094816.01,,,2458743.981,"new CTOI likely member of NGC 7142, PATHOS-72 in Nardiello et al. (2021)"
+39291805.0,39291805.01,7.172,,,"new CTOI likely member of NGC 2112     , PATHOS-03 in Nardiello et al. (2020)"
+420888232.0,420888232.01,,,2458683.349,"new CTOI, Montalto (2022)"
+248959076.0,248959076.01,,,2458388.725,Found with our in-house single transit finder
+455238504.0,455238504.01,,,2458505.45,WINE single transit
+219778735.0,219778735.01,,,,
+16317477.0,16317477.01,,,2458686.239,"Qual:B,NotCM?,2.8e+07yr. Wrn: mean(R)=1.130. Rp=(0.75-2.96)Rj. b=0.06-1.02 (3-97HDI)."
+192687318.0,192687318.01,,,,
+235015217.0,235015217.01,4.088,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+307767243.0,307767243.01,,,2458491.349,"new CTOI, Montalto (2022)"
+26748546.0,26748546.01,,,2458688.033,Kepler candidate planet KOI-6085.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep)
+154873779.0,154873779.01,,,2458682.713,"new CTOI, Montalto (2022)"
+278661431.0,278661431.01,17.632,17.6741,,SPOC centroid offset centered near other star TIC 278661428
+247160131.0,247160131.01,,,,
+364538560.0,364538560.01,,,2459037.62,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+23138732.0,23138732.01,,,2458410.982,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+421472503.0,421472503.01,,,,single transit (nominal period: 15 days)
+356973763.0,356973763.01,,,2458720.5,"new CTOI likely member of NGC 6997, PATHOS-70 in Nardiello et al. (2021)"
+427377458.0,427377458.01,2.53,,,All data obtained using the LightKurve framework
+373730922.0,373730922.01,,,2458926.786,"new CTOI, Montalto (2022)"
+453163412.0,453163412.01,,,2458491.8,"new CTOI, Montalto (2022)"
+271755676.0,271755676.01,,,2458684.567,Kepler candidate planet KOI-1225.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep)
+300324610.0,300324610.01,,,2458413.368,DTARPS 332 in Melton+  arXiv:2302.06724
+377619148.0,377619148.01,,,,
+202276965.0,202276965.01,,,,
+94984950.0,94984950.01,,,,
+147953276.0,147953276.01,,,2458681.52,"new CTOI, Montalto (2022)"
+29953537.0,29953537.01,0.731,,,Corrected transit depth of 160.92 (+/-12.21) ppm; USP candidate; possibly two stars in same pixel
+219176113.0,219176113.01,,,,
+373062094.0,373062094.01,,,2458791.23,All data obtained using the LightKurve framework
+59183645.0,59183645.01,4.545,,,"potential planet candidate around evolved star, short duration, crowded field, possible BEB"
+53494434.0,53494434.01,,,2458468.453,DTARPS 070 in Melton+  arXiv:2302.06724
+101730811.0,101730811.01,,,2458571.212,DTARPS 119 in Melton+  arXiv:2302.06724
+407114785.0,407114785.01,,,2458763.893,"new CTOI, Montalto (2022)"
+24251313.0,24251313.01,0.64,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+385307289.0,385307289.01,,,2458541.235,"new CTOI, Montalto (2022)"
+22642076.0,22642076.01,,,2458493.087,DTARPS 029 in Melton+  arXiv:2302.06724
+147561732.0,147561732.01,,,,
+144011696.0,144011696.01,,,2458822.386,single transit event from the TSTPC working group
+152799053.0,152799053.01,,,2458494.37,DTARPS 176 in Melton+  arXiv:2302.06724
+84357072.0,84357072.01,,,2458842.493,"new CTOI, Montalto (2022)"
+230007816.0,230007816.01,,,2458684.103,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+150986109.0,150986109.01,,,,
+420031102.0,420031102.01,,,2459162.263,Found with our in-house single transit finder; Sector 31
+284124227.0,284124227.01,,,,
+156241259.0,156241259.01,,,2458468.683,DTARPS 180 in Melton+  arXiv:2302.06724
+47056448.0,47056448.01,,,2458518.727,DTARPS 059 in Melton+  arXiv:2302.06724
+349118653.0,349118653.01,0.756,,,Exofop FP
+142648205.0,142648205.01,,,2458631.824,WINE warm jupiter candidate
+13344668.0,13344668.01,,,2458445.05,WINE single transit
+409055014.0,409055014.01,,,2458815.152,"new CTOI, Montalto (2022)"
+235039711.0,235039711.01,,,2458325.87,WINE single transit
+376537276.0,376537276.01,,,2459656.146,PHT candidate. Single transit event. We caution that high RUWE parameter suggests it could be a stellar companion.
+265465927.0,265465927.01,,,,WINE single transit
+6242388.0,6242388.01,,,,Found with our in-house single transit finder; Sector 43
+354846183.0,354846183.01,,,2458044.552,Found with our in-house single transit finder; transit finder output attached under 'Files'; Very large radius
+334990885.0,334990885.01,,,2459007.204,"new CTOI, Montalto (2022)"
+237019002.0,237019002.01,,,2458704.047,"new CTOI, Montalto (2022)"
+239190192.0,239190192.02,,,,Found with our in-house single transit finder; Sector 20; Might be secondary transit to .01
+139147770.0,139147770.01,,,2458327.625,WINE single transit
+421331604.0,421331604.01,,,,
+386729525.0,386729525.01,,,2458612.26,"Camera 2, CCD 2, Column 1546, Row 1427, Sector 11"
+284706890.0,284706890.01,3.836,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+80946619.0,80946619.01,,,,
+395519975.0,395519975.01,,,2458789.137,"new CTOI, Montalto (2022)"
+418184706.0,418184706.01,,,2459577.522,"TESS Sector 46, Camera 2, data: 418184706_SAP_LC"
+201899356.0,201899356.01,3.109,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+280692653.0,280692653.01,,,,
+441808796.0,441808796.01,,,,
+300013489.0,300013489.01,,,2459040.63,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+271443321.0,271443321.01,,,2458765.415,"new CTOI likely member of SAI 149, PATHOS-61 in Nardiello et al. (2021)"
+188377183.0,188377183.01,,,2459600.99,Found with our in-house single transit finder; Sector 47
+424805463.0,424805463.01,,,2458966.77,"new CTOI, Montalto (2022)"
+467785319.0,467785319.01,,,,No report on TEV; Found with our in-house single transit finder; transit finder output attached under 'Files'
+218233985.0,218233985.01,,,2459448.703,"TESS Sector 43, Camera 2, data: 218233985_SAP_LC"
+70663347.0,70663347.01,,,2458807.771,"new CTOI, Montalto (2022)"
+164781040.0,164781040.01,2.349,,,No report on TEV
+186072225.0,186072225.01,,,2458608.4,WINE single transit
+35377903.0,35377903.01,,,2459797.576,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+308089071.0,308089071.01,5.5,,,"camera 2, ccd 4, column 1926, row 1991, sector 24"
+376973804.0,376973804.01,,,,
+51099561.0,51099561.01,,,2458849.132,single transit event from the TSTPC working group
+264407995.0,264407995.01,,,2458494.243,DTARPS 278 in Melton+  arXiv:2302.06724
+347702052.0,347702052.01,,,2458981.699,"new CTOI, Montalto (2022)"
+392365181.0,392365181.01,,,2458868.022,"new CTOI, Montalto (2022)"
+89288586.0,89288586.01,,,2459212.861,Found with our in-house single transit finder
+157878913.0,157878913.01,,,2459637.796,Nguyen et al. (2022)
+27896467.0,27896467.01,,,2459010.38,Possible two bodies in orbit around the main star as seen in the light curve
+235903203.0,235903203.01,,,,
+139270665.0,139270665.01,,,2459592.365,Found with our in-house single transit finder; Sector 47
+34371411.0,34371411.01,,,2458468.603,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+199660056.0,199660056.01,,,2458928.911,single transit event from the TSTPC working group
+51238317.0,51238317.01,,,2458850.663,Found with our in-house single transit finder; Sector 20
+289371153.0,289371153.01,,,2458680.403,"new CTOI, Montalto (2022)"
+352179145.0,352179145.01,,,2458763.956,"new CTOI, Montalto (2022)"
+802647157.0,802647157.01,,,2458680.415,"new CTOI, Montalto (2022)"
+29430403.0,29430403.01,1.878,1.877567,,"new CTOI, Montalto et al. (2020)"
+444335503.0,444335503.01,1.2,,,Data obtained using the LightKurve framework
+293845053.0,293845053.01,,,2459259.659,Found with our in-house single transit finder
+408550830.0,408550830.01,,,2458815.718,"new CTOI, Montalto (2022)"
+152283270.0,152283270.01,,11.2526,,Single transit; PC in GV; asteroid from background light during transit
+277748419.0,277748419.01,,,2458324.681,"new CTOI, Montalto (2022)"
+71295401.0,71295401.01,6.22,,,Possible two planets as per light curve
+91251292.0,91251292.02,,,,
+376457352.0,376457352.01,,,,
+27133479.0,27133479.01,,,2459670.184,Nguyen et al. (2022)
+270651953.0,270651953.01,,,,Found with our in-house single transit finder
+403836000.0,403836000.01,,,2458568.514,"new CTOI, Montalto (2022)"
+22751984.0,22751984.01,,,2458897.293,"new CTOI, Montalto (2022)"
+62632191.0,62632191.01,,,,No TEV report; Found with our in-house single transit finder
+188461829.0,188461829.01,,,2458868.402,"new CTOI, Montalto (2022)"
+274812877.0,274812877.01,,,2458710.956,"new CTOI, Montalto (2022)"
+33945661.0,33945661.01,,,2458357.126,manual ELEANOR search Tom Kaye
+317536999.0,317536999.01,5.856,,,"No report on TEV; new CTOI likely member of Ruprecht 94  , PATHOS-22 in Nardiello et al. (2020)"
+236770234.0,236770234.01,,,,No report on TEV; Found with our in-house single transit finder; transit finder output attached under 'Files'
+183231138.0,183231138.01,,,2458355.167,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+147069011.0,147069011.01,,,2458628.56,"Likely EB, Alessi 8 (CG18, 120Myr). Prot 6d; dubious bc Teff 6500K."
+27550937.0,27550937.01,,,2459563.268,Found with our in-house single transit finder; Sector 46
+428531167.0,428531167.01,,,2458790.191,"new CTOI, Montalto (2022)"
+397361541.0,397361541.01,,,2458331.45,DTARPS 413 in Melton+  arXiv:2302.06724
+35703676.0,35703676.01,,,2458382.79,"new CTOI, Montalto et al. (2020)"
+141160020.0,141160020.01,,,2459622.286,ctoi Sec 48-49 Tess-Spoc -Vetting attached
+146652799.0,146652799.01,19.778,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+394834663.0,394834663.01,,,2458584.002,"new CTOI, Montalto (2022)"
+250187388.0,250187388.01,,,,Found with our in-house single transit finder; Sector 32; W Shaped
+93420346.0,93420346.01,,,2458464.602,"new CTOI, Montalto (2022)"
+172752083.0,172752083.01,,,2459004.96,"low-SNR candidate, 2 transits"
+362104293.0,362104293.01,,,2459701.259,Found with our in-house single transit finder; Sector 51; v-shaped
+233855268.0,233855268.01,,,2458642.904,"new CTOI, Montalto (2022)"
+129103090.0,129103090.01,,,2458734.776,"new CTOI, Montalto (2022)"
+115620634.0,115620634.01,,,2458761.853,"new CTOI, Montalto (2022)"
+229076808.0,229076808.01,,,2458459.428,Found with our in-house single transit finder
+236903869.0,236903869.01,,,2458708.79,"new CTOI, Montalto (2022)"
+92835691.0,92835691.01,22.366,,,"new CTOI likely member of SAI 91       , PATHOS-07 in Nardiello et al. (2020)"
+154666392.0,154666392.01,,,2458980.874,"new CTOI, Montalto (2022)"
+27986571.0,27986571.01,,,2458402.15,WD single transit (nominal period: 41000 years!!!)
+302849206.0,302849206.01,,,2458842.145,"new CTOI, Montalto (2022)"
+349793830.0,349793830.01,,,,No report on TEV; Found with our in-house single transit finder; transit finder output attached under 'Files'
+25314899.0,25314899.01,,,2458765.685,Host star is likely to be very young
+61708231.0,61708231.01,,,2458469.871,DTARPS 080 in Melton+  arXiv:2302.06724
+251975224.0,251975224.01,,,2458956.781,"new CTOI likely member of King 20, PATHOS-55 in Nardiello et al. (2021)"
+275180352.0,275180352.01,,,2459260.85,Found with our in-house single transit finder
+261136000.0,261136000.01,,,,Just found on Planet Hunters. Will refine the ephemeris ASAP
+130370378.0,130370378.01,,,2459231.752,single transit (nominal period: 490 days)
+379376771.0,379376771.01,,,2458986.101,"Qual:A,PMS?. Wrn: mean(R)=1.071. Rp=(0.77-2.60)Rj. b=0.04-0.97 (3-97HDI)."
+62618413.0,62618413.01,7.02,,,All data obtained using the LightKurve framework
+437088276.0,437088276.01,,,2458494.734,DTARPS 440 in Melton+  arXiv:2302.06724
+356015361.0,356015361.01,11.2723,,,Eccentric EB
+457134361.0,457134361.01,,,,
+399689864.0,399689864.01,,,2458812.615,"new CTOI, Montalto (2022)"
+289505441.0,289505441.01,,,2458678.664,"new CTOI, Montalto (2022)"
+9707944.0,9707944.01,,,2459107.485,"PHT candidate. Two transits in sector 2, one in 29 and 1 in 42."
+431206812.0,431206812.01,,,,
+454142943.0,454142943.01,,,,Found with our in-house single transit finder; Sector 32
+366810260.0,366810260.01,,,,
+65259968.0,65259968.01,,,2458355.585,"new CTOI, Montalto (2022)"
+278341415.0,278341415.01,,,2458765.17,"Qual:A,CM,5.6e+07yr. Wrn: mean(R)=1.025. Rp=(0.67-2.48)Rj. b=0.00-0.90 (3-97HDI)."
+126984335.0,126984335.01,,,2459490.366,Found with our in-house single transit finder; Sector 43
+79172641.0,79172641.01,,,2458492.599,DTARPS 099 in Melton+  arXiv:2302.06724
+302212110.0,302212110.01,8.548,8.5473,,"new CTOI, Montalto et al. (2020)"
+435904852.0,435904852.01,,,2459507.768,Found with our in-house single transit finder; Sector 44
+431486590.0,431486590.01,,,2458763.809,"new CTOI, Montalto (2022)"
+344131495.0,344131495.01,,,2458655.307,DTARPS 382 in Melton+  arXiv:2302.06724
+229503517.0,229503517.01,3.974,,,Too large
+134549022.0,134549022.01,,,2458483.825,"new CTOI, Montalto et al. (2020)"
+32606889.0,32606889.01,4.687,4.68696,,"new CTOI, Montalto et al. (2020)"
+159159904.0,159159904.01,0.0,,,No report on TEV
+312812518.0,312812518.01,,,2458814.682,"new CTOI, Montalto (2022)"
+14611330.0,14611330.01,,,2459220.143,Found with our in-house single transit finder
+66323870.0,66323870.01,,,2458818.67,"Camera 2, CCD 4, Column 88, Row1265, Sector 19, possible binary system"
+85377339.0,85377339.01,,,2458982.308,"new CTOI, Montalto (2022)"
+416455230.0,416455230.01,,,2458808.404,"new CTOI, Montalto (2022)"
+67651371.0,67651371.01,,,,No report on TEV; Found with our in-house single transit finder; transit finder output attached under 'Files'
+64549889.0,64549889.01,,,2459251.688,Found with our in-house single transit finder
+241249530.0,241249530.01,,,,
+100103201.0,100103201.02,,,2458371.137,Corrected transit depth of 3218.53 (+/-614.29) ppm; within inner HZ but too big to be rocky
+264766922.0,264766922.01,,,2458538.695,Planet Hunters TESS candidate. Single transit event.
+202872110.0,202872110.01,,,2458790.522,"new CTOI, Montalto (2022)"
+207078179.0,207078179.01,,,,WINE single transit
+202712304.0,202712304.01,,,2458779.843,Found with our in-house single transit finder; transit finder output attached under 'Files'
+234387858.0,234387858.01,,,2458492.047,"new CTOI, Montalto et al. (2020)"
+384051626.0,384051626.01,,,2458676.281,"new CTOI, Montalto (2022)"
+87304178.0,87304178.01,,,,
+229747848.0,229747848.03,,,2458768.711,In the inner HZ if period is correct; only two transits have been detected so far
+401503097.0,401503097.01,,,2458815.725,"new CTOI, Montalto (2022)"
+336544379.0,336544379.01,,,2458738.114,"new CTOI, Montalto (2022)"
+14739595.0,14739595.01,,,2458683.25,"new CTOI, Montalto (2022)"
+48882295.0,48882295.01,,,,Found with our in-house single transit finder
+32451836.0,32451836.01,,,2458392.66,"Camera 2, CCD 3, Column 2023, Row 1622, Sector 3"
+5642884.0,5642884.01,,,2458788.541,"new CTOI, Montalto (2022)"
+397483270.0,397483270.01,,,2459642.506,Found with our in-house single transit finder; Sector 49
+282272435.0,282272435.01,,,2458467.805,"new CTOI, Montalto (2022)"
+288405412.0,288405412.01,,,2458685.921,From 5 Cycle 2 SPOC sectors; low s2n
+143996634.0,143996634.01,,,2458327.406,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+153990815.0,153990815.01,,,2458683.214,"new CTOI, Montalto (2022)"
+206361691.0,206361691.01,0.0,,,No report
+333426440.0,333426440.01,,,2458470.385,DTARPS 373 in Melton+  arXiv:2302.06724
+265135454.0,265135454.01,,,,Found with our in-house single transit finder
+441813878.0,441813878.01,,,2458621.763,"new CTOI, Montalto (2022)"
+460950389.0,460950389.01,,,2458572.224,"new CTOI likely member of IC 2602      , PATHOS-31 in Nardiello et al. (2020)"
+256871385.0,256871385.01,2.902,,,No report
+13866376.0,13866376.01,,,,
+233267414.0,233267414.01,,,2459425.344,Found with our in-house single transit finder; Sector 41
+212378056.0,212378056.01,,,,
+67424670.0,67424670.01,,,2458790.941,"new CTOI likely member of NGC 752, PATHOS-50 in Nardiello et al. (2021)"
+1961935435.0,1961935435.01,,,2458713.398,"new CTOI likely member of NGC 7024, PATHOS-81 in Nardiello et al. (2021)"
+417734868.0,417734868.01,,,2458686.28,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+326202607.0,326202607.01,,,2458710.984,"new CTOI, Montalto (2022)"
+139474683.0,139474683.01,3.203,,,inflated hot Jupiter candidate orbiting evolved star
+51125928.0,51125928.01,,,2458838.662,"new CTOI, Montalto (2022)"
+31142436.0,31142436.01,5.271,5.2731,,"new CTOI, Montalto et al. (2020)"
+233511804.0,233511804.01,,,2458984.191,"Qual:B,PMS?,1.8e+07yr,MissingRot?. Rp=(1.14-1.57)Rj. b=0.00-0.63 (3-97HDI)."
+321914802.0,321914802.01,,,2458728.763,"new CTOI, Montalto (2022)"
+259391116.0,259391116.01,,,2458409.416,"new CTOI, Montalto (2022)"
+400351578.0,400351578.01,,,2458964.173,single transit event from the TSTPC working group
+284680370.0,284680370.01,,,2458735.377,"new CTOI, Montalto (2022)"
+47653432.0,47653432.01,,,2458601.674,DTARPS 060 in Melton+  arXiv:2302.06724
+332954788.0,332954788.01,0.7,,,Corrected transit depth of 441.7 (+/-83.6) ppm; USP candidate
+456302722.0,456302722.01,,,2459605.066,PHT single transit. Note: possible double star system.
+37777274.0,37777274.01,,,2458438.265,"new CTOI, Montalto et al. (2020)"
+16326602.0,16326602.01,,,2458507.249,Found with our in-house single transit finder
+1718040493.0,1718040493.01,,,2458668.468,"new CTOI, Montalto (2022)"
+370010846.0,370010846.01,3.485,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+405687343.0,405687343.01,0.532,,,Known EB (Slawson+2011)
+422043783.0,422043783.01,,,2458653.135,"new CTOI, Montalto (2022)"
+441122551.0,441122551.01,,,2458326.564,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+240802472.0,240802472.01,,,2458761.036,"new CTOI, Montalto (2022)"
+270348758.0,270348758.01,,,2458327.433,DTARPS 291 in Melton+  arXiv:2302.06724
+434307868.0,434307868.01,,,2459225.059,Found with our in-house single transit finder
+336892053.0,336892053.01,,,,
+67707363.0,67707363.01,,,2458925.063,"new CTOI, Montalto (2022)"
+77137037.0,77137037.01,,,2458899.293,"new CTOI, Montalto (2022)"
+332635898.0,332635898.01,,,2458518.705,DTARPS 371 in Melton+  arXiv:2302.06724
+418343229.0,418343229.01,,,2458815.89,"new CTOI, Montalto (2022)"
+458419988.0,458419988.01,,,,
+431473352.0,431473352.01,,,2458738.317,"new CTOI, Montalto (2022)"
+72757019.0,72757019.01,,,2458571.575,DTARPS 092 in Melton+  arXiv:2302.06724
+188835620.0,188835620.01,,,2459712.395,Found with our in-house single transit finder; Sector 51
+341411516.0,341411516.01,,,2458490.402,"new CTOI, Montalto et al. (2020)"
+77287067.0,77287067.01,4.076,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+356240333.0,356240333.01,0.0,,,No report on TEV; Found with our in-house single transit finder; transit finder output attached under 'Files'
+106235729.0,106235729.01,,,,
+261646133.0,261646133.01,,,,Found with our in-house single transit finder; Sector 13
+125192758.0,125192758.01,1.731,,,Exofop FP
+184397998.0,184397998.01,,,2459095.196,WINE hot Jupiter
+222078568.0,222078568.01,,,2458646.719,Found with our in-house single transit finder; Sector 12
+307290645.0,307290645.01,,,2458387.535,DTARPS 347 in Melton+  arXiv:2302.06724
+155008080.0,155008080.01,,,2458734.509,"new CTOI, Montalto (2022)"
+179576115.0,179576115.01,,,2459037.27,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+439406850.0,439406850.01,,,,No report on TEV; Found with our in-house single transit finder; transit finder output attached under 'Files'
+50270480.0,50270480.01,,,2458354.542,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+13416465.0,13416465.01,,,,
+101641905.0,101641905.01,0.0,,,No report on TEV
+73007817.0,73007817.01,,,2459991.983,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+441546821.0,441546821.01,,,,
+231682442.0,231682442.01,,,,
+391925531.0,391925531.01,,,2459078.97,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+396935226.0,396935226.01,,,,Found with our in-house single transit finder; Sector 32
+72669209.0,72669209.01,,,2458392.22,Found with our in-house single transit finder
+149928173.0,149928173.01,,,2458675.877,"new CTOI, Montalto (2022)"
+220129325.0,220129325.01,,,,
+374268399.0,374268399.01,,,2459276.873,"newCTOI,Single transit event"
+259376845.0,259376845.01,13.45,,,No report on TEV; new CTOI
+192066140.0,192066140.01,,,2458842.215,"new CTOI, Montalto (2022)"
+77524109.0,77524109.01,,,2458519.963,DTARPS 097 in Melton+  arXiv:2302.06724
+65879889.0,65879889.01,,,2458492.141,DTARPS 087 in Melton+  arXiv:2302.06724
+101179725.0,101179725.01,,,2458648.339,"new CTOI, Montalto et al. (2020)"
+380884709.0,380884709.01,,,2459465.622,PHT candidate. Single transit event. Additional transit in K2 data.
+142673457.0,142673457.01,,,2458387.704,DTARPS 157 in Melton+  arXiv:2302.06724
+114056098.0,114056098.01,,,2458657.056,"new CTOI, Montalto (2022)"
+387541380.0,387541380.01,,,,Found with our in-house single transit finder; Sector 31
+118208859.0,118208859.01,,,2458518.635,DTARPS 131 in Melton+  arXiv:2302.06724
+298659608.0,298659608.01,,,2458711.262,"new CTOI, Montalto (2022)"
+411662605.0,411662605.01,1.561,,,"new CTOI likely member of Lupus association  , PATHOS-43 in Nardiello (2020)"
+65166582.0,65166582.01,,,2458790.978,"Qual:B,NotCM?,4.8e+08yr,OffTarget?. Wrn: mean(R)=1.054. Rp=(0.94-2.95)Rj. b=0.03-0.90 (3-97HDI)."
+428961332.0,428961332.01,,,2458788.971,"new CTOI, Montalto (2022)"
+115171750.0,115171750.01,0.0,,,No report
+271013213.0,271013213.01,0.62,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+233733562.0,233733562.01,,,,
+233576872.0,233576872.01,1.518,,,Too large
+11972578.0,11972578.01,,,2458542.7,"new CTOI, Montalto (2022)"
+161132119.0,161132119.01,,,2458629.817,"new CTOI, Montalto (2022)"
+417644279.0,417644279.01,10.884,,,planet candidate around evolved star. recon spectrum obtained
+58946313.0,58946313.01,,,,
+293855630.0,293855630.01,,,2458356.349,DTARPS 323 in Melton+  arXiv:2302.06724
+101991992.0,101991992.01,,,2458355.861,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+251494772.0,251494772.01,,,2458795.089,"new CTOI likely member of SAI 25, PATHOS-54 in Nardiello et al. (2021)"
+398102996.0,398102996.01,,,2458790.267,"new CTOI, Montalto (2022)"
+140215502.0,140215502.01,,,,Found with our in-house single transit finder; Sector 32
+178320314.0,178320314.01,,,2458396.146,"new CTOI, Montalto (2022)"
+385274980.0,385274980.01,,,2458601.96,"Camera 2, CCD 2, Column 1551, Row 1343, Sector 11"
+408038524.0,408038524.01,,,2458386.952,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+95857505.0,95857505.01,,,2458918.377,Found with our in-house single transit finder; transit finder output attached under 'Files'
+344713453.0,344713453.01,,,2459490.965,Found with our in-house single transit finder; Sector 43
+133323306.0,133323306.01,,,2458558.324,"Cand 1.1d HJ, Theia 988 (~500Myr; KC19). Short period rotn(?) signal too. Multisector."
+308211363.0,308211363.01,,,,WINE single transit
+399105267.0,399105267.01,,,2458929.777,single transit event from the TSTPC working group
+343936388.0,343936388.01,,,2458412.408,DTARPS 381 in Melton+  arXiv:2302.06724
+287328202.0,287328202.01,3.835,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+94589619.0,94589619.01,12.083,,,"new CTOI likely member of NGC 2437     , PATHOS-08 in Nardiello et al. (2020)"
+219434595.0,219434595.01,,,,
+128703021.0,128703021.01,0.0,,,Single transit; no report
+434217306.0,434217306.01,,,2459491.047,"newCTOI, Single transit"
+182992572.0,182992572.01,,,2458536.345,Discovered by my TESS duotransit pipeline in S8 & S35. Third transit in S61 confirmed period.
+252803603.0,252803603.02,,,2458895.585,"very significant single transit, no others in preceding 25 days."
+9376051.0,9376051.01,,,2458875.006,Found with our in-house single transit finder; transit finder output attached under 'Files'
+123627758.0,123627758.01,,,2458518.266,DTARPS 138 in Melton+  arXiv:2302.06724
+229786055.0,229786055.01,2.14,,,8.7 sigma odd/even; significant depth-aperture correlation
+156096834.0,156096834.01,,,2458817.5,"Camera 1, CCD 3, Column 1398, Row 1714, Sector 19"
+350432166.0,350432166.01,35.786,35.787,,"new CTOI, Montalto et al. (2020)"
+325685403.0,325685403.01,,,,
+261745577.0,261745577.01,,,2458324.5,"new CTOI, Montalto (2022)"
+468963200.0,468963200.01,,,,Found with our in-house single transit finder
+70927362.0,70927362.01,,,2458815.937,"new CTOI, Montalto (2022)"
+279070369.0,279070369.01,,,2458416.537,WINE single transit
+59942318.0,59942318.01,,,,Found with our in-house single transit finder
+358086041.0,358086041.01,,,2459500.723,Slightly v-shaped
+141522677.0,141522677.01,,,2459410.614,PHT candidate. Single transit event.
+201175570.0,201175570.01,9.7,,,No TEV report; inflated Neptune candidate around evolved star
+14564410.0,14564410.01,,,2458520.704,DTARPS 017 in Melton+  arXiv:2302.06724
+206660104.0,206660104.01,13.451,,,No report
+405421924.0,405421924.01,1.804,1.8043,,"new CTOI, Montalto et al. (2020)"
+160083301.0,160083301.01,,,2458814.665,"new CTOI, Montalto (2022)"
+441397924.0,441397924.01,,,2458327.459,DTARPS 449 in Melton+  arXiv:2302.06724
+18380164.0,18380164.01,,,2458981.721,"new CTOI, Montalto (2022)"
+240855518.0,240855518.01,,,,
+237729561.0,237729561.01,,,2458467.851,"new CTOI, Montalto (2022)"
+164365027.0,164365027.01,,,2458999.103,"single transit, ostensibly short period"
+22642772.0,22642772.01,,,2459207.709,Found with our in-house single transit finder
+99728663.0,99728663.01,,,2458841.728,"new CTOI, Montalto (2022)"
+51022999.0,51022999.01,,,2458794.506,"new CTOI likely member of NGC 1027, PATHOS-48 in Nardiello et al. (2021)"
+384888824.0,384888824.01,,,2458761.814,"new CTOI, Montalto (2022)"
+165289668.0,165289668.01,,,2458492.911,DTARPS 189 in Melton+  arXiv:2302.06724
+290557229.0,290557229.01,,,2458469.847,DTARPS 320 in Melton+  arXiv:2302.06724
+453444539.0,453444539.01,,,,
+455854202.0,455854202.01,,,2458739.32,hot Jupiter candidate transiting evolved star
+461653423.0,461653423.01,,,2458842.055,"new CTOI, Montalto (2022)"
+230236827.0,230236827.01,,,2459034.825,"V-shaped, 68 transits"
+229596702.0,229596702.01,,,2458683.354,"new CTOI, Montalto (2022)"
+387610076.0,387610076.01,,,2459151.402,Found with our in-house single transit finder; Sector 31
+71273694.0,71273694.01,,,2458325.062,"new CTOI, Montalto (2022)"
+140804830.0,140804830.01,,,2458814.556,"new CTOI, Montalto (2022)"
+285507262.0,285507262.01,,,2458790.154,"new CTOI, Montalto (2022)"
+313240853.0,313240853.01,,,2458815.374,"new CTOI, Montalto (2022)"
+219492050.0,219492050.01,,,2458955.221,"new CTOI, Montalto (2022)"
+121724183.0,121724183.01,,,,Found with our in-house single transit finder
+384883067.0,384883067.01,,,2458763.834,"new CTOI, Montalto (2022)"
+92352621.0,92352621.01,,,2458328.299,DTARPS 105 in Melton+  arXiv:2302.06724
+159614322.0,159614322.01,,,,
+53843023.0,53843023.01,,,2458328.04,PHT candidate. Single transit event.
+256741871.0,256741871.01,,,2458814.968,"new CTOI, Montalto (2022)"
+378651225.0,378651225.01,,,2458764.273,"new CTOI, Montalto (2022)"
+282502866.0,282502866.01,7.401,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+251080032.0,251080032.01,,,2458866.446,"new CTOI, Montalto (2022)"
+264537668.0,264537668.01,,,2458469.112,DTARPS 280 in Melton+  arXiv:2302.06724
+243278072.0,243278072.01,26.673,,,V-shaped; too large
+165602000.0,165602000.01,,,2458714.593,single transit (nominal period: 46 days)
+460016903.0,460016903.01,,,2458983.455,"new CTOI, Montalto (2022)"
+85504049.0,85504049.01,,,2458817.9,"Camera 2, CCD 2, Column 551, Rwo 594, Sector 19"
+230112571.0,230112571.01,0.531,,,Odd-even; depth-aperture correlation
+441417261.0,441417261.01,8.55,,,All data obtained with the LightKurve framework
+281461138.0,281461138.01,5.211,0.65,,"No report on TEV for this signal. New CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+602870459.0,602870459.01,,,2458792.949,"new CTOI likely member of NGC 457, PATHOS-78 in Nardiello et al. (2021)"
+288240183.0,288240183.01,119.05,,,No report on TEV; PHT candidate.
+156457567.0,156457567.01,,,2458851.243,single transit event from the TSTPC working group
+237342298.0,237342298.01,2.692,2.6922,,early year 1 report; priority 4/5; new CTOI
+4292952.0,4292952.01,,,2458470.808,DTARPS 006 in Melton+  arXiv:2302.06724
+320687387.0,320687387.01,,,2458678.785,single transit event from the TSTPC working group
+351599985.0,351599985.01,,,2458983.063,"new CTOI, Montalto (2022)"
+201735963.0,201735963.01,,,2458763.856,"new CTOI, Montalto (2022)"
+450610413.0,450610413.01,,,2458600.682,"new CTOI likely member of Harvard 5    , PATHOS-29 in Nardiello et al. (2020)"
+229708416.0,229708416.01,,,2458679.21,"new CTOI, Montalto (2022)"
+272430494.0,272430494.01,,,2458572.808,DTARPS 298 in Melton+  arXiv:2302.06724
+318013179.0,318013179.01,,,2458484.65,WINE single transit
+157759665.0,157759665.01,,,2458673.15,"new CTOI, Montalto (2022)"
+209457622.0,209457622.01,5.035,,,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+399784500.0,399784500.01,,,2459198.931,Found with our in-house single transit finder; Sector 32
+253553257.0,253553257.01,,,2458679.433,Found with our in-house single transit finder; Sector 13
+264333501.0,264333501.01,,,2459402.716,Found with our in-house single transit finder; Sector 40
+86810143.0,86810143.01,,,2458842.347,"new CTOI, Montalto (2022)"
+30275829.0,30275829.01,,,2459038.072,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+399074535.0,399074535.01,,,2459557.651,Nguyen et al. (2022)
+125358479.0,125358479.01,,,,
+30836645.0,30836645.01,,,2458604.604,Found with our in-house single transit finder
+418373328.0,418373328.01,,,2458787.629,"new CTOI, Montalto (2022)"
+237214311.0,237214311.01,,,2458694.455,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+67512645.0,67512645.01,,,2459639.259,Nguyen et al. (2022)
+233190203.0,233190203.01,,,2458722.669,single transit event from the TSTPC working group
+257554718.0,257554718.01,,,,
+278664649.0,278664649.01,,,2458338.33,Sector 23
+260657291.0,260657291.01,,,2458327.225,DTARPS 273 in Melton+  arXiv:2302.06724
+285249796.0,285249796.01,,,,
+312543349.0,312543349.01,,,,
+116307482.0,116307482.01,,,2459665.541,Nguyen et al. (2022)
+453123591.0,453123591.01,,,2458628.18,DTARPS 453 in Melton+  arXiv:2302.06724
+166178400.0,166178400.01,,,2458622.641,"new CTOI, Montalto (2022)"
+154927164.0,154927164.01,,,2459010.902,"Qual:B,PMS?,1.9e+07yr. Rp=(1.21-1.52)Rj. b=0.00-0.53 (3-97HDI)."
+239617090.0,239617090.01,,,2458707.684,"new CTOI, Montalto (2022)"
+156947629.0,156947629.01,,,2458464.984,"new CTOI, Montalto et al. (2020)"
+198181553.0,198181553.01,1.411,1.411,,Significant odd-even; 31 Re
+26412438.0,26412438.01,,,,
+117772549.0,117772549.01,,,2458465.952,"new CTOI, Montalto et al. (2020)"
+198390707.0,198390707.01,,,2459009.186,"seems to be a full planetary transit, but absurdly short period."
+295176393.0,295176393.01,,,2458602.848,"new CTOI, Montalto et al. (2020)"
+397072045.0,397072045.01,,,2458815.544,"new CTOI, Montalto (2022)"
+268704157.0,268704157.01,,,2458687.744,Kepler candidate planet KOI-1154.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep)
+141860204.0,141860204.01,,,2458704.734,"new CTOI, Montalto (2022)"
+58843267.0,58843267.01,,,,
+89620053.0,89620053.01,,,,No TEV report; Found with our in-house single transit finder
+2236662.0,2236662.01,,,2458825.233,Single transit hosted by a very active M dwarf
+219703887.0,219703887.01,,,2458676.08,"new CTOI, Montalto (2022)"
+362088809.0,362088809.01,,,2458624.108,"new CTOI, Montalto (2022)"
+161478895.0,161478895.01,4.867,,,"No report on TEV; new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+200516835.0,200516835.01,3.778,,,CDIPS report; looks ok
+51861714.0,51861714.01,,,2458815.742,"new CTOI, Montalto (2022)"
+37652870.0,37652870.01,,,,
+144317256.0,144317256.01,,,2458570.255,"new CTOI, Montalto et al. (2020)"
+316246231.0,316246231.01,,,,
+142589416.0,142589416.01,,,2458681.752,"new CTOI, Montalto (2022)"
+61404104.0,61404104.01,,,2458469.6,DTARPS 079 in Melton+  arXiv:2302.06724
+267364341.0,267364341.01,,,2458324.953,"new CTOI, Montalto (2022)"
+444898583.0,444898583.01,,,,
+285233653.0,285233653.01,3.1,,,"camera 2, ccd 1, column 256, row 583, sector 17"
+350517548.0,350517548.01,,,,
+232632890.0,232632890.01,,,2458683.522,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+341105361.0,341105361.01,,,2458387.847,DTARPS 378 in Melton+  arXiv:2302.06724
+273861354.0,273861354.01,,,2458312.738,"new CTOI, Montalto (2022)"
+268534931.0,268534931.01,,,,No report on TEV; PHT candidate. Single transit event.
+119767301.0,119767301.01,,,2458737.638,"new CTOI, Montalto (2022)"
+125489144.0,125489144.01,,,,
+28180816.0,28180816.01,,,2458815.398,"new CTOI, Montalto (2022)"
+3027456.0,3027456.01,,,2458812.389,"new CTOI, Montalto (2022)"
+6426639.0,6426639.01,,,2458492.29,All data ontained using the LightKurve framework
+422270253.0,422270253.01,,,2458537.212,"new CTOI, Montalto (2022)"
+165795955.0,165795955.01,,,2459521.48,79 days period ctoi from ffi sectors 44-47. Vetting attached
+2015243161.0,2015243161.01,,,2458746.037,"new CTOI likely member of NGC 7245, PATHOS-82 in Nardiello et al. (2021)"
+306449303.0,306449303.01,,,2459448.743,newCTOI
+365096961.0,365096961.01,,,2458670.061,"new CTOI, Montalto (2022)"
+50580647.0,50580647.01,,,2458496.51,All info obtained using the LightKurve framework
+458382304.0,458382304.01,,,2459562.711,Found with our in-house single transit finder; Sector 46
+398673587.0,398673587.01,,,2459118.325,WINE single transit
+216986756.0,216986756.01,,,2458692.49,new CTOI
+434208740.0,434208740.01,,,2458759.956,"new CTOI, Montalto (2022)"
+268166705.0,268166705.01,,,2458685.227,Kepler candidate planet KOI-5308.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep)
+67643229.0,67643229.01,,,2458380.834,"new CTOI, Montalto (2022)"
+397053253.0,397053253.01,,,2459551.957,Nguyen et al. (2022)
+458647366.0,458647366.01,,,,Found with our in-house single transit finder
+435868942.0,435868942.01,,,2458327.388,DTARPS 439 in Melton+  arXiv:2302.06724
+27344837.0,27344837.01,,,2458814.513,"new CTOI, Montalto (2022)"
+7145074.0,7145074.01,,,,WINE single transit
+308617923.0,308617923.01,,,2458790.21,"new CTOI, Montalto (2022)"
+248687282.0,248687282.01,,,,Found with our in-house single transit finder; Sector 32
+294501647.0,294501647.01,,,,Found with our in-house single transit finder
+263601731.0,263601731.01,,,2458659.615,"new CTOI, Montalto (2022)"
+235067594.0,235067594.01,8.295,8.2838,,"new CTOI, Montalto et al. (2020)"
+82204651.0,82204651.01,,,2459534.26,PHT candidate. Single transit event.
+409141608.0,409141608.01,,,2458333.692,sector1
+389041242.0,389041242.01,,,,
+70722784.0,70722784.01,14.454,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+396601141.0,396601141.01,,,2458790.108,"new CTOI, Montalto (2022)"
+47142025.0,47142025.01,,,,No report on TEV; Found with our in-house single transit finder
+76299873.0,76299873.01,,,2459009.795,"new CTOI, Montalto (2022)"
+209006017.0,209006017.01,,,2459376.09,PHT candidate. Additional transit in FFIs at ~1649.52 TBJD.
+157892860.0,157892860.01,,,2458680.594,"new CTOI, Montalto (2022)"
+286097964.0,286097964.01,,,,
+359805399.0,359805399.01,,,,
+275179540.0,275179540.01,,,2459274.14,Found with our in-house single transit finder
+219396153.0,219396153.01,10.242,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+135230723.0,135230723.01,,,2458951.624,"new CTOI, Montalto (2022)"
+52555068.0,52555068.01,,,2458470.762,DTARPS 067 in Melton+  arXiv:2302.06724
+111778581.0,111778581.01,,,2458348.706,"new CTOI, Montalto (2022)"
+229446477.0,229446477.01,,,2458683.92,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+238379370.0,238379370.01,,,2458511.748,"new CTOI likely member of Velorum association, PATHOS-40 in Nardiello (2020)"
+161687211.0,161687211.01,,,2458711.24,"new CTOI, Montalto (2022)"
+168903062.0,168903062.01,2.674,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+459211741.0,459211741.01,,,2458675.276,"new CTOI, Montalto (2022)"
+284564211.0,284564211.01,,,2458684.825,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+270920839.0,270920839.01,,,2458768.091,"new CTOI likely member of Czernik 44, PATHOS-60 in Nardiello et al. (2021)"
+341631355.0,341631355.01,,,2458682.492,"new CTOI, Montalto (2022)"
+188620407.0,188620407.01,,,,WINE single transit
+155637265.0,155637265.01,,,2458681.537,"new CTOI, Montalto (2022)"
+,36887038.01,,,,
+36887038.0,36887038.01,,,2459701.669,Single transit event from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+99570132.0,99570132.01,,,,
+248960573.0,248960573.01,,,2458404.897,Found with our in-house single transit finder
+140444257.0,140444257.01,,,2458492.182,DTARPS 153 in Melton+  arXiv:2302.06724
+39012975.0,39012975.01,,,2458837.443,"new CTOI, Montalto (2022)"
+237597612.0,237597612.01,,,,Found with our in-house single transit finder
+237116860.0,237116860.01,0.907,,,33 Re; significant depth-aperture correlation
+130718055.0,130718055.01,,,,
+398304905.0,398304905.01,,,2458790.305,"new CTOI, Montalto (2022)"
+110718787.0,110718787.01,3.092,,,CDIPS report; variable star; some odd-even; seems to be off-target
+199662939.0,199662939.01,2.296,2.294,,Centroid offset on another star
+262330726.0,262330726.01,,,2458438.888,DTARPS 276 in Melton+  arXiv:2302.06724
+192561556.0,192561556.01,,,2458542.485,"new CTOI, Montalto (2022)"
+264485594.0,264485594.01,,,2458465.751,"new CTOI, Montalto et al. (2020)"
+129979519.0,129979519.01,1.22,,,camera 1; ccd 2; column 816; row 1419; sector 18
+123755508.0,123755508.01,,,2458492.575,"new CTOI likely member of Velorum association, PATHOS-38 in Nardiello (2020)"
+144766817.0,144766817.01,,,2458577.071,DTARPS 165 in Melton+  arXiv:2302.06724
+342004815.0,342004815.01,,,,"newCTOI,Single transit event; another single in Y1 at ~1539.5; these two singles are the shorter duration events but there are longer duration events filtered out in the detrending with a period of 39.5 days. However the shorter duration events happen consistently 14.1 days after the deep events; likely eccentric EB"
+277021897.0,277021897.01,,,2459039.97,'A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection' Taaki et al. in prep 2022
+22767596.0,22767596.01,,,2458492.128,DTARPS 030 in Melton+  arXiv:2302.06724
+53247642.0,53247642.01,,,2458804.083,"new CTOI, Montalto (2022)"
+27768855.0,27768855.01,,,2458683.483,"new CTOI, Montalto (2022)"
+149508001.0,149508001.01,0.721,,,Corrected transit depth of 366.38 (+/-81.29) ppm; USP candidate
+231346067.0,231346067.01,1.292,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+95312476.0,95312476.01,,,2458869.43,"new CTOI, Montalto (2022)"
+262570313.0,262570313.01,,,2458468.479,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+250650880.0,250650880.01,,,2458805.455,single transit event from the TSTPC working group
+27841347.0,27841347.01,,,2458683.171,"new CTOI, Montalto (2022)"
+311389718.0,311389718.01,,,2458810.762,"new CTOI, Montalto (2022)"
+359648342.0,359648342.01,,,2458545.214,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+14440176.0,14440176.01,,,,
+136798415.0,136798415.01,,,,
+202059363.0,202059363.01,,,2458472.225,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+279401253.0,279401253.01,,,2459151.042,Found with our in-house single transit finder; transit finder output attached under 'Files'
+30999876.0,30999876.01,,,2458438.369,"new CTOI, Montalto (2022)"
+192831602.0,192831602.01,19.58,9.79587,,"new CTOI, Montalto et al. (2020)"
+337835424.0,337835424.01,,,2458735.843,"new CTOI, Montalto (2022)"
+63889661.0,63889661.01,2.971,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+311233661.0,311233661.01,,,,
+2339182.0,2339182.01,,,2458815.857,"new CTOI, Montalto (2022)"
+9567278.0,9567278.01,,,,
+192014454.0,192014454.01,,,,
+343320735.0,343320735.01,,,2458962.606,"possibly EB, secondary transit of ~74000 ppm- brown dwarf?"
+326092637.0,326092637.01,,,2458382.05,"new CTOI, Montalto et al. (2020)"
+13574905.0,13574905.01,,,2458710.734,"new CTOI, Montalto (2022)"
+37497171.0,37497171.01,,,2458468.283,"new CTOI, Montalto et al. (2020)"
+161169240.0,161169240.01,,,2459083.325,Found with our in-house single transit finder; transit finder output attached under 'Files'
+229055790.0,229055790.01,0.0,,,No report
+355881602.0,355881602.01,,,2459302.925,PHT candidate. Single transit event.
+275703185.0,275703185.01,,,2458838.119,single transit event from the TSTPC working group
+55441086.0,55441086.01,,,2458441.22,All data obtained using the lightkurve framework
+233058262.0,233058262.01,,,2458698.281,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+299739645.0,299739645.01,,,2458513.013,Found with our in-house single transit finder
+301980639.0,301980639.01,4.783,4.779524,,Large; v-shaped; possible secondary
+394126269.0,394126269.01,3.858,,,"new CTOI, PATHOS-1 in Nardiello et al. (2019)"
+271547901.0,271547901.01,,,2458684.24,Kepler candidate planet KOI-7973.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep)
+176366125.0,176366125.01,,,2459191.169,Found with our in-house single transit finder; Sector 32
+22317640.0,22317640.01,,,,WINE single transit
+458451774.0,458451774.01,0.0,,,No report
+60958874.0,60958874.01,,,,
+373136570.0,373136570.01,,,,
+300362600.0,300362600.01,,,2458602.169,"new CTOI likely member of NGC 5316     , PATHOS-19 in Nardiello et al. (2020)"
+231969683.0,231969683.01,,13.9861,,Looks like a single; Found with our in-house single transit finder; Sector 32
+219641816.0,219641816.01,,,2459296.108,PHT candidate. Single transit event.
+236815262.0,236815262.01,,,2459401.098,newCTOI
+220570288.0,220570288.01,,,2458356.233,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+396393272.0,396393272.01,,,2458763.503,"new CTOI, Montalto (2022)"
+445717008.0,445717008.01,,,2458817.2,"Camera 2, CCD 4, Column 1414, Column 1212, Row 727, Sector 19, possible binary system"
+73251118.0,73251118.01,,,2458841.686,"new CTOI, Montalto (2022)"
+343834897.0,343834897.01,,,2458327.281,DTARPS 380 in Melton+  arXiv:2302.06724
+143862255.0,143862255.01,,,2458814.1,"new CTOI, Montalto (2022)"
+396290184.0,396290184.01,,,2458653.749,"new CTOI, Montalto (2022)"
+13072758.0,13072758.01,,,2458455.595,WINE single transit
+388803989.0,388803989.01,,,,
+39535451.0,39535451.01,,,2458466.631,"new CTOI, Montalto (2022)"
+287351976.0,287351976.02,1.924,,,Rp = 167 Re
+333641964.0,333641964.01,,,2458437.812,"new CTOI, Montalto (2022)"
+403693870.0,403693870.01,3.524,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+121990418.0,121990418.01,,,2459392.026,"ctoi Tess-Spoc sec 40-41, Triceratops vetting attached - FPP=0.017"
+302173245.0,302173245.01,,,2458762.255,"new CTOI, Montalto (2022)"
+159059181.0,159059181.01,,,2458471.198,"new CTOI likely member of NGC 2112     , PATHOS-16 in Nardiello et al. (2020)"
+376524552.0,376524552.02,,,2458901.184,Corrected transit depth of 539.68 (+/-62.58)
+359683436.0,359683436.01,,,,Found with our in-house single transit finder
+170161682.0,170161682.01,,,2459213.681,PHT candidate. Note that the target it is a relatively crowded field.
+88618301.0,88618301.01,,,2458710.613,"new CTOI, Montalto (2022)"
+259884973.0,259884973.01,,,2458547.933,DTARPS 271 in Melton+  arXiv:2302.06724
+38815574.0,38815574.01,20.429,10.2145,,"new CTOI, Montalto et al. (2020)"
+212359877.0,212359877.01,,,,
+123012736.0,123012736.01,,,2458685.02,Possible two planets as per light curve
+231066944.0,231066944.01,,,2458470.035,DTARPS 246 in Melton+  arXiv:2302.06724
+29786532.0,29786532.01,1.588,,,CDIPS report; V-shaped; very large
+138683028.0,138683028.01,,,2458713.529,"Qual:B,CM,1.4e+08yr,OffTarget?. Rp=(0.60-0.93)Rj. b=0.04-0.74 (3-97HDI)."
+441012828.0,441012828.01,,,2458327.205,new CTOI  detected in independent ELEANOR search by Tom Kaye
+388402265.0,388402265.01,,,2459971.554,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+305062358.0,305062358.01,,,2458708.038,"new CTOI, Montalto (2022)"
+350190639.0,350190639.01,,,2458328.245,sector1
+237098272.0,237098272.01,,,2458709.0,All data obtained using the lightkurve framework
+50361536.0,50361536.01,,,2458793.465,"new CTOI likely member of NGC 1027, PATHOS-47 in Nardiello et al. (2021)"
+141540100.0,141540100.01,,,2458815.661,"new CTOI, Montalto (2022)"
+150105822.0,150105822.01,,,2458324.835,"new CTOI, Montalto (2022)"
+368713985.0,368713985.01,4.093,4.0936,,"new CTOI, Montalto et al. (2020)"
+233511188.0,233511188.01,,,2458682.982,"new CTOI, Montalto (2022)"
+100776118.0,100776118.01,,,,Single transit event
+127505662.0,127505662.01,,,,actual source is TIC 127505658 which was released as TOI 5564.01
+160374965.0,160374965.01,,,2458927.087,"new CTOI, Montalto (2022)"
+53309262.0,53309262.01,0.0,,,No report on TEV
+27515765.0,27515765.01,,,2458816.82,All data are obtained using the LightKurve framework
+158209498.0,158209498.01,,,2459038.078,Found with our in-house single transit finder; transit finder output attached under 'Files'
+427943483.0,427943483.01,,,,
+420015743.0,420015743.01,,,,
+349575563.0,349575563.01,,,2458325.431,DTARPS 385 in Melton+  arXiv:2302.06724
+154257696.0,154257696.01,,,2458735.115,"new CTOI, Montalto (2022)"
+85406477.0,85406477.01,,,2458983.452,"new CTOI, Montalto (2022)"
+248023451.0,248023451.01,,,2458711.373,"new CTOI, Montalto (2022)"
+73496987.0,73496987.01,,,,
+323717669.0,323717669.01,,,,
+278199150.0,278199150.01,,,2458327.871,DTARPS 303 in Melton+  arXiv:2302.06724
+95768667.0,95768667.01,,,2458818.35,Planet Hunters TESS candidate. Single transit event.
+103913922.0,103913922.01,,,2458574.638,DTARPS 123 in Melton+  arXiv:2302.06724
+251860880.0,251860880.01,,,2458759.373,"new CTOI, Montalto (2022)"
+155916287.0,155916287.01,,,2458735.625,"new CTOI, Montalto (2022)"
+260756218.0,260756218.01,2.0,1.955422,,Algol EB; synchronized with variability
+312091232.0,312091232.01,,,2458515.819,"new CTOI, Montalto et al. (2020)"
+83839341.0,83839341.01,,,2458597.585,"new CTOI, Montalto et al. (2020)"
+269519402.0,269519402.01,,,2458806.272,"new CTOI likely member of Gulliver 49, PATHOS-57 in Nardiello et al. (2021)"
+374352402.0,374352402.01,1.14,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+293187375.0,293187375.01,,,2458787.366,"new CTOI, Montalto (2022)"
+405253778.0,405253778.01,,,2458592.352,"new CTOI, Montalto (2022)"
+274149220.0,274149220.01,,,2458623.132,"new CTOI, Montalto (2022)"
+349647697.0,349647697.01,,,2458326.275,sector1
+10747470.0,10747470.01,1.977,,,No report
+178242751.0,178242751.01,5.296,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+27414976.0,27414976.01,,,2458741.338,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+274211741.0,274211741.01,,,2458435.773,"new CTOI, Montalto (2022)"
+302186856.0,302186856.01,,,2458790.077,"new CTOI, Montalto (2022)"
+154353598.0,154353598.01,,,2458738.334,"new CTOI, Montalto (2022)"
+320092265.0,320092265.01,,,2458654.43,All the data are using the LightKurve framework
+126797048.0,126797048.01,,,,newCTOI; single in s36 spoc
+385636103.0,385636103.01,,,2458600.96,"Camera 2, CCD 2, Column 1487, Row 1525, Sector 11"
+138707225.0,138707225.01,,,,
+272432070.0,272432070.01,,,2458387.87,DTARPS 299 in Melton+  arXiv:2302.06724
+267661228.0,267661228.01,,,,
+341613529.0,341613529.01,,,2458680.226,"new CTOI, Montalto (2022)"
+185779182.0,185779182.01,,,,
+34798133.0,34798133.01,,,2459036.51,All data obtained using LightKurve framework
+467522800.0,467522800.01,,,2458571.831,Possible HJ in IC2602; likely EB; 2x TLS period.
+158984285.0,158984285.01,,,2458710.701,"new CTOI, Montalto (2022)"
+48139432.0,48139432.01,,,2458733.446,single transit event from the TSTPC working group
+168702709.0,168702709.01,,,,Found with our in-house single transit finder; Sector 31
+137604961.0,137604961.01,,,2458681.153,"new CTOI, Montalto (2022)"
+283477114.0,283477114.01,,,2458762.139,"new CTOI, Montalto (2022)"
+388850377.0,388850377.01,,,2458466.818,"new CTOI, Montalto et al. (2020)"
+229675762.0,229675762.01,,,2458684.027,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+410119093.0,410119093.01,,,2458657.624,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+219018744.0,219018744.01,,,2459441.395,Found with our in-house single transit finder; Sector 41
+308739770.0,308739770.01,,,2458516.808,"new CTOI, Montalto (2022)"
+64837857.0,64837857.04,,,2459880.899,Single transit event from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+350274840.0,350274840.01,,,2459037.092,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+190736332.0,190736332.01,,,,
+167085203.0,167085203.01,15.517,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+27858644.0,27858644.01,,,2459017.12,FP: Contaminated transit from nearby EB
+147335089.0,147335089.01,,,2458322.955,"new CTOI, Montalto (2022)"
+87884695.0,87884695.01,1.19,,,Possible W Ursae Majoris type variables (EW) with secondary companion that gets occultated and occults in a strict orbit
+264318873.0,264318873.01,0.551,0.55069,,"new CTOI, Montalto et al. (2020)"
+349373226.0,349373226.01,,,2458325.137,"new CTOI, Montalto et al. (2020)"
+153949511.0,153949511.03,,,,
+80255594.0,80255594.01,,,2458355.078,"new CTOI, Montalto (2022)"
+269033446.0,269033446.01,,,,
+88586022.0,88586022.01,,,2458711.356,"new CTOI, Montalto (2022)"
+9570501.0,9570501.01,,,2458982.983,"new CTOI, Montalto (2022)"
+276915898.0,276915898.01,,,2458759.457,single transit event from the TSTPC working group
+302453291.0,302453291.01,,,2458321.283,"new CTOI, Montalto (2022)"
+158835095.0,158835095.01,,,2458684.52,Kepler candidate planet KOI-1251.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep)
+278825345.0,278825345.01,,,2458332.214,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+158656337.0,158656337.01,,,2459009.312,"new CTOI, Montalto (2022)"
+109929845.0,109929845.01,4.763,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+67600790.0,67600790.01,,,2458630.476,"Hot superNept. PMS M dwarf (Zari+18). Prot  0.8d, RotAmp 5%."
+900106078.0,900106078.01,,,2458898.956,"new CTOI, Montalto (2022)"
+450300489.0,450300489.01,,,2458865.801,"new CTOI, Montalto (2022)"
+25765538.0,25765538.01,,,2458763.867,"new CTOI, Montalto (2022)"
+211854402.0,211854402.01,,,2458630.321,"Likely EB. PMS (Zari+18), Teff 5000K, Prot 5d, ampltiude 2%."
+469775147.0,469775147.01,,,2458326.136,DTARPS 457 in Melton+  arXiv:2302.06724
+159761678.0,159761678.01,,,2458684.749,Kepler candidate planet KOI-6195.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep)
+292319626.0,292319626.01,,,2458789.142,"new CTOI, Montalto (2022)"
+396242561.0,396242561.01,,,2458779.544,"new CTOI, Montalto (2022)"
+16478898.0,16478898.01,,,2458840.68,"new CTOI, Montalto (2022)"
+63069576.0,63069576.01,,,2458682.466,"new CTOI, Montalto (2022)"
+85504872.0,85504872.01,,,2458814.259,"new CTOI, Montalto (2022)"
+186810853.0,186810853.01,,,2458786.736,"new CTOI, Montalto (2022)"
+333736132.0,333736132.01,,,,"newCTOI, Single transit"
+180791665.0,180791665.01,,,2458324.554,"new CTOI, Montalto (2022)"
+26947356.0,26947356.01,,,2458765.23,Possible 2 planets as the curve shows 2 distinct depths of different size
+431656151.0,431656151.01,,,2458953.823,"new CTOI, Montalto (2022)"
+456909420.0,456909420.01,,,2458779.411,PHT candidate. Single transit event.
+348608380.0,348608380.01,,,2458806.922,"new CTOI likely member of NGC 884, PATHOS-69 in Nardiello et al. (2021)"
+468178519.0,468178519.01,,,2458626.064,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+230389303.0,230389303.01,7.69,7.697,,Centroid offset on another star
+98794593.0,98794593.01,,,2459169.317,PHT candidate. Single transit event.
+14030804.0,14030804.01,,,2458410.483,"new CTOI, Montalto (2022)"
+68906031.0,68906031.01,,,2458842.492,"new CTOI, Montalto (2022)"
+270789373.0,270789373.01,,,2458673.097,"new CTOI, Montalto (2022)"
+246976997.0,246976997.01,,,2459482.722,Found with our in-house single transit finder; Sector 43
+25879023.0,25879023.01,,,2458630.51,"Crowded. HJ or EB. Collinder 307 (CG18, 30Myr). pmDec off."
+52871678.0,52871678.01,,,2458466.933,"new CTOI, Montalto (2022)"
+138169785.0,138169785.01,,,2458849.84,single transit event from the TSTPC working group
+191082907.0,191082907.01,,,2458764.755,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+267542728.0,267542728.01,,,2458708.49,PHT candidate.
+352820295.0,352820295.01,,,2458708.685,"new CTOI, Montalto (2022)"
+21618487.0,21618487.01,,,2458469.058,DTARPS 024 in Melton+  arXiv:2302.06724
+190992110.0,190992110.01,,,2458763.881,"new CTOI, Montalto (2022)"
+280613644.0,280613644.01,3.721,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+19026420.0,19026420.01,,,,No TEV report; Found with our in-house single transit finder
+11085362.0,11085362.01,,,2458436.635,"new CTOI, Montalto (2022)"
+154562343.0,154562343.01,,,2458710.443,"new CTOI, Montalto (2022)"
+254304169.0,254304169.01,,,2458354.031,"new CTOI, Montalto et al. (2020)"
+120232318.0,120232318.01,,,2458742.194,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+260167199.0,260167199.01,,,,
+53461742.0,53461742.01,4.412,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+52169698.0,52169698.01,,,2458467.913,"new CTOI, Montalto et al. (2020)"
+361983224.0,361983224.01,,,2458863.427,Found with our in-house single transit finder; Sector 20
+365250897.0,365250897.01,,,,Found with our in-house single transit finder; Sector 31
+14960758.0,14960758.01,,,2458681.57,"new CTOI, Montalto (2022)"
+199497770.0,199497770.01,8.97,,,Sector 23
+159343218.0,159343218.01,109.14,"106.66, 23.388, 81.851 ",,QLP S25 (not on TEV) has half CTOI period but shows significant depth-aperture correlation
+130613275.0,130613275.01,,,2458484.85,"new CTOI, Montalto et al. (2020)"
+150277490.0,150277490.01,,,2458868.759,"new CTOI, Montalto (2022)"
+137389526.0,137389526.01,3.912,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+312395707.0,312395707.01,,,2458713.59,All data obtained using the lightKurve framework
+293143386.0,293143386.01,,,2458413.026,"new CTOI, Montalto (2022)"
+73485270.0,73485270.01,,,2458491.829,DTARPS 095 in Melton+  arXiv:2302.06724
+291639913.0,291639913.01,,,2458738.173,"new CTOI, Montalto (2022)"
+347504780.0,347504780.01,,,2458954.285,"new CTOI, Montalto (2022)"
+445779478.0,445779478.01,,,2459936.928,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+47519866.0,47519866.01,,,2458677.184,"new CTOI, Montalto (2022)"
+268751095.0,268751095.01,,,,No report on TEV; Found with our in-house single transit finder; transit finder output attached under 'Files'
+26493474.0,26493474.01,,,2458684.32,Data are obtained using the LightKurve framework
+7984988.0,7984988.01,,,2459275.052,Found with our in-house single transit finder
+449793302.0,449793302.01,4.9,,,"No TEV report; Camera 2, CCD 2, Column 307, Row 1088, Sector 11"
+13337783.0,13337783.01,,,2458682.971,"new CTOI, Montalto (2022)"
+26264354.0,26264354.01,,,2458543.686,"new CTOI, Montalto et al. (2020)"
+198382901.0,198382901.01,,,2458685.238,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+98796344.0,98796344.02,,,2458412.58,low SNR for a second PC
+431484794.0,431484794.01,,,2458764.395,"new CTOI, Montalto (2022)"
+296354161.0,296354161.01,6.007,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+135367053.0,135367053.01,2.758,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+324609409.0,324609409.01,,,,
+235290932.0,235290932.01,,,2458492.306,DTARPS 255 in Melton+  arXiv:2302.06724
+6517467.0,6517467.01,,,2458491.71,All data obtained using the Light Kurve Framework
+184111843.0,184111843.01,3.085,,,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+1461133.0,1461133.01,,,2459220.143,Found with our in-house single transit finder
+199572211.0,199572211.01,,,2458690.671,From 8 Cycle 2 SPOC sectors; has a close binary companion according to Gaia
+318146095.0,318146095.01,,,2458489.647,"new CTOI, Montalto (2022)"
+233195052.0,233195052.01,2.68,2.678,,Centroid offset on another star
+53993965.0,53993965.01,0.577,0.57671,,"new CTOI, Montalto et al. (2020)"
+675057531.0,675057531.01,,,2458324.067,"new CTOI, Montalto (2022)"
+238930658.0,238930658.01,0.693,0.6935,,"new CTOI, Montalto et al. (2020)"
+282794970.0,282794970.01,,,2459665.725,Nguyen et al. (2022)
+97255991.0,97255991.01,,,,
+453029782.0,453029782.01,,,2459550.107,PHT candidate. Two transits (sectors 8 and 45). Period expected to be around 25 days.
+266998947.0,266998947.01,,,2458322.744,"new CTOI, Montalto (2022)"
+85371626.0,85371626.01,,,2458817.87,All data are obtained using the LightKurve framework
+3892209.0,3892209.01,,,,No report on TEV; Found with our in-house single transit finder; transit finder output attached under 'Files'
+346631343.0,346631343.01,,,2458623.192,"new CTOI, Montalto (2022)"
+24821583.0,24821583.01,,,2458465.984,"new CTOI, Montalto (2022)"
+859480036.0,859480036.01,2.596,,,CDIPS report; double-lined EB
+241175746.0,241175746.01,,,2458837.661,"new CTOI, Montalto (2022)"
+395657794.0,395657794.01,,,2458787.568,"new CTOI, Montalto (2022)"
+48193137.0,48193137.01,,,2458682.805,"new CTOI, Montalto (2022)"
+178443903.0,178443903.01,,,2458358.996,DTARPS 204 in Melton+  arXiv:2302.06724
+290686569.0,290686569.01,,,2459427.316,Found with our in-house single transit finder; Sector 41
+329246888.0,329246888.01,,,2458682.719,"new CTOI, Montalto (2022)"
+453100658.0,453100658.01,,,2458336.513,DTARPS 452 in Melton+  arXiv:2302.06724
+8671865.0,8671865.01,,,2458917.039,"new CTOI, Montalto (2022)"
+140935850.0,140935850.01,,,2458815.948,"new CTOI, Montalto (2022)"
+261261490.0,261261490.01,,,2458595.885,vetted with DAVE (https://arxiv.org/abs/1901.07459)
+298077526.0,298077526.01,,,2458571.938,"Cand HJ, Theia 1242. Cluster maybe nonexistent. Hot star."
+264221104.0,264221104.01,61.9,,,No TEV report; inflated cold Jupiter or EB (or noise) around evolved star
+293579773.0,293579773.01,,,2458622.651,"new CTOI, Montalto (2022)"
+85597635.0,85597635.01,,,2458785.342,"new CTOI, Montalto (2022)"
+65282454.0,65282454.01,,,2458789.593,"new CTOI, Montalto (2022)"
+318188400.0,318188400.01,,,2459212.644,Found with our in-house single transit finder
+138176261.0,138176261.01,,,2458841.554,"new CTOI, Montalto (2022)"
+365956062.0,365956062.01,,,2458653.521,"new CTOI, Montalto et al. (2020)"
+289457941.0,289457941.01,,,2458678.888,"new CTOI, Montalto (2022)"
+164790977.0,164790977.01,,,,
+4956529.0,4956529.01,,,2458869.019,"new CTOI, Montalto (2022)"
+51947865.0,51947865.01,3.699,3.6992,,newCTOI; this appears to be a phantom; check 831471745 (brighter of two real stars)
+289679597.0,289679597.01,,,2458683.109,"new CTOI, Montalto (2022)"
+278536652.0,278536652.01,,,2458322.031,"new CTOI, Montalto et al. (2020)"
+443618156.0,443618156.01,,,2458546.253,DTARPS 450 in Melton+  arXiv:2302.06724
+396246765.0,396246765.01,,,2458656.165,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+438225366.0,438225366.01,,,,Found with our in-house single transit finder
+47625466.0,47625466.01,8.26,,,"Possible two planets, as the light curve shows two different kind of depths"
+401617111.0,401617111.01,,,,
+289542816.0,289542816.01,,,2458518.081,"new CTOI, Montalto (2022)"
+100504488.0,100504488.03,,,,
+412200591.0,412200591.01,,,,Found with our in-house single transit finder; Sector 32
+192782053.0,192782053.01,,,2458789.7,"new CTOI, Montalto (2022)"
+53952541.0,53952541.01,,,2458346.31,Found with our in-house single transit finder
+16271601.0,16271601.01,,,2459714.213,Single transit event from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+294765664.0,294765664.01,,,2458574.411,DTARPS 326 in Melton+  arXiv:2302.06724
+393748848.0,393748848.01,,,2458438.099,"new CTOI, Montalto et al. (2020)"
+239277658.0,239277658.01,3.25,,,No report on TEV
+252753599.0,252753599.01,,,2458765.507,"Qual:B,NotCM?,6.2e+08yr,OffTarget?. Rp=(2.11-2.38)Rj. b=0.00-0.12 (3-97HDI)."
+408254149.0,408254149.01,,,,
+169251938.0,169251938.01,,,,No report on TEV; Found with our in-house single transit finder
+192833836.0,192833836.01,,,2458442.974,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+296859112.0,296859112.01,,,,Found with our in-house single transit finder
+280980464.0,280980464.01,,,2458815.95,"new CTOI, Montalto (2022)"
+422082582.0,422082582.01,,,2459463.292,PHT candidate. Single transit event.
+4299199.0,4299199.01,,,,Found with our in-house single transit finder; Sector 20
+102923946.0,102923946.01,,,2458678.729,"new CTOI, Montalto (2022)"
+160097921.0,160097921.01,,,2458682.025,"new CTOI, Montalto (2022)"
+389662862.0,389662862.01,2.998,,,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+141428309.0,141428309.01,,,2459040.899,Found with our in-house single transit finder; transit finder output attached under 'Files'
+233629963.0,233629963.01,,,2458684.972,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+197736350.0,197736350.01,,,,
+431867372.0,431867372.01,,,2458785.36,"new CTOI, Montalto (2022)"
+102080051.0,102080051.01,,,2458568.98,"new CTOI, Montalto (2022)"
+441199415.0,441199415.01,,,2458344.443,Found with our in-house single transit finder
+83391903.0,83391903.01,,,2458600.393,DTARPS 101 in Melton+  arXiv:2302.06724
+229810162.0,229810162.01,,,2458493.077,DTARPS 242 in Melton+  arXiv:2302.06724
+387714289.0,387714289.01,,,2458470.579,DTARPS 405 in Melton+  arXiv:2302.06724
+142862446.0,142862446.01,,,2458841.428,"new CTOI, Montalto (2022)"
+220460087.0,220460087.01,3.271,3.2708,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+27354439.0,27354439.01,0.486,,,No report
+141582431.0,141582431.01,,,2458814.752,"new CTOI, Montalto (2022)"
+188567506.0,188567506.01,,,2458950.971,"new CTOI, Montalto (2022)"
+100918213.0,100918213.01,0.256,0.25645,,"new CTOI, Montalto et al. (2020)"
+368803791.0,368803791.01,,,2459715.139,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+397678193.0,397678193.01,,,,
+88571421.0,88571421.01,,,2458416.573,DTARPS 102 in Melton+  arXiv:2302.06724
+147890054.0,147890054.01,,,2458675.432,"new CTOI, Montalto (2022)"
+336410025.0,336410025.01,,,2458680.48,"new CTOI, Montalto (2022)"
+120182692.0,120182692.01,,,2458681.966,"new CTOI, Montalto (2022)"
+180625612.0,180625612.01,,,2458906.618,"Qual:A,NotCM. Rp=(1.94-2.47)Rj. b=0.24-0.69 (3-97HDI)."
+365102760.0,365102760.01,4.204,,,No TEV report; hot Neptune candidate around evolved star
+399913539.0,399913539.01,,,2458684.335,Kepler candidate planet KOI-7415.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep)
+27549827.0,27549827.01,,,,
+142103253.0,142103253.01,,,2458815.976,"new CTOI, Montalto (2022)"
+261680542.0,261680542.01,,,2458326.345,DTARPS 275 in Melton+  arXiv:2302.06724
+99673151.0,99673151.01,,,,
+267417544.0,267417544.01,,,2458813.098,"new CTOI, Montalto (2022)"
+27670294.0,27670294.01,,,2458815.713,"new CTOI, Montalto (2022)"
+159438790.0,159438790.01,,,2458682.997,"new CTOI, Montalto (2022)"
+155947147.0,155947147.01,,,2458979.16,single transit event from the TSTPC working group
+415732733.0,415732733.01,,,,
+167456277.0,167456277.01,,,2459124.944,Found with our in-house single transit finder; transit finder output attached under 'Files'
+24795168.0,24795168.01,,,,PHT candidate. Single transit event. We caution that the event is close to a momentum dump.
+76707975.0,76707975.01,,,2458600.02,DTARPS 096 in Melton+  arXiv:2302.06724
+441705792.0,441705792.01,,,,
+233187772.0,233187772.01,,,2458675.453,"new CTOI, Montalto (2022)"
+437935628.0,437935628.01,,,2459205.566,Found with our in-house single transit finder
+310783184.0,310783184.01,,,2458681.93,"new CTOI, Montalto (2022)"
+138346833.0,138346833.01,,,2458815.676,"new CTOI, Montalto (2022)"
+190989264.0,190989264.01,,,2459263.15,Found with our in-house single transit finder
+206588321.0,206588321.01,,,,No report on TEV; Single transit; found with our in-house single transit finder; transit finder output attached under 'Files'
+458484614.0,458484614.01,5.82,,,All data obtained using the lightkurve framework
+38811794.0,38811794.01,,,2458438.287,DTARPS 050 in Melton+  arXiv:2302.06724
+160804180.0,160804180.01,,,2458707.583,"new CTOI, Montalto (2022)"
+350930938.0,350930938.01,,,2458335.527,"Feinstein, A.~D., Montet, B.~T., Foreman-Mackey, D., et al.\ 2019, arXiv e-prints , arXiv:1903.09152."
+220524097.0,220524097.01,3.961,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+434105091.0,434105091.01,,,,
+283027405.0,283027405.01,7.29,,,Possible hot jupiter or brown dwarf considering the size
+437749809.0,437749809.01,,,2458760.518,"new CTOI, Montalto (2022)"
+86265698.0,86265698.01,,,2458841.181,"new CTOI, Montalto (2022)"
+399793914.0,399793914.01,,,2458681.244,"new CTOI, Montalto (2022)"
+284677262.0,284677262.01,,,,Found with our in-house single transit finder; Sector 32
+121636363.0,121636363.01,0.0,,,Single transit event
+406241337.0,406241337.01,,,2458327.889,DTARPS 424 in Melton+  arXiv:2302.06724
+81790160.0,81790160.01,,,2458515.91,"new CTOI, Montalto (2022)"
+468910725.0,468910725.01,,,2458456.531,Found with our in-house single transit finder
+122870280.0,122870280.01,,,2458468.307,DTARPS 137 in Melton+  arXiv:2302.06724
+5696824.0,5696824.01,,,2458491.766,DTARPS 008 in Melton+  arXiv:2302.06724
+402065454.0,402065454.01,,,2458325.698,DTARPS 417 in Melton+  arXiv:2302.06724
+431605129.0,431605129.01,,,2458767.348,hot Jupiter candidate around dwarf star/bg star? check nearby bright star
+293631908.0,293631908.01,,,2458869.382,"new CTOI, Montalto (2022)"
+119685627.0,119685627.01,,,2458472.76,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+94423678.0,94423678.01,,,2458631.202,"Hot Jup. PMS M dwarf (Zari+18), Prot 2d?, Tdur a bit long."
+273270473.0,273270473.01,2.709,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+158436232.0,158436232.01,,,2458696.677,"new CTOI, Montalto (2022)"
+25758307.0,25758307.01,0.903,,,No report
+142491574.0,142491574.01,,,2458682.245,"new CTOI, Montalto (2022)"
+327302178.0,327302178.01,,,2458598.411,DTARPS 367 in Melton+  arXiv:2302.06724
+99319615.0,99319615.01,,,2458710.872,"new CTOI, Montalto (2022)"
+409612847.0,409612847.01,,,2458813.894,"new CTOI, Montalto (2022)"
+271239155.0,271239155.01,,,2458764.267,"new CTOI, Montalto (2022)"
+105850602.0,105850602.01,,,2459007.421,V/U shaped single transit
+335296995.0,335296995.01,,,2459006.921,"new CTOI, Montalto (2022)"
+135145585.0,135145585.01,,,2458569.693,"new CTOI, Montalto et al. (2020)"
+382435735.0,382435735.01,,,2459042.54,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+26877693.0,26877693.01,,,2458678.157,"new CTOI, Montalto (2022)"
+437234869.0,437234869.01,,,,Found with our in-house single transit finder
+71518575.0,71518575.01,,,2458841.257,"new CTOI, Montalto (2022)"
+296863792.0,296863792.01,,,2459283.028,newCTOI
+427765233.0,427765233.01,,,2458749.693,"new CTOI, Montalto (2022)"
+343933335.0,343933335.01,4.37,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+178472673.0,178472673.01,,,2458496.709,Found with our in-house single transit finder
+373026096.0,373026096.01,,,,Found with our in-house single transit finder; Sector 32
+423539160.0,423539160.01,,,2460019.693,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+1042868.0,1042868.01,,,2458891.665,Found with our in-house single transit finder; transit finder output attached under 'Files'; close to MD
+452523977.0,452523977.01,,,,
+137889083.0,137889083.01,,,2458869.358,"new CTOI, Montalto (2022)"
+358576949.0,358576949.02,,,2459083.306,newCTOI
+146627106.0,146627106.01,,,2458492.76,"Possible two planets, Camera 2, CCD 2, Column 1935, Row 656, Sector 7"
+310162619.0,310162619.01,,,2458816.27,All data are obtained using the LightKurve Framework
+369779127.0,369779127.01,0.0,,,No report
+152406952.0,152406952.01,,,2459252.999,Found with our in-house single transit finder
+59465088.0,59465088.01,,,2458469.058,DTARPS 076 in Melton+  arXiv:2302.06724
+349832804.0,349832804.01,1.041,,,No report
+5364106.0,5364106.01,,,,PHT candidate. Single transit event.
+406526291.0,406526291.01,,,2458735.523,"new CTOI, Montalto (2022)"
+81600531.0,81600531.01,,,2458790.385,"new CTOI, Montalto (2022)"
+103692994.0,103692994.01,,,2458681.935,"new CTOI, Montalto (2022)"
+331651143.0,331651143.01,,,2458815.776,"new CTOI, Montalto (2022)"
+645713782.0,645713782.01,,,2458790.975,"new CTOI likely member of King 6, PATHOS-80 in Nardiello et al. (2021)"
+18022314.0,18022314.01,,,2458897.464,"new CTOI, Montalto (2022)"
+165371584.0,165371584.01,,,2458897.068,"new CTOI, Montalto (2022)"
+334949878.0,334949878.01,,,2458741.393,"new CTOI likely member of Alessi Teutsch 5, PATHOS-68 in Nardiello et al. (2021)"
+237097805.0,237097805.01,,,2458663.606,"new CTOI, Montalto (2022)"
+238895829.0,238895829.01,,,,inflated planet candidate around red giant star
+377416580.0,377416580.01,,,2458764.65,"new CTOI, Montalto (2022)"
+445880578.0,445880578.01,,,2458955.744,"new CTOI, Montalto (2022)"
+385104242.0,385104242.01,,,2458790.571,"new CTOI, Montalto (2022)"
+129004128.0,129004128.01,,,2458738.558,"new CTOI, Montalto (2022)"
+71431434.0,71431434.01,,,2458842.321,"new CTOI, Montalto (2022)"
+161617319.0,161617319.01,,,2458409.824,"new CTOI, Montalto (2022)"
+210441429.0,210441429.01,,,2458597.239,hot Jupiter candidate around subgiant star
+420735478.0,420735478.01,,,2458982.526,"new CTOI, Montalto (2022)"
+290048573.0,290048573.01,,,2458326.66,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+197039766.0,197039766.01,,,2458841.251,"new CTOI, Montalto (2022)"
+425585592.0,425585592.01,,,2458618.405,Found with our in-house single transit finder
+312480940.0,312480940.01,,,2458815.622,"new CTOI, Montalto (2022)"
+43785616.0,43785616.01,,,2459175.208,Found with our in-house finder; Sector 32
+20424851.0,20424851.01,,,2458495.287,DTARPS 023 in Melton+  arXiv:2302.06724
+253009411.0,253009411.01,,,2458842.166,"new CTOI, Montalto (2022)"
+366946329.0,366946329.01,,,2458632.67,"Camera 2, CCD 3, Column 763, Row 637, Sector 12, unclear orbital period"
+289568596.0,289568596.01,,,2458811.164,"new CTOI, Montalto (2022)"
+389471462.0,389471462.01,,,2458324.875,"new CTOI, Montalto (2022)"
+143907118.0,143907118.01,,,2458468.996,DTARPS 161 in Melton+  arXiv:2302.06724
+229760134.0,229760134.01,,,2458683.828,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+134649962.0,134649962.01,,,2458571.8,DTARPS 144 in Melton+  arXiv:2302.06724
+140900726.0,140900726.01,,,2459039.35,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+359206901.0,359206901.01,,,2458925.658,"new CTOI, Montalto (2022)"
+76252511.0,76252511.01,,,2459009.535,"new CTOI, Montalto (2022)"
+270260727.0,270260727.01,,,2458328.809,single transit event from the TSTPC working group
+238605434.0,238605434.01,,,2459528.995,Found with our in-house single transit finder; Sector 45
+113918063.0,113918063.01,,,2459521.949,Found with our in-house single transit finder; Sector 44
+2050290974.0,2050290974.01,,,2458755.095,"new CTOI, Montalto (2022)"
+234496405.0,234496405.01,,,2458380.0,warm Jupiter candidate around evolved star
+319558163.0,319558163.01,,,2458360.11,All data obtained using the lightkurve framework
+357674158.0,357674158.01,,,2458790.183,"new CTOI, Montalto (2022)"
+229064630.0,229064630.01,,,2458547.641,DTARPS 239 in Melton+  arXiv:2302.06724
+54064834.0,54064834.01,,,2458469.808,DTARPS 072 in Melton+  arXiv:2302.06724
+284160132.0,284160132.01,,,2458470.777,DTARPS 313 in Melton+  arXiv:2302.06724
+407457771.0,407457771.01,,,2458790.207,"new CTOI, Montalto (2022)"
+44669739.0,44669739.01,,,2458438.03,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+382360740.0,382360740.01,5.15,,,All data obtained using the Light Kurve framework
+369375920.0,369375920.01,,,2458496.7,DTARPS 391 in Melton+  arXiv:2302.06724
+141979734.0,141979734.01,,,2458317.495,"new CTOI, Montalto et al. (2020)"
+425046696.0,425046696.01,,,2458983.057,"new CTOI, Montalto (2022)"
+103938530.0,103938530.01,,,2458570.388,"new CTOI, Montalto (2022)"
+174328045.0,174328045.01,,,2458760.352,"new CTOI, Montalto (2022)"
+100665013.0,100665013.01,,,,Found with our in-house single transit finder; Sector 32
+154067753.0,154067753.01,,,2459617.53,Nguyen et al. (2022)
+252798304.0,252798304.01,,,2458886.53,All data obtained using the lightkurve framework
+39217525.0,39217525.01,,,2458467.64,"new CTOI, Montalto (2022)"
+318756174.0,318756174.01,,,2458493.11,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+142305141.0,142305141.01,,,2458382.324,"new CTOI, Montalto et al. (2020)"
+408358709.0,408358709.01,,,,
+116497708.0,116497708.01,6.67,,,camera: 2; ccd: 4; column: 898; row: 145; sector: 18
+231274151.0,231274151.01,,,2458492.411,DTARPS 247 in Melton+  arXiv:2302.06724
+27847307.0,27847307.01,2.498,,,No report on TEV
+350844139.0,350844139.01,0.571,,,Variability
+156255925.0,156255925.01,,,2458979.736,"new CTOI, Montalto (2022)"
+417058223.0,417058223.01,,,2458712.263,"new CTOI likely member of NGC 7086, PATHOS-74 in Nardiello et al. (2021)"
+393565707.0,393565707.01,,,2459545.913,Found with our in-house single transit finder; Sector 45
+385557214.0,385557214.01,5.625,,,Clear secondary in SPOC LC
+111363968.0,111363968.01,,,2458382.511,"new CTOI, Montalto et al. (2020)"
+413809436.0,413809436.01,,,2458627.336,"new CTOI likely member of NGC 5925     , PATHOS-26 in Nardiello et al. (2020)"
+339368119.0,339368119.01,,,2458819.62,"Camera 2, CCD 4, Column 1099, Row 2004, Sector 19"
+155477509.0,155477509.01,,,2458813.891,"new CTOI, Montalto (2022)"
+424089318.0,424089318.01,,,2458815.12,"new CTOI, Montalto (2022)"
+80317933.0,80317933.01,,,2458625.529,"new CTOI likely member of Collinder 292, PATHOS-05 in Nardiello et al. (2020)"
+5043138.0,5043138.01,,,2458898.97,"new CTOI, Montalto (2022)"
+384882500.0,384882500.01,,,,
+188619138.0,188619138.01,,,,WD single transit (nominal period: 2500 years!)
+55682020.0,55682020.01,,,2458842.159,"new CTOI, Montalto (2022)"
+141811446.0,141811446.01,,,2459037.12,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+292777663.0,292777663.01,4.603,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+274508785.0,274508785.01,,,2459673.304,Nguyen et al. (2022)
+31054247.0,31054247.01,,,2458440.177,DTARPS 036 in Melton+  arXiv:2302.06724
+232050190.0,232050190.01,,,2458468.068,"new CTOI, Montalto (2022)"
+1717079066.0,1717079066.01,1.764,1.76353,,signal already released as TOI 1161 
+3181884.0,3181884.01,,,,Found with our in-house single transit finder
+229480555.0,229480555.01,11.878,11.895,,Placed on hold for reprocessing
+456239821.0,456239821.01,,,2458814.539,"new CTOI, Montalto (2022)"
+347332255.0,347332255.04,,,2459643.787,PHT candidate. 3:2 resonance.
+436842712.0,436842712.01,,,2458788.546,"new CTOI, Montalto (2022)"
+426317111.0,426317111.01,,,,
+52216463.0,52216463.01,,,2458543.829,DTARPS 064 in Melton+  arXiv:2302.06724
+253040591.0,253040591.01,,,,No report on TEV; Found with our in-house single transit finder; transit finder output attached under 'Files'
+120355606.0,120355606.01,,,2458683.014,"new CTOI, Montalto (2022)"
+649892545.0,649892545.01,,,2458440.055,DTARPS 461 in Melton+  arXiv:2302.06724
+250492521.0,250492521.01,,,2459223.432,Found with our in-house single transit finder
+293893405.0,293893405.01,,,,Found with our in-house single transit finder; Sector 32
+198147513.0,198147513.01,,,2458896.336,"new CTOI, Montalto (2022)"
+76140400.0,76140400.01,,,2459012.829,Found with our in-house single transit finder; transit finder output attached under 'Files'
+144100224.0,144100224.01,,,2458841.875,"new CTOI, Montalto (2022)"
+467260886.0,467260886.01,,,2458709.893,"new CTOI, Montalto (2022)"
+424730711.0,424730711.01,,,,Found with our in-house single transit finder; transit finder output attached under 'Files'
+403154475.0,403154475.01,,,2458325.857,DTARPS 421 in Melton+  arXiv:2302.06724
+81089255.0,81089255.01,,,2459260.207,PHT single transit event. Note that the field is very crowded.
+166540320.0,166540320.01,,,,
+154809195.0,154809195.01,,,2458682.252,"new CTOI, Montalto (2022)"
+405542683.0,405542683.01,,,2458982.698,"new CTOI, Montalto (2022)"
+178143624.0,178143624.01,,,,
+458989211.0,458989211.01,,,2458815.89,"new CTOI, Montalto (2022)"
+229515782.0,229515782.01,,,2458711.258,"new CTOI, Montalto (2022)"
+349813029.0,349813029.01,,,,
+314643904.0,314643904.01,6.85,,,All info obtained using the LightKurve framework
+452954163.0,452954163.01,5.002,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+357786383.0,357786383.01,,,,
+432564189.0,432564189.01,3.761,,,CDIPS report; too large
+303050301.0,303050301.01,,,2458366.12,PHT candidate. Single transit event.
+73731443.0,73731443.01,,,2458814.454,"new CTOI, Montalto (2022)"
+86810852.0,86810852.01,,,2458839.808,"new CTOI, Montalto (2022)"
+12090836.0,12090836.01,,,2458470.35,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+459223420.0,459223420.01,,,2458711.022,"new CTOI, Montalto (2022)"
+347427606.0,347427606.01,,,2458789.609,"new CTOI, Montalto (2022)"
+458653596.0,458653596.01,,,2458493.524,DTARPS 456 in Melton+  arXiv:2302.06724
+82696443.0,82696443.01,,,2458815.689,"new CTOI, Montalto (2022)"
+376116071.0,376116071.01,,,2458985.195,"Qual:A,CM,1.8e+08yr. Rp=(1.75-6.07)Rj. b=0.84-1.40 (3-97HDI)."
+103174622.0,103174622.01,,,2458811.223,"new CTOI, Montalto (2022)"
+250559856.0,250559856.01,,,2458787.457,"new CTOI, Montalto (2022)"
+275103817.0,275103817.01,,,2458710.908,"new CTOI, Montalto (2022)"
+248957032.0,248957032.01,,,2459491.317,Found with our in-house single transit finder; Sector 43
+365463946.0,365463946.01,,,2459195.462,Found with our in-house single transit finder; Sector 32
+307085007.0,307085007.01,19.272,,,Significan depth-aperture correlation; V-shaped; some odd-even
+95003423.0,95003423.01,,,2458630.461,"new CTOI likely member of Lupus association  , PATHOS-37 in Nardiello (2020)"
+148622782.0,148622782.01,,,2458869.363,"new CTOI, Montalto (2022)"
+428704854.0,428704854.01,5.67,,,All data obtained using the lightkurve framework
+239142212.0,239142212.01,,,2458846.301,Found with our in-house single transit finder; Sector 20
+23671957.0,23671957.01,,,2458840.468,"new CTOI, Montalto (2022)"
+12011437.0,12011437.01,,,2458542.719,"new CTOI, Montalto et al. (2020)"
+158656833.0,158656833.01,,,2459009.821,"new CTOI, Montalto (2022)"
+36472619.0,36472619.01,,,2458491.919,DTARPS 045 in Melton+  arXiv:2302.06724
+100990000.0,100990000.03,,,2458425.167,Only two transits; 47.4d is the minimum possible orbital period
+172409594.0,172409594.01,,,2458468.495,DTARPS 195 in Melton+  arXiv:2302.06724
+232608943.0,232608943.02,,,2459751.601,"Candidate from the XESP working group. Period from QLP, may be half. Details at: http://xjltp.china-vo.org/xesp.html"
+256160376.0,256160376.01,,,2458642.665,single transit event from the TSTPC working group
+469912324.0,469912324.01,,,2458325.263,"new CTOI, Montalto (2022)"
+92866460.0,92866460.01,19.16,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+176963071.0,176963071.01,,,2459665.297,Nguyen et al. (2022)
+353838733.0,353838733.01,,,2458814.457,"new CTOI, Montalto (2022)"
+380523151.0,380523151.01,,,2458682.647,"new CTOI, Montalto (2022)"
+61344237.0,61344237.01,,,2458470.586,DTARPS 078 in Melton+  arXiv:2302.06724
+156081668.0,156081668.01,,,2458951.754,"new CTOI, Montalto (2022)"
+80429950.0,80429950.01,,,2458352.574,"new CTOI, Montalto (2022)"
+421630760.0,421630760.01,,,,
+198611553.0,198611553.01,,,2458983.526,"new CTOI, Montalto (2022)"
+232963404.0,232963404.01,,,2458681.654,"new CTOI, Montalto (2022)"
+279787356.0,279787356.01,,,2458468.141,"new CTOI, Montalto (2022)"
+153919886.0,153919886.01,,,2458683.16,"new CTOI, Montalto (2022)"
+98383826.0,98383826.01,,,2458470.517,DTARPS 114 in Melton+  arXiv:2302.06724
+423360793.0,423360793.01,,,,
+307732375.0,307732375.01,,,2458466.298,"new CTOI, Montalto (2022)"
+468888472.0,468888472.01,,,,
+394045794.0,394045794.01,,,2458324.681,"new CTOI, Montalto (2022)"
+102064145.0,102064145.01,,,2458358.765,DTARPS 120 in Melton+  arXiv:2302.06724
+149990098.0,149990098.01,,,,Found with our in-house single transit finder
+445724774.0,445724774.01,,,2458814.863,"new CTOI, Montalto (2022)"
+16490297.0,16490297.01,,,2458492.954,DTARPS 018 in Melton+  arXiv:2302.06724
+173518890.0,173518890.01,,,2458736.971,"new CTOI, Montalto (2022)"
+257803459.0,257803459.01,,,2459494.251,Found with our in-house single transit finder; Sector 43
+37167097.0,37167097.01,1.98,,,All info obtained using the LightKurve framework
+373674579.0,373674579.01,,,2458907.214,single transit event from the TSTPC working group
+219824470.0,219824470.01,,,2458734.803,"new CTOI, Montalto (2022)"
+229573730.0,229573730.01,,,,
+1036769612.0,1036769612.01,7.473,,,"No report on TEV; new CTOI likely member of Trumpler 22  , PATHOS-34 in Nardiello et al. (2020)"
+354478181.0,354478181.01,,,2458762.631,"new CTOI, Montalto (2022)"
+376997143.0,376997143.01,,,2458688.87,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+160184301.0,160184301.01,,,2458682.916,"new CTOI, Montalto (2022)"
+18648237.0,18648237.01,,,2458491.766,DTARPS 019 in Melton+  arXiv:2302.06724
+39174810.0,39174810.01,,,2459647.314,Nguyen et al. (2022)
+138446376.0,138446376.01,,,2458837.937,"new CTOI, Montalto (2022)"
+9176290.0,9176290.01,,,2458443.27,Found with our in-house single transit finder
+55855877.0,55855877.01,,,2458383.082,"new CTOI, Montalto (2022)"
+356862855.0,356862855.01,,,2458680.757,"new CTOI, Montalto (2022)"
+148914245.0,148914245.01,,,2458680.867,"new CTOI, Montalto (2022)"
+357094314.0,357094314.01,,,,
+376588834.0,376588834.01,,,2458814.272,"new CTOI, Montalto (2022)"
+142534582.0,142534582.01,,,2458841.429,"new CTOI, Montalto (2022)"
+68543654.0,68543654.01,,,2458842.388,"new CTOI, Montalto (2022)"
+399918895.0,399918895.01,,,2458681.009,"new CTOI, Montalto (2022)"
+61202306.0,61202306.01,,,2458764.242,"new CTOI, Montalto (2022)"
+16769119.0,16769119.01,,,2458840.573,"new CTOI, Montalto (2022)"
+43899566.0,43899566.01,,,2458436.658,"new CTOI, Montalto (2022)"
+372909935.0,372909935.01,,,2458541.552,vetted with DAVE (https://arxiv.org/abs/1901.07459)
+260119000.0,260119000.01,2.94,,,CDIPS report; possible secondary; centroid uncertain; off-target according to Evans followup
+306603225.0,306603225.01,,,2458571.641,DTARPS 344 in Melton+  arXiv:2302.06724
+165312726.0,165312726.01,,,2459614.499,Nguyen et al. (2022)
+36595388.0,36595388.01,,,2458630.874,"10 Myr EB or HJ. PMS K dwarf host (NGC 6193, CG18)."
+13470446.0,13470446.01,,,2458706.002,"new CTOI, Montalto (2022)"
+341872729.0,341872729.01,,,2458671.915,"new CTOI, Montalto (2022)"
+257430997.0,257430997.01,,,,
+17933174.0,17933174.01,,,2458898.968,"new CTOI, Montalto (2022)"
+141524447.0,141524447.01,,,2458784.495,"new CTOI, Montalto (2022)"
+138664795.0,138664795.01,,,2459612.498,Nguyen et al. (2022)
+397762695.0,397762695.01,,,2458792.302,single transit event from the TSTPC working group
+396113854.0,396113854.01,,,2458787.502,"new CTOI, Montalto (2022)"
+459218138.0,459218138.01,,,2458664.617,"new CTOI, Montalto (2022)"
+356338868.0,356338868.01,,,2458683.355,"new CTOI, Montalto (2022)"
+345327044.0,345327044.01,,,2458765.53,"Camera 2, CCD 1, Column 1661, Row 61, Sector 17"
+9949865.0,9949865.01,,,2458815.803,"new CTOI, Montalto (2022)"
+180652621.0,180652621.01,,,,
+645455722.0,645455722.01,,,2458794.69,"new CTOI likely member of King 5, PATHOS-79 in Nardiello et al. (2021)"
+35021200.0,35021200.01,,,,
+158786520.0,158786520.01,,,2458684.887,Kepler candidate planet KOI-7259.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep)
+67884964.0,67884964.01,,,2458868.013,PHT candidate. Two transit events separated by ~721.57 d. Signal at TJD~2589.0 is due to background event.
+126278294.0,126278294.01,,,2459570.23,Found with our in-house single transit finder; Sector 46
+293566396.0,293566396.01,,,2458815.634,"new CTOI, Montalto (2022)"
+142933407.0,142933407.01,,,,
+63850008.0,63850008.01,,,2827349.0,all star data I took was from MAST and TESS
+311086350.0,311086350.01,,,2458355.637,"new CTOI, Montalto (2022)"
+202292022.0,202292022.01,,,2458671.225,"new CTOI, Montalto (2022)"
+30654608.0,30654608.01,2.496,,,"No report on TEV; new CTOI likely member of Muzzio 1     , PATHOS-02 in Nardiello et al. (2020)"
+155916612.0,155916612.01,,,2458747.323,Planet Hunters TESS candidate. Additional transits in the FFIs.
+349155660.0,349155660.01,0.698,,,Rp = 93 Re
+105488812.0,105488812.01,,,2458868.139,"new CTOI, Montalto (2022)"
+233535064.0,233535064.01,,,2458645.014,"new CTOI, Montalto (2022)"
+146436542.0,146436542.01,,,2458440.165,DTARPS 167 in Melton+  arXiv:2302.06724
+367520974.0,367520974.01,,,2458815.569,"new CTOI, Montalto (2022)"
+26474800.0,26474800.01,,,2458684.549,Kepler candidate planet KOI-8078.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep)
+51863626.0,51863626.01,,,2458815.728,"new CTOI, Montalto (2022)"
+199505279.0,199505279.01,,,2458680.871,"new CTOI, Montalto (2022)"
+342866210.0,342866210.01,,,2458787.505,"Possibly EB, secondary transit of ~45000 ppm, but too small to be a star."
+165832257.0,165832257.01,,,2458840.308,"new CTOI, Montalto (2022)"
+50943299.0,50943299.01,,,2458790.585,"new CTOI, Montalto (2022)"
+349789882.0,349789882.01,10.018,10.0171,,"new CTOI, Montalto et al. (2020)"
+333722409.0,333722409.01,,,2458815.499,"new CTOI, Montalto (2022)"
+340320462.0,340320462.01,,,2458496.769,DTARPS 377 in Melton+  arXiv:2302.06724
+282830436.0,282830436.01,,,2458628.827,"Likely EB, NGC 5925 (180Myr, CG18). Star properties unclear."
+20320305.0,20320305.01,,,2458519.725,DTARPS 022 in Melton+  arXiv:2302.06724
+359338693.0,359338693.01,,,2458791.671,"Qual:B,NotCM?,6.3e+06yr,OffTarget?. Wrn: mean(R)=1.024. Rp=(0.35-1.64)Rj. b=0.05-1.00 (3-97HDI)."
+27233531.0,27233531.01,,,2458681.758,"new CTOI, Montalto (2022)"
+146333231.0,146333231.01,,,,
+10075332.0,10075332.01,,,2458898.9,"new CTOI, Montalto (2022)"
+436663419.0,436663419.01,,,,"Found with our in-house single transit finder; Sector 32; also sec 5 available, no transit visible there"
+67599025.0,67599025.01,,,2458404.02,"WINE single transit, another transit in S30"
+464802921.0,464802921.01,,,2458436.465,"new CTOI, Montalto (2022)"
+14173089.0,14173089.01,,,2458441.471,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+27312599.0,27312599.01,,,2458678.373,"new CTOI, Montalto (2022)"
+4426490.0,4426490.01,,,2458841.997,"new CTOI, Montalto (2022)"
+247202475.0,247202475.01,,,2458710.418,"new CTOI, Montalto (2022)"
+303682623.0,303682623.01,0.681,0.68068,,"new CTOI, Montalto et al. (2020)"
+81077799.0,81077799.02,,,2460015.928,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+280627094.0,280627094.01,,,2458790.096,"new CTOI, Montalto (2022)"
+309234222.0,309234222.01,,,2458789.149,"new CTOI, Montalto (2022)"
+185336364.0,185336364.01,,,,Derived from TESS Data Light Curve Packages
+289718679.0,289718679.01,,,2459633.276,PHT candidate. Single transit event.
+238611475.0,238611475.01,,,2458492.113,"V-shaped. Noisy star, 3% dip, PMS M dwarf (Zari+18).  (CDIPS; Bouma+19)"
+400947780.0,400947780.01,,,2458790.306,"new CTOI, Montalto (2022)"
+123125197.0,123125197.01,,,2458670.292,"new CTOI, Montalto (2022)"
+199618481.0,199618481.01,,,2458738.393,"new CTOI, Montalto (2022)"
+256516208.0,256516208.01,,,,
+65557265.0,65557265.01,,,2458785.339,"new CTOI likely member of NGC 7789, PATHOS-49 in Nardiello et al. (2021)"
+125414447.0,125414447.01,,,2458493.2,"new CTOI likely member of NGC 2323     , PATHOS-09 in Nardiello et al. (2020)"
+163360650.0,163360650.01,,,2458491.974,DTARPS 188 in Melton+  arXiv:2302.06724
+387513450.0,387513450.01,,,,Foun
+82205179.0,82205179.01,,,2459608.964,Nguyen et al. (2022)
+279862481.0,279862481.01,,,2458411.786,DTARPS 304 in Melton+  arXiv:2302.06724
+269946653.0,269946653.01,,,2458789.752,"new CTOI, Montalto (2022)"
+409473377.0,409473377.01,,,2458508.334,Found with our in-house single transit finder
+32949757.0,32949757.01,,,2458468.984,DTARPS 039 in Melton+  arXiv:2302.06724
+228463329.0,228463329.01,,,2458371.632,Found with our in-house single transit finder
+668459662.0,668459662.01,,,2458822.87,"Camera 2, CCD 3, Column 1775, Row 766, Sector 19, possible two planets considering the lightcurve"
+274150793.0,274150793.01,,,,Found with our in-house single transit finder; Sector 31
+250864248.0,250864248.01,,,2458778.431,"new CTOI, Montalto (2022)"
+371207036.0,371207036.01,,,2458838.817,"new CTOI, Montalto (2022)"
+408189324.0,408189324.01,,,2458440.854,DTARPS 427 in Melton+  arXiv:2302.06724
+289624436.0,289624436.01,,,,single transit (nominal period: 20 days)
+38129218.0,38129218.01,2.402,2.401,,"new CTOI, Montalto et al. (2020)"
+268529943.0,268529943.01,,,2458380.335,"new CTOI, Montalto et al. (2020)"
+243167068.0,243167068.01,,,2458780.24,WINE single transit
+277324701.0,277324701.01,,,2458710.675,"new CTOI, Montalto (2022)"
+294194145.0,294194145.01,3.656,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+103180795.0,103180795.01,,,2458808.741,"new CTOI, Montalto (2022)"
+310155291.0,310155291.01,,,2458830.948,single transit event from the TSTPC working group
+240101705.0,240101705.01,,,,Found with our in-house single transit finder; Sector 20
+236529353.0,236529353.01,,,2459422.877,newCTOI
+287258907.0,287258907.01,,,2458983.285,"new CTOI, Montalto (2022)"
+248434289.0,248434289.01,,,2458494.556,DTARPS 263 in Melton+  arXiv:2302.06724
+138351298.0,138351298.01,,,,
+235072851.0,235072851.01,,,2458440.941,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+102808915.0,102808915.01,,,2458807.184,"new CTOI, Montalto (2022)"
+42524156.0,42524156.01,10.013,,,"new CTOI likely member of ASCC 88      , PATHOS-04 in Nardiello et al. (2020)"
+233496435.0,233496435.01,,,2458684.243,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+468401583.0,468401583.01,,,,
+388074615.0,388074615.01,,,2458764.487,"new CTOI, Montalto (2022)"
+86433395.0,86433395.01,,,2459677.238,PHT candidate. Caution of nearby companion star on same TESS pixel.
+234037942.0,234037942.01,,,2458474.14,"Possible two planets Camera 1, CCD 2, Column 1371, Row 1445, Sector 6"
+301558096.0,301558096.01,,,,Found with our in-house single transit finder; Sector 31
+236084210.0,236084210.01,,,2458631.974,"new CTOI likely member of ASCC 85      , PATHOS-18 in Nardiello et al. (2020)"
+284679244.0,284679244.01,,,2458713.885,Nearby star needs checking
+349309625.0,349309625.01,,,2458324.446,"new CTOI, Montalto (2022)"
+69745398.0,69745398.01,,,2459083.162,Found with our in-house single transit finder; transit finder output attached under 'Files'
+266813717.0,266813717.01,,,,Found with our in-house single transit finder
+250595513.0,250595513.01,,,,Single transit event
+96157127.0,96157127.01,0.99,,,All data obtained with the LightKurve framework
+389520593.0,389520593.01,,,2458326.705,DTARPS 408 in Melton+  arXiv:2302.06724
+402875988.0,402875988.01,,,2458810.254,"new CTOI, Montalto (2022)"
+25227021.0,25227021.01,,,2459080.521,Found with our in-house single transit finder; transit finder output attached under 'Files'
+82011246.0,82011246.01,3.51,,,All data are obtained using the LIghtKurve framework
+173639849.0,173639849.01,,12.82,,Found with our in-house single transit finder
+22391604.0,22391604.01,,,2458570.45,"Camera 2, CCD 3, Column 1281, Row 1609, Sector 10"
+316854890.0,316854890.01,,,2458323.175,"new CTOI, Montalto (2022)"
+354834950.0,354834950.01,,,2458787.438,"new CTOI, Montalto (2022)"
+126098688.0,126098688.01,5.914,,,No report
+27541714.0,27541714.01,,,2459520.083,Found with our in-house single transit finder; Sector 44
+21961030.0,21961030.01,,,2458975.102,"new CTOI, Montalto (2022)"
+293649602.0,293649602.01,,,2458511.2,PHT candidate. Single transit event.
+160585062.0,160585062.01,,,,
+443994883.0,443994883.01,,,2459519.671,Found with our in-house single transit finder; Sector 44
+257483992.0,257483992.01,8.787,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+137966491.0,137966491.01,,,,
+93275779.0,93275779.01,0.914,,,CDIPS report; looks ok; faint
+393898356.0,393898356.01,,,2458979.774,"new CTOI, Montalto (2022)"
+92444219.0,92444219.01,,,2458342.473,Planet candidates identified in https://arxiv.org/pdf/1812.08145.pdf
+137504771.0,137504771.01,,,2458815.128,"new CTOI, Montalto (2022)"
+461156158.0,461156158.01,,,2458543.605,"new CTOI, Montalto (2022)"
+141129527.0,141129527.01,,,2458709.483,"new CTOI, Montalto (2022)"
+320261550.0,320261550.01,,,2458674.248,single transit event from the TSTPC working group
+275573755.0,275573755.01,,,2458684.338,Kepler candidate planet KOI-6188.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep)
+306634482.0,306634482.01,,,2458438.763,DTARPS 345 in Melton+  arXiv:2302.06724
+388431740.0,388431740.01,,,,
+703490821.0,703490821.01,,,2458841.149,"new CTOI, Montalto (2022)"
+135163289.0,135163289.01,,,2458439.411,DTARPS 147 in Melton+  arXiv:2302.06724
+397043291.0,397043291.01,,,2458813.893,"new CTOI, Montalto (2022)"
+335684494.0,335684494.01,,,,
+453455638.0,453455638.01,6.012,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+311236477.0,311236477.01,3.133,,,Odd-even
+202955310.0,202955310.01,,,2458789.845,"new CTOI, Montalto (2022)"
+432012467.0,432012467.01,,,2458491.914,"new CTOI, Montalto (2022)"
+288800710.0,288800710.01,,,2458814.744,"new CTOI, Montalto (2022)"
+178367145.0,178367145.01,,,2458489.49,"new CTOI, Montalto et al. (2020)"
+99865630.0,99865630.01,,,2458683.124,"new CTOI, Montalto (2022)"
+63120478.0,63120478.01,,,2458709.275,"new CTOI, Montalto (2022)"
+802854855.0,802854855.01,,,2458488.015,"new CTOI, Montalto (2022)"
+279856297.0,279856297.01,,,2458318.952,"new CTOI, Montalto (2022)"
+290596728.0,290596728.01,,,,No report on TEV; Found with our in-house single transit finder; transit finder output attached under 'Files'
+157330058.0,157330058.01,,,2458683.149,"new CTOI, Montalto (2022)"
+120238206.0,120238206.01,,,2458737.282,"new CTOI, Montalto (2022)"
+431767111.0,431767111.01,,,2458789.683,"new CTOI, Montalto (2022)"
+152359413.0,152359413.01,,,2458398.6,Found with our in-house single transit finder
+460024410.0,460024410.01,,,2458597.174,Cand HJ; Theia 1172 (KC19). Cluster existence questionable.
+198420098.0,198420098.01,1.789,1.78624,,Odd-even
+103225834.0,103225834.01,,,2458983.138,"new CTOI, Montalto (2022)"
+350335633.0,350335633.01,2.389,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+55454149.0,55454149.01,,,2458539.839,Found with our in-house single transit finder
+142305910.0,142305910.01,,,2458382.723,"new CTOI, Montalto (2022)"
+390045892.0,390045892.01,,,2458960.367,single transit event from the TSTPC working group
+427320001.0,427320001.03,,,2458985.517,New CTOI detected. Exhibits clear TTVs due to 2:1 resonance with b.
+206561817.0,206561817.01,,,,No report on TEV; Found with our in-house single transit finder; transit finder output attached under 'Files'
+139052254.0,139052254.01,,,2458895.816,"new CTOI, Montalto (2022)"
+26813962.0,26813962.01,,,2458679.505,"new CTOI, Montalto (2022)"
+200511352.0,200511352.01,,,2458737.178,"new CTOI, Montalto (2022)"
+431945694.0,431945694.01,,,2459966.945,Found with our in-house single transit finder;Sector 61
+284575436.0,284575436.01,,,2458841.59,"new CTOI, Montalto (2022)"
+55446876.0,55446876.01,,,2458846.71,All data obtained using the lightkurve framework
+441131943.0,441131943.01,,,2459146.109,Found with our in-house single transit finder; Sector 31
+284910127.0,284910127.01,1.771,,,No report on TEV; Eclipsing Binary
+289772905.0,289772905.01,,,2458707.593,"new CTOI, Montalto (2022)"
+41864106.0,41864106.01,,,2458354.296,"new CTOI, Montalto (2022)"
+307210830.0,307210830.04,,,2460041.804,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+237225365.0,237225365.01,,,2458681.721,"new CTOI, Montalto (2022)"
+270516993.0,270516993.01,,,2458679.157,"new CTOI, Montalto (2022)"
+339533165.0,339533165.01,,,2458815.081,"new CTOI, Montalto (2022)"
+275488151.0,275488151.01,,,2458682.55,"new CTOI, Montalto (2022)"
+68326706.0,68326706.01,,,2458630.537,Found with our in-house single transit finder; Sector 12
+158958668.0,158958668.01,,,2458467.44,"new CTOI, Montalto (2022)"
+149349867.0,149349867.03,,,,
+422650438.0,422650438.01,,,2458411.66,"camera 1, ccd 4, column 1786, row 258, sector 4"
+198486574.0,198486574.01,,,2458679.842,"new CTOI, Montalto (2022)"
+316852947.0,316852947.01,,,2458327.182,DTARPS 356 in Melton+  arXiv:2302.06724
+207439389.0,207439389.01,,,2458738.254,"new CTOI, Montalto (2022)"
+60111182.0,60111182.01,0.37,,,All data obtained with the LightKurve framework
+124922266.0,124922266.01,,,2458469.016,DTARPS 141 in Melton+  arXiv:2302.06724
+401849421.0,401849421.01,1.041,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+64329653.0,64329653.01,,,2458492.622,DTARPS 086 in Melton+  arXiv:2302.06724
+53682439.0,53682439.01,,,2458492.088,"Zari+18 pre-MS dwarf, w/ cand close-in giant planet (else EB). ~4% amplitude spot signal. (CDIPS; Bouma+19)"
+275419866.0,275419866.01,,,2458581.804,"new CTOI, Montalto (2022)"
+458484583.0,458484583.01,,,2458706.944,"new CTOI, Montalto (2022)"
+357026773.0,357026773.01,,,2458361.055,DTARPS 389 in Melton+  arXiv:2302.06724
+1718077157.0,1718077157.01,,,2458682.935,"new CTOI, Montalto (2022)"
+359046756.0,359046756.01,,,2458922.522,single transit event from the TSTPC working group
+52120912.0,52120912.01,,,2458324.023,"new CTOI, Montalto (2022)"
+441622545.0,441622545.01,,,2458840.623,"new CTOI, Montalto (2022)"
+137605485.0,137605485.01,,,2458681.095,"new CTOI, Montalto (2022)"
+256429408.0,256429408.01,,,,No report on TEV; PHT candidate. Single transit event.
+284567761.0,284567761.01,,,,
+229513755.0,229513755.01,,,2458682.364,"new CTOI, Montalto (2022)"
+9099764.0,9099764.01,,,2458462.628,Found with our in-house single transit finder
+140978827.0,140978827.01,,,2458549.494,"Cand WJ, BH 34 (70Myr; KC19). Quite deep. (Maybe EB)."
+62003132.0,62003132.01,,,2458472.371,DTARPS 082 in Melton+  arXiv:2302.06724
+265763792.0,265763792.01,,,2458815.697,"new CTOI, Montalto (2022)"
+85142299.0,85142299.01,,,2458839.649,"new CTOI, Montalto (2022)"
+233422396.0,233422396.01,,,2458710.229,"new CTOI, Montalto (2022)"
+257630285.0,257630285.01,,,2458978.51,"new CTOI, Montalto (2022)"
+405504208.0,405504208.01,,,2458711.134,"new CTOI, Montalto (2022)"
+154766316.0,154766316.01,,,2458737.055,"new CTOI, Montalto (2022)"
+230013820.0,230013820.01,,,2458683.559,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+357345121.0,357345121.01,,,2458923.5,"new CTOI, Montalto (2022)"
+267034895.0,267034895.01,,,2458743.172,single transit event from the TSTPC working group
+252802348.0,252802348.01,8.32,,,All data obtained using the lightkurve framework
+11755687.0,11755687.01,,,2458468.686,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+29170565.0,29170565.01,,,2458867.473,"new CTOI, Montalto (2022)"
+352546989.0,352546989.01,,,2458708.555,"new CTOI, Montalto (2022)"
+400048856.0,400048856.01,,,2458786.122,single transit event from the TSTPC working group
+434813876.0,434813876.01,,,2458762.992,"new CTOI, Montalto (2022)"
+33283274.0,33283274.01,3.227,1.6143,,"new CTOI, Montalto et al. (2020)"
+446044800.0,446044800.01,,,,
+6515171.0,6515171.01,5.48,,,All Data obtained using the Light Kurve framework
+160298130.0,160298130.01,,,2458677.87,"new CTOI, Montalto (2022)"
+115779261.0,115779261.01,,,2458735.336,"new CTOI, Montalto (2022)"
+365007485.0,365007485.01,,,2459554.943,PHT candidate. Additional transits in K2. Possible period ~33.6 d.
+257300241.0,257300241.01,,,,
+271018382.0,271018382.01,,,2458764.449,"new CTOI, Montalto (2022)"
+425825270.0,425825270.01,,,2458323.586,"new CTOI, Montalto (2022)"
+455006978.0,455006978.01,2.751,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+347559998.0,347559998.01,,,2458790.221,"new CTOI, Montalto (2022)"
+177333402.0,177333402.01,,,2458492.577,DTARPS 201 in Melton+  arXiv:2302.06724
+192316486.0,192316486.01,,,2458789.784,"new CTOI, Montalto (2022)"
+21720215.0,21720215.01,,,2458981.483,"new CTOI, Montalto (2022)"
+283786459.0,283786459.01,,,2459560.776,Found with our in-house single transit finder; Sector 46
+298292983.0,298292983.01,,,,
+390252502.0,390252502.01,,,2458629.979,"EB or Warm Jup, NGC 5617 (170Myr, CG18)."
+219882262.0,219882262.01,1.033,,,Centroid offset on another star
+197149001.0,197149001.01,,,2458841.763,"new CTOI, Montalto (2022)"
+122620177.0,122620177.01,,,2458815.386,"new CTOI, Montalto (2022)"
+456334493.0,456334493.01,,,2458870.001,"new CTOI, Montalto (2022)"
+199661915.0,199661915.01,22.705,,,Likely EB; period matches second canindate in SPOC report on pdo; no report on TEV; new CTOI
+26137588.0,26137588.01,,,2458762.048,"new CTOI, Montalto (2022)"
+357338290.0,357338290.01,,,2459825.551,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+280215684.0,280215684.01,,,2458601.641,DTARPS 305 in Melton+  arXiv:2302.06724
+447923555.0,447923555.01,,,2458517.975,"new CTOI, Montalto (2022)"
+234117841.0,234117841.01,,,,
+140864472.0,140864472.01,,,2458815.194,"new CTOI, Montalto (2022)"
+243417115.0,243417115.01,0.0,,,No report
+21269575.0,21269575.01,,,2458838.556,"new CTOI, Montalto (2022)"
+247469203.0,247469203.01,,,2458468.777,DTARPS 261 in Melton+  arXiv:2302.06724
+306931668.0,306931668.01,,,,
+266681013.0,266681013.01,,,2458385.392,DTARPS 284 in Melton+  arXiv:2302.06724
+160041500.0,160041500.01,,,2458729.799,Found with our in-house single transit finder; transit finder output attached under 'Files'
+219087443.0,219087443.01,,,2458682.857,"new CTOI, Montalto (2022)"
+281190674.0,281190674.01,,,2458804.982,"new CTOI, Montalto (2022)"
+441056242.0,441056242.01,,,2458376.11,Found with our in-house single transit finder
+154573032.0,154573032.01,1.542,,,Significant odd-even and centroid offset (SPOC)
+270618239.0,270618239.01,,,2458683.549,"new CTOI likely member of NGC 6811, PATHOS-59 in Nardiello et al. (2021)"
+388134787.0,388134787.01,0.0,79.697,,Weak signal in SPOC S14-26
+237048097.0,237048097.01,,,2458668.12,"new CTOI, Montalto (2022)"
+78669098.0,78669098.01,,,2458492.079,DTARPS 098 in Melton+  arXiv:2302.06724
+345324572.0,345324572.01,2.566,,,Centroid offset centered on another star and odd-even
+260703820.0,260703820.01,,,,
+24725031.0,24725031.01,0.533,,,Stellar variability
+15141830.0,15141830.01,,,2458682.232,"new CTOI, Montalto (2022)"
+63307184.0,63307184.01,,,2458898.607,"new CTOI, Montalto (2022)"
+388504644.0,388504644.01,,,2458961.1,inflated planet candidate around red giant star. RV followup started
+24106900.0,24106900.01,,,2458944.247,"new CTOI, Montalto (2022)"
+89258104.0,89258104.01,,,2458342.773,Found with our in-house single transit finder
+252406463.0,252406463.01,,,2458811.79,"new CTOI, Montalto (2022)"
+367655509.0,367655509.01,,,2458815.774,"new CTOI, Montalto (2022)"
+156514476.0,156514476.01,,,2459645.913,Nguyen et al. (2022)
+238920872.0,238920872.01,6.535,6.5347,,"new CTOI, Montalto et al. (2020)"
+401685092.0,401685092.01,,,2459998.191,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+452708089.0,452708089.01,,,2458707.051,"new CTOI, Montalto (2022)"
+308605531.0,308605531.01,,,2458790.492,"new CTOI, Montalto (2022)"
+234504626.0,234504626.01,,,2458335.564,"Feinstein, A.~D., Montet, B.~T., Foreman-Mackey, D., et al.\ 2019, arXiv e-prints , arXiv:1903.09152."
+373236116.0,373236116.01,,,2458789.6,"new CTOI, Montalto (2022)"
+97156957.0,97156957.01,,,2458468.474,DTARPS 109 in Melton+  arXiv:2302.06724
+157778337.0,157778337.01,,,2458663.518,"new CTOI, Montalto (2022)"
+356435413.0,356435413.01,,,2458956.771,"new CTOI, Montalto (2022)"
+17538651.0,17538651.01,,,2458953.532,"new CTOI, Montalto (2022)"
+390930138.0,390930138.01,6.953,,,"No TEV report; uninflated warm Jupiter candidate around evolved star. crowded field, short duration"
+267217069.0,267217069.01,,,,
+188821468.0,188821468.01,,,2458955.733,"new CTOI, Montalto (2022)"
+369476686.0,369476686.01,,,,
+289163854.0,289163854.01,,,2458681.777,"new CTOI, Montalto (2022)"
+246860991.0,246860991.01,,,2458365.353,DTARPS 260 in Melton+  arXiv:2302.06724
+53840258.0,53840258.01,,,2458325.595,manual ELEANOR search Tom Kaye
+219027960.0,219027960.01,,,2458927.908,"new CTOI, Montalto (2022)"
+95112238.0,95112238.01,,,2458467.176,"new CTOI, Montalto et al. (2020)"
+434724235.0,434724235.01,,,2458764.655,"new CTOI, Montalto (2022)"
+313143164.0,313143164.01,,,2458815.274,"new CTOI, Montalto (2022)"
+351189201.0,351189201.01,,,2458682.983,"new CTOI, Montalto (2022)"
+353875094.0,353875094.01,,,2458678.815,"new CTOI, Montalto (2022)"
+229740848.0,229740848.01,,,2458684.09,Cycle 2 CVZ planet candidates added to short cadence from GI Program G022227; prelim vetting with DAVE
+441469541.0,441469541.01,,,2458354.272,manual ELEANOR search Tom Kaye
+77370025.0,77370025.01,12.338,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+81353413.0,81353413.01,,,2458492.869,"new CTOI likely member of Velorum association, PATHOS-35 in Nardiello (2020)"
+9632592.0,9632592.01,,,2458355.371,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+101923957.0,101923957.01,,,2458983.565,"new CTOI, Montalto (2022)"
+146259128.0,146259128.01,,,,
+161924841.0,161924841.01,,,2458759.078,single transit event from the TSTPC working group
+347722518.0,347722518.01,,,2458807.372,"new CTOI, Montalto (2022)"
+388431742.0,388431742.01,,,,
+457882891.0,457882891.01,,,2458928.902,"new CTOI, Montalto (2022)"
+428976250.0,428976250.01,,,,
+235055769.0,235055769.01,,,2458544.058,DTARPS 253 in Melton+  arXiv:2302.06724
+52913891.0,52913891.01,,,2458469.121,DTARPS 068 in Melton+  arXiv:2302.06724
+139409215.0,139409215.01,,,2458804.958,single transit event from the TSTPC working group
+452741963.0,452741963.01,,,2458711.256,"new CTOI, Montalto (2022)"
+120963388.0,120963388.01,,,2458681.42,"new CTOI, Montalto (2022)"
+230982415.0,230982415.01,,,2458361.161,DTARPS 244 in Melton+  arXiv:2302.06724
+181602717.0,181602717.01,,,2458517.489,"new CTOI likely member of NGC 2671     , PATHOS-17 in Nardiello et al. (2020)"
+323346605.0,323346605.01,,,2458325.474,DTARPS 363 in Melton+  arXiv:2302.06724
+249022743.0,249022743.01,2.256,2.26139,,"new CTOI, Montalto et al. (2020)"
+439945564.0,439945564.01,,,2458763.621,"new CTOI, Montalto (2022)"
+154671430.0,154671430.01,,,2458491.988,Cand super-Neptune in NGC2527 (CG18). CMD shows a bit faint. RA/dec show on outskirts. (CDIPS; Bouma+19).
+268125683.0,268125683.01,,,2459474.721,newCTOI
+307943975.0,307943975.01,,,2458356.495,DTARPS 349 in Melton+  arXiv:2302.06724
+220417892.0,220417892.01,,,2458320.942,"new CTOI, Montalto et al. (2020)"
+297901049.0,297901049.01,,,2458982.505,"new CTOI, Montalto (2022)"
+432925586.0,432925586.01,2.024,,,CDIPS report; looks ok; PMS M dwarf; no full QLP report
+288953213.0,288953213.01,,,2458813.875,"new CTOI, Montalto (2022)"
+178354956.0,178354956.01,,,2458570.32,"new CTOI, Montalto (2022)"
+165110772.0,165110772.01,,,2458325.903,sector1
+379628805.0,379628805.01,2.09,,,"column 872, row 70, sector 18, mission TESS"
+409891396.0,409891396.01,,,,single full transit (nominal period: 57 days)
+267674750.0,267674750.01,,,2458711.038,"new CTOI, Montalto (2022)"
+26971461.0,26971461.01,,,2458869.406,"new CTOI, Montalto (2022)"
+262592239.0,262592239.01,,,2459451.28,ctoi from sec 42 Tess-Spoc lc. Vetting attached
+462004618.0,462004618.01,2.367,,,"new CTOI likely member of NGC 3114     , PATHOS-32 in Nardiello et al. (2020)"
+142935906.0,142935906.01,,,2458682.758,"new CTOI, Montalto (2022)"
+390874411.0,390874411.01,,,2458684.6,WINE single transit
+144426921.0,144426921.01,,,2458572.395,DTARPS 163 in Melton+  arXiv:2302.06724
+201510089.0,201510089.01,,,2458466.806,"new CTOI, Montalto (2022)"
+427459423.0,427459423.01,,,2459192.126,Found with our in-house single transit finder; Sector 32
+147252079.0,147252079.01,,,2458467.285,"new CTOI, Montalto (2022)"
+147714150.0,147714150.01,,,2458683.152,"new CTOI, Montalto (2022)"
+230198880.0,230198880.01,,,2458738.688,"new CTOI, Montalto (2022)"
+430985807.0,430985807.01,,,2458711.067,"new CTOI, Montalto (2022)"
+139456051.0,139456051.01,,,2458325.362,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+224279805.0,224279805.01,,,2459105.228,Found with our in-house single transit finder; transit finder output attached under 'Files'
+97861072.0,97861072.01,,,2458439.141,DTARPS 113 in Melton+  arXiv:2302.06724
+297021046.0,297021046.01,,,2458538.484,"new CTOI, Montalto (2022)"
+332657786.0,332657786.01,,,2458536.76,PHT candidate. Single transit event.
+229043374.0,229043374.01,,,2458325.415,"new CTOI, Montalto et al. (2020)"
+197596346.0,197596346.01,,,,
+68646526.0,68646526.02,,,,Second PC found in K2 data; K2 epoch of 2994.790777
+77560191.0,77560191.01,,,2459259.44,Found with our in-house single transit finder
+80435273.0,80435273.01,,,2458768.008,single transit event from the TSTPC working group
+355070187.0,355070187.01,,,2458815.67,"new CTOI, Montalto (2022)"
+438052638.0,438052638.01,,,2458468.621,DTARPS 443 in Melton+  arXiv:2302.06724
+161687285.0,161687285.01,,,2458705.879,"new CTOI, Montalto (2022)"
+177617715.0,177617715.01,,,2458493.833,DTARPS 203 in Melton+  arXiv:2302.06724
+52745699.0,52745699.01,,,2458470.621,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+224597929.0,224597929.01,,,2458678.959,"new CTOI, Montalto (2022)"
+281599144.0,281599144.01,36.054,36.05373,,"new CTOI, Montalto et al. (2020)"
+100104872.0,100104872.01,,,2458383.155,"new CTOI, Montalto (2022)"
+238335094.0,238335094.02,,,2459964.104,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+417571629.0,417571629.01,,,2458945.405,"new CTOI, Montalto (2022)"
+242095191.0,242095191.01,,,2458494.119,DTARPS 258 in Melton+  arXiv:2302.06724
+441424343.0,441424343.01,,,2458342.7,"Camera 1, CCD 4, Column 1803, Row 1605, Sector 1"
+270022396.0,270022396.01,,,,
+233194447.0,233194447.01,0.0,,,No report
+402214152.0,402214152.01,,,2458438.534,DTARPS 418 in Melton+  arXiv:2302.06724
+145601161.0,145601161.01,,,2458566.086,new CTOI single transit
+149928933.0,149928933.01,,,2458680.233,"new CTOI, Montalto (2022)"
+418311783.0,418311783.01,,,2458815.732,"new CTOI, Montalto (2022)"
+56935627.0,56935627.01,,,2458870.242,"new CTOI, Montalto (2022)"
+239197344.0,239197344.01,,,2458869.036,"new CTOI, Montalto (2022)"
+140284423.0,140284423.01,,,2458429.225,"new CTOI, Montalto et al. (2020)"
+391947345.0,391947345.01,,,2458337.27,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+28754926.0,28754926.01,,,2458820.239,"Qual:A,CM,3.3e+08yr,MissingRot?. Rp=(0.97-1.14)Rj. b=0.00-0.19 (3-97HDI)."
+4638099.0,4638099.01,,,2458491.766,DTARPS 007 in Melton+  arXiv:2302.06724
+148967511.0,148967511.01,,,2458675.164,"new CTOI, Montalto (2022)"
+255569654.0,255569654.01,,,2458442.537,DTARPS 268 in Melton+  arXiv:2302.06724
+201311598.0,201311598.01,,,2458316.834,"new CTOI, Montalto (2022)"
+353997059.0,353997059.01,,,2458815.53,"new CTOI, Montalto (2022)"
+2040889915.0,2040889915.01,,,2458763.849,"new CTOI, Montalto (2022)"
+24539196.0,24539196.01,,,2458524.715,DTARPS 031 in Melton+  arXiv:2302.06724
+60369879.0,60369879.01,,,,
+406478079.0,406478079.01,,,2458412.295,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+288074517.0,288074517.01,,,2458468.561,DTARPS 317 in Melton+  arXiv:2302.06724
+104195270.0,104195270.01,3.686,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+332533059.0,332533059.01,,,2458357.744,DTARPS 370 in Melton+  arXiv:2302.06724
+377912676.0,377912676.01,,,2458688.713,Kepler candidate planet KOI-6698.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep)
+294216479.0,294216479.01,,,,Found with our in-house single transit finder
+97479438.0,97479438.01,,,2458413.683,DTARPS 112 in Melton+  arXiv:2302.06724
+428866475.0,428866475.01,,,2458814.181,"new CTOI, Montalto (2022)"
+148969860.0,148969860.01,,,2458674.932,"new CTOI, Montalto (2022)"
+332350266.0,332350266.01,,,2459665.541,Nguyen et al. (2022)
+441017467.0,441017467.01,,,2458343.802,Found with our in-house single transit finder
+160363.0,160363.01,,,2458604.904,Found with our in-house single transit finder
+1166553.0,1166553.01,,,2458412.406,"new CTOI, Montalto (2022)"
+39174790.0,39174790.01,,,2458894.617,"new CTOI, Montalto (2022)"
+270471727.0,270471727.01,,,2458365.287,DTARPS 295 in Melton+  arXiv:2302.06724
+19680613.0,19680613.01,,,2458514.612,"new CTOI, Montalto (2022)"
+257735212.0,257735212.01,,,2458983.244,"new CTOI, Montalto (2022)"
+233271933.0,233271933.01,,,2458683.274,"new CTOI, Montalto (2022)"
+284185699.0,284185699.01,,,2458682.68,"new CTOI, Montalto (2022)"
+386484325.0,386484325.01,,,2459207.113,Found with our in-house single transit finder
+206666063.0,206666063.01,,,,No report on TEV; Found with our in-house single transit finder; transit finder output attached under 'Files'
+152070435.0,152070435.01,,,,
+193759514.0,193759514.01,,,2458726.577,single transit event from the TSTPC working group
+16725913.0,16725913.01,,,2458679.028,"new CTOI, Montalto (2022)"
+467602105.0,467602105.01,,,2458788.771,"new CTOI, Montalto (2022)"
+255861715.0,255861715.01,,,2458952.643,"new CTOI, Montalto (2022)"
+367461419.0,367461419.01,,,2458792.91,"All data obtained using the lightkurve framework, possible two planets in the system, or algol type variable"
+288512113.0,288512113.01,,,2458737.474,"new CTOI, Montalto (2022)"
+384469512.0,384469512.01,,,2458327.886,DTARPS 402 in Melton+  arXiv:2302.06724
+359480209.0,359480209.01,,,2458981.057,"new CTOI, Montalto (2022)"
+220504798.0,220504798.01,,,2458325.325,"new CTOI, Montalto et al. (2020)"
+252908198.0,252908198.01,,,2458862.742,Found with our in-house single transit finder; Sector 20
+362130877.0,362130877.01,,,2458983.422,"new CTOI, Montalto (2022)"
+126600730.0,126600730.01,6.299,,,"No report on TEV; new CTOI likely member of Haffner 14   , PATHOS-10 in Nardiello et al. (2020)"
+302038293.0,302038293.01,,,2458657.912,DTARPS 337 in Melton+  arXiv:2302.06724
+133260600.0,133260600.01,1.424,,,CDIPS report; too large; v-shaped; maybe synchronized
+97975207.0,97975207.01,4.19,,,All data are obtained using the Ligh Kurve framework
+68687000.0,68687000.01,,,2458844.508,From Sector 20 SPOC FFIs; need to check if the signal is on-target
+317063048.0,317063048.01,,,2458790.267,"new CTOI, Montalto (2022)"
+139470998.0,139470998.01,,,2458394.987,Planet Hunters TESS candidate.
+355895977.0,355895977.01,,,,potential hot sub-Neptune around dwarf star
+389323171.0,389323171.01,,,2459036.12,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+224634408.0,224634408.01,,,2458681.929,"new CTOI, Montalto (2022)"
+459220237.0,459220237.01,,,2458680.355,"new CTOI, Montalto (2022)"
+269343479.0,269343479.01,4.128,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+281143479.0,281143479.01,,,2458469.438,DTARPS 307 in Melton+  arXiv:2302.06724
+359632791.0,359632791.01,,,2458679.145,"new CTOI, Montalto (2022)"
+375145648.0,375145648.01,,,2458437.716,"new CTOI, Montalto (2022)"
+196352977.0,196352977.01,,,2459886.377,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+66230012.0,66230012.01,,,2458491.192,"new CTOI, Montalto (2022)"
+281851658.0,281851658.01,,,2458359.875,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+265888783.0,265888783.01,,,2458709.497,"new CTOI, Montalto (2022)"
+592503.0,592503.01,,,2458439.747,"new CTOI, Montalto (2022)"
+272270998.0,272270998.01,,,2458684.103,Kepler candidate planet KOI-7865.01: Recovered in FFI data with TraSH-DUMP (new transit-search pipeline in prep)
+310306283.0,310306283.01,,,2458518.988,DTARPS 352 in Melton+  arXiv:2302.06724
+236975668.0,236975668.01,,,2458711.316,"new CTOI, Montalto (2022)"
+284570702.0,284570702.01,,,,
+242241304.0,242241304.01,,,2459345.374,PHT candidate. Additional transit in FFI sector 11 (BTJD ~ 1623.08).
+348063710.0,348063710.01,,,2459760.749,PHT candidate. Additional transit in Sector 26 FFIs
+367084154.0,367084154.01,,,2458839.642,"new CTOI, Montalto (2022)"
+139353927.0,139353927.01,,,2458789.84,"new CTOI, Montalto (2022)"
+59490344.0,59490344.01,,,,
+95661771.0,95661771.01,,,,
+202953253.0,202953253.01,,,2458789.664,"new CTOI, Montalto (2022)"
+257209699.0,257209699.01,,,2458983.613,"new CTOI, Montalto (2022)"
+356451765.0,356451765.01,3.36,,,All info obtained using the LightKurve framework
+116887189.0,116887189.01,,,2458796.403,RV binary from Brown+ 2020 (arXiv:2002.00014). Previously considered WD candidate; TESS shows it to be eclipsing
+354400422.0,354400422.01,,,2458790.138,"new CTOI, Montalto (2022)"
+257022655.0,257022655.01,,,2458706.084,"new CTOI, Montalto (2022)"
+452920657.0,452920657.01,,,2458810.57,PHT candidate. Single transit event.
+470109742.0,470109742.01,,,2458766.905,"new CTOI, Montalto (2022)"
+371766879.0,371766879.01,,,2458681.523,"new CTOI, Montalto (2022)"
+34085383.0,34085383.01,,,2459147.358,ctoi with FPP˜0.10
+233126177.0,233126177.01,,,,
+1599403.0,1599403.01,,,2458473.641,DTARPS 005 in Melton+  arXiv:2302.06724
+139423295.0,139423295.01,,,2458435.993,"new CTOI, Montalto et al. (2020)"
+356317860.0,356317860.01,,,2458983.626,"new CTOI, Montalto (2022)"
+155654793.0,155654793.01,,,2458666.796,"new CTOI, Montalto (2022)"
+458645327.0,458645327.01,,,,Found with our in-house single transit finder
+68623218.0,68623218.01,,,2458680.702,"new CTOI, Montalto (2022)"
+339451334.0,339451334.01,1.938,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+841384851.0,841384851.01,,,2458858.817,single transit event from the TSTPC working group
+339275974.0,339275974.01,,,2458375.139,DTARPS 374 in Melton+  arXiv:2302.06724
+229364030.0,229364030.01,,,2458469.685,DTARPS 240 in Melton+  arXiv:2302.06724
+410477562.0,410477562.01,,,2458785.735,"new CTOI, Montalto (2022)"
+264986967.0,264986967.01,,,2458331.475,DTARPS 281 in Melton+  arXiv:2302.06724
+63720888.0,63720888.01,,,2458468.621,DTARPS 083 in Melton+  arXiv:2302.06724
+186510259.0,186510259.01,,,2458764.707,"new CTOI, Montalto (2022)"
+307571751.0,307571751.01,1.303,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+398336504.0,398336504.01,,,2458815.694,"new CTOI, Montalto (2022)"
+137769705.0,137769705.01,,,2458678.013,"new CTOI, Montalto (2022)"
+459892063.0,459892063.01,,,2458815.705,"new CTOI, Montalto (2022)"
+373612130.0,373612130.01,,,2458838.506,"new CTOI, Montalto (2022)"
+28638238.0,28638238.01,,,2458678.462,"new CTOI, Montalto (2022)"
+705060898.0,705060898.01,,,2458799.761,"new CTOI, Montalto (2022)"
+234299676.0,234299676.01,,,2458329.841,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+417120779.0,417120779.01,,,2458737.274,"new CTOI, Montalto (2022)"
+346484654.0,346484654.01,,,2458470.027,DTARPS 383 in Melton+  arXiv:2302.06724
+423785115.0,423785115.01,74.2,13.584,,PHT candidate. Second transit in FFI data. True period could be multiple of given period.
+160268798.0,160268798.01,,,2458678.082,"new CTOI, Montalto (2022)"
+91987487.0,91987487.01,,,2458879.358,Found with our in-house single transit finder; transit finder output attached under 'Files'; W Shaped
+901674675.0,901674675.01,,,2458539.419,"new CTOI, Montalto et al. (2020)"
+169765000.0,169765000.01,,,2458352.943,"new CTOI, Montalto (2022)"
+16651258.0,16651258.01,,,2458836.866,"new CTOI, Montalto (2022)"
+86119201.0,86119201.01,,,,
+310862872.0,310862872.01,,,2458819.52,"camera 1, ccd 1, column 952, row 201, sector 19"
+219246401.0,219246401.01,,,2458470.39,DTARPS 222 in Melton+  arXiv:2302.06724
+23003727.0,23003727.01,,,2459009.863,"new CTOI, Montalto (2022)"
+21439718.0,21439718.01,,,2458869.785,"new CTOI, Montalto (2022)"
+138332311.0,138332311.01,,,2458810.956,"new CTOI, Montalto (2022)"
+5966772.0,5966772.01,,,,PHT candidate. Possible additional transit event in the FFIs at ~ 1587.95 TBJD.
+159348113.0,159348113.01,,,2458678.883,"new CTOI, Montalto (2022)"
+201160783.0,201160783.01,,,2458788.045,"new CTOI, Montalto (2022)"
+251090642.0,251090642.01,,,,
+274017513.0,274017513.01,,,2458375.183,DTARPS 301 in Melton+  arXiv:2302.06724
+140067408.0,140067408.01,,,2458493.224,DTARPS 152 in Melton+  arXiv:2302.06724
+9881031.0,9881031.01,,,2458842.351,"new CTOI, Montalto (2022)"
+219898294.0,219898294.01,,,2459406.91,Found with our in-house single transit finder; Sector 40
+14857559.0,14857559.01,,,2458841.488,"new CTOI, Montalto (2022)"
+358658763.0,358658763.01,,,2459536.931,Found with our in-house single transit finder; Sector 45
+456220610.0,456220610.01,6.71,,,Unclear period as per light curve
+149391403.0,149391403.01,,,2458330.5,Possible hot jupiter
+134631912.0,134631912.01,,,2458569.59,All info obtained using the Light Kurve framework
+259391480.0,259391480.01,2.206,2.206,,"new CTOI, Montalto et al. (2020)"
+138330843.0,138330843.01,,,2458815.469,"new CTOI, Montalto (2022)"
+53253755.0,53253755.01,,,2458814.992,"new CTOI, Montalto (2022)"
+64070344.0,64070344.01,,,2458412.422,"new CTOI, Montalto et al. (2020)"
+4672985.0,4672985.01,,,2458429.857,WINE single transit
+50528326.0,50528326.01,,,2458470.44,DTARPS 063 in Melton+  arXiv:2302.06724
+853388144.0,853388144.01,,,2458572.107,Cand HJ; NGC 3114 (300Myr; CG18). Check for NEB.
+89330719.0,89330719.01,,,2459070.333,Found with our in-house single transit finder; transit finder output attached under 'Files'
+120099463.0,120099463.01,,,2458681.994,"new CTOI, Montalto (2022)"
+118339710.0,118339710.01,,,2458525.648,WINE single transit
+415705122.0,415705122.01,,,2458815.892,"new CTOI, Montalto (2022)"
+165161779.0,165161779.01,,,2458841.729,"new CTOI, Montalto (2022)"
+139118147.0,139118147.01,,,2458899.004,"new CTOI, Montalto (2022)"
+1718087846.0,1718087846.01,,,2458681.749,"new CTOI, Montalto (2022)"
+379294386.0,379294386.01,,,2458655.567,DTARPS 396 in Melton+  arXiv:2302.06724
+28019424.0,28019424.01,,,2458814.804,"new CTOI, Montalto (2022)"
+12470221.0,12470221.01,,,2458354.878,"new CTOI, Montalto (2022)"
+271269442.0,271269442.01,,,2458493.461,DTARPS 296 in Melton+  arXiv:2302.06724
+140381887.0,140381887.01,,,,
+321676854.0,321676854.01,,,2458815.754,"new CTOI, Montalto (2022)"
+437936844.0,437936844.01,,,2458467.897,"new CTOI, Montalto (2022)"
+268816952.0,268816952.01,,,2458490.492,"new CTOI, Montalto (2022)"
+422484720.0,422484720.01,,,2459465.009,Found with our in-house single transit finder; Sector 42
+357441943.0,357441943.01,,,2458952.464,"new CTOI, Montalto (2022)"
+256740442.0,256740442.01,,,2458807.828,"new CTOI, Montalto (2022)"
+459008759.0,459008759.01,,,2458815.91,"new CTOI, Montalto (2022)"
+381317676.0,381317676.01,,,2458763.779,"new CTOI, Montalto (2022)"
+424090723.0,424090723.01,,,2458815.492,"new CTOI, Montalto (2022)"
+368251043.0,368251043.01,,,2458816.32,"Camera 1, CCD 2, Column 420, Row 569, Sector 19"
+264173786.0,264173786.01,,,2459011.73,Preliminary vetting with DAVE
+384194460.0,384194460.01,,,2458626.17,All data obtained using the LightKurve framework
+353077789.0,353077789.01,,,2458812.498,Short scale periodic object. 10 possible transits observed
+237228513.0,237228513.01,,,2458682.267,"new CTOI, Montalto (2022)"
+337217173.0,337217173.01,,,,Single Transit in Sector-31. Transit-like feature in Sector-4 due to asteroid crossing
+1551345499.0,1551345499.01,,,2458701.38,'A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection' Taaki et al. in prep 2022
+75651978.0,75651978.01,,,2458982.408,"new CTOI, Montalto (2022)"
+144164538.0,144164538.01,,,2458382.227,"new CTOI, Montalto et al. (2020)"
+1030389830.0,1030389830.01,,,2458597.585,"Probable EB. Cand HJ in Johansson 1 (maybe nonexistent, but stars more coeval than nbhd)."
+99569532.0,99569532.01,,,2458842.071,"new CTOI, Montalto (2022)"
+333136751.0,333136751.01,,,2458778.821,Found with our in-house single transit finder; transit finder output attached under 'Files'
+328162246.0,328162246.01,,,2459165.252,Found with our in-house single transit finder; Sector 31
+403139386.0,403139386.01,,,2459912.349,Single transit event from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+66439165.0,66439165.01,,,2458354.276,manual ELEANOR search Tom Kaye
+61126715.0,61126715.01,,,,
+29821723.0,29821723.01,,,2458323.458,"new CTOI, Montalto (2022)"
+135268489.0,135268489.01,3.702,,,1700 ppm secondary; synchronized (SPOC)
+142088310.0,142088310.01,,,2458814.659,"new CTOI, Montalto (2022)"
+441710478.0,441710478.01,,,,
+52369802.0,52369802.01,,,2458470.139,DTARPS 065 in Melton+  arXiv:2302.06724
+470981906.0,470981906.01,,,2459588.907,Found with our in-house single transit finder; Sector 47
+117378334.0,117378334.01,,,2458866.384,"new CTOI, Montalto (2022)"
+22738835.0,22738835.01,,,2458788.258,"new CTOI, Montalto (2022)"
+146909991.0,146909991.01,,,2458466.729,"new CTOI, Montalto (2022)"
+165598669.0,165598669.01,,,2458737.575,"new CTOI, Montalto (2022)"
+165499311.0,165499311.01,,,2458681.662,"new CTOI, Montalto (2022)"
+265453074.0,265453074.01,,,2458481.618,Found with our in-house single transit finder
+364964726.0,364964726.01,2.06,,,Secondary; depth-aperture correlation
+427344083.0,427344083.01,,,,No report on TEV; PHT candidate. Single transit event. Likely grazing.
+173608140.0,173608140.01,,,2458736.159,"new CTOI, Montalto (2022)"
+231734642.0,231734642.01,,,2458400.097,"new CTOI, Montalto (2022)"
+88024647.0,88024647.01,,,2458869.6,"new CTOI, Montalto (2022)"
+136324903.0,136324903.01,,,2458715.0,Transit detected for spectral type M3.5V star
+368443416.0,368443416.01,,,2458755.963,"new CTOI, Montalto (2022)"
+119357781.0,119357781.01,,,2458466.233,"new CTOI, Montalto (2022)"
+269861070.0,269861070.01,1.968,,,16 sigma odd-even
+35961166.0,35961166.01,,,2458468.975,DTARPS 044 in Melton+  arXiv:2302.06724
+298733630.0,298733630.01,,,2458682.4,"new CTOI, Montalto (2022)"
+352298532.0,352298532.01,,,2458763.377,"new CTOI, Montalto (2022)"
+52639016.0,52639016.01,,,2458467.352,"new CTOI, Montalto (2022)"
+42980456.0,42980456.01,,,2459771.201,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+26726940.0,26726940.01,,,2458763.228,"new CTOI, Montalto (2022)"
+98672702.0,98672702.01,,,2458371.508,"new CTOI, Montalto et al. (2020)"
+282883628.0,282883628.01,8.42,,,All data obtained using the lightkurve framework
+13087524.0,13087524.01,,,2458785.091,"new CTOI, Montalto (2022)"
+147951484.0,147951484.01,,,2458870.007,"new CTOI, Montalto (2022)"
+814205011.0,814205011.01,,,,No TEV report; Found with our in-house single transit finder
+612192146.0,612192146.01,,,2458325.661,DTARPS 460 in Melton+  arXiv:2302.06724
+456311356.0,456311356.01,,,2458870.214,"new CTOI, Montalto (2022)"
+161569903.0,161569903.01,,,2458406.608,"new CTOI, Montalto (2022)"
+313274771.0,313274771.01,,,2458682.097,"new CTOI, Montalto (2022)"
+77255326.0,77255326.01,,,2458411.631,"new CTOI, Montalto (2022)"
+305725494.0,305725494.01,,,2458707.659,"new CTOI, Montalto (2022)"
+155637159.0,155637159.01,,,2458683.249,"new CTOI, Montalto (2022)"
+284592989.0,284592989.01,,,2458897.643,"new CTOI, Montalto (2022)"
+234671065.0,234671065.01,,,2458466.223,"new CTOI, Montalto (2022)"
+451507506.0,451507506.01,,,2458612.5,"new CTOI, Montalto (2022)"
+22903120.0,22903120.01,,,2458924.228,"new CTOI, Montalto (2022)"
+157757871.0,157757871.01,,,2458680.304,"new CTOI, Montalto (2022)"
+202413558.0,202413558.01,,,2458763.499,"new CTOI, Montalto (2022)"
+206468250.0,206468250.01,,,2458411.436,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+234284556.0,234284556.01,1.106,1.106831,,Planet Candidate
+258799245.0,258799245.01,,,,
+410355638.0,410355638.01,,,2458327.656,DTARPS 429 in Melton+  arXiv:2302.06724
+20823655.0,20823655.01,,,2458680.007,"new CTOI, Montalto (2022)"
+321075958.0,321075958.01,,,2458841.901,"new CTOI, Montalto (2022)"
+16249522.0,16249522.01,,,2458948.61,"new CTOI, Montalto (2022)"
+371596256.0,371596256.01,,,,
+253054954.0,253054954.01,,,2459616.904,Nguyen et al. (2022)
+16312021.0,16312021.01,,,2458680.779,"new CTOI, Montalto (2022)"
+160321990.0,160321990.01,,,2458708.946,"new CTOI, Montalto (2022)"
+402149920.0,402149920.01,,,2458979.532,"new CTOI, Montalto (2022)"
+417110491.0,417110491.01,,,2458839.313,"new CTOI, Montalto (2022)"
+55369125.0,55369125.01,,,2458523.996,DTARPS 073 in Melton+  arXiv:2302.06724
+78012416.0,78012416.01,14.649,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+369031347.0,369031347.01,2.475,,,No report on TEV; short-period planet candidate around RGB star
+80315892.0,80315892.01,,,2458356.351,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+229655420.0,229655420.01,,,2458898.958,"new CTOI, Montalto (2022)"
+282505014.0,282505014.01,,,2458468.988,DTARPS 310 in Melton+  arXiv:2302.06724
+458447637.0,458447637.01,,,2458898.089,"new CTOI, Montalto (2022)"
+463903016.0,463903016.01,1.442,,,CDIPS report; weak signal
+77173027.0,77173027.01,,,2459644.945,Nguyen et al. (2022)
+456301013.0,456301013.01,,,2458842.43,"new CTOI, Montalto (2022)"
+470523998.0,470523998.01,,,2458814.967,"new CTOI, Montalto (2022)"
+335916681.0,335916681.01,,,2458674.748,"new CTOI, Montalto (2022)"
+150384999.0,150384999.01,,,2458850.775,"new CTOI, Montalto (2022)"
+129203523.0,129203523.01,,,2458737.296,"new CTOI, Montalto (2022)"
+345850353.0,345850353.01,,,2459775.652,PHT candidate.
+229872148.0,229872148.01,,,2458952.724,"new CTOI, Montalto (2022)"
+299176845.0,299176845.01,,,2458380.505,"new CTOI, Montalto (2022)"
+129762963.0,129762963.01,,,,
+431964149.0,431964149.01,,,2458789.479,"new CTOI, Montalto (2022)"
+5079059.0,5079059.01,,,2458898.968,"new CTOI, Montalto (2022)"
+262725099.0,262725099.01,,,,
+413162396.0,413162396.01,,,2458519.196,DTARPS 430 in Melton+  arXiv:2302.06724
+151628217.0,151628217.01,,,2458437.088,"new CTOI, Montalto et al. (2020)"
+470867827.0,470867827.01,,,2458757.637,"new CTOI, Montalto (2022)"
+470968693.0,470968693.01,,,2458830.115,"new CTOI, Montalto (2022)"
+349521688.0,349521688.01,,,2458327.141,DTARPS 384 in Melton+  arXiv:2302.06724
+60419777.0,60419777.01,,,2458489.928,"new CTOI, Montalto (2022)"
+357186082.0,357186082.01,,,2458815.833,"new CTOI, Montalto (2022)"
+280803912.0,280803912.01,,,2458321.621,"new CTOI, Montalto (2022)"
+20346619.0,20346619.01,,,2458682.899,"new CTOI, Montalto (2022)"
+384747920.0,384747920.01,,,2458623.932,"new CTOI, Montalto (2022)"
+298071018.0,298071018.01,,,2458678.625,"new CTOI, Montalto (2022)"
+377152697.0,377152697.01,,,2458764.422,"new CTOI, Montalto (2022)"
+7688647.0,7688647.01,,,2458439.189,"new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+147115277.0,147115277.01,,,2458492.411,DTARPS 169 in Melton+  arXiv:2302.06724
+277735964.0,277735964.01,,,2458518.247,"new CTOI, Montalto (2022)"
+372909372.0,372909372.01,,,2458320.186,"new CTOI, Montalto et al. (2020)"
+113247981.0,113247981.01,,,2458469.87,DTARPS 125 in Melton+  arXiv:2302.06724
+129904995.0,129904995.01,,,2458786.545,"new CTOI, Montalto (2022)"
+142984508.0,142984508.01,,,2458471.954,DTARPS 158 in Melton+  arXiv:2302.06724
+68936204.0,68936204.01,,,2458951.741,"new CTOI, Montalto (2022)"
+99823641.0,99823641.01,,,2458681.109,"new CTOI, Montalto (2022)"
+298830630.0,298830630.01,,,2458682.972,"new CTOI, Montalto (2022)"
+17129975.0,17129975.01,,,2458680.219,"new CTOI, Montalto (2022)"
+241175657.0,241175657.01,,,2458840.864,"new CTOI, Montalto (2022)"
+435868674.0,435868674.01,,,2458624.406,"new CTOI, Montalto (2022)"
+445260697.0,445260697.01,,,2458483.335,single transit event from the TSTPC working group
+290596726.0,290596726.01,,,,No report on TEV; Found with our in-house single transit finder; transit finder output attached under 'Files'
+372711996.0,372711996.01,,,2458683.095,"new CTOI, Montalto (2022)"
+357885804.0,357885804.01,,,2458787.236,"new CTOI, Montalto (2022)"
+258548745.0,258548745.01,3.063,,,Odd-even; too large
+153095829.0,153095829.01,,,2458469.345,DTARPS 178 in Melton+  arXiv:2302.06724
+321675776.0,321675776.01,,,2458815.36,"new CTOI, Montalto (2022)"
+201575721.0,201575721.01,,,2458756.671,"new CTOI, Montalto (2022)"
+377556960.0,377556960.01,,,2459010.162,"new CTOI, Montalto (2022)"
+311420789.0,311420789.01,,,2458622.902,"new CTOI, Montalto (2022)"
+11762560.0,11762560.01,,,2458470.986,DTARPS 012 in Melton+  arXiv:2302.06724
+4689632.0,4689632.01,,,,Found with our in-house single transit finder
+186838040.0,186838040.01,,,2458516.092,"new CTOI, Montalto (2022)"
+383645274.0,383645274.01,,,2458982.942,"new CTOI, Montalto (2022)"
+333792947.0,333792947.01,,,,
+252939798.0,252939798.01,,,,
+748919024.0,748919024.01,2.54,,,"new CTOI likely member of Ruprecht 151 , PATHOS-33 in Nardiello et al. (2020)"
+13073396.0,13073396.01,,,2458374.152,Found with our in-house single transit finder
+305635594.0,305635594.01,,,2458738.243,"new CTOI, Montalto (2022)"
+157999789.0,157999789.01,,,2458674.313,"new CTOI, Montalto (2022)"
+115942852.0,115942852.01,,,2458354.561,"new CTOI, Montalto (2022)"
+258923475.0,258923475.01,,,2458684.16,All data obtained using the LightKurve framework
+80419101.0,80419101.01,,,2458353.804,"new CTOI, Montalto (2022)"
+116010909.0,116010909.01,,,2458789.589,"new CTOI, Montalto (2022)"
+114987571.0,114987571.01,,,2458492.349,DTARPS 127 in Melton+  arXiv:2302.06724
+129204392.0,129204392.01,,,2458733.342,"new CTOI, Montalto (2022)"
+333475564.0,333475564.01,,,2458738.273,"new CTOI, Montalto (2022)"
+381543300.0,381543300.01,,,2458764.232,"new CTOI, Montalto (2022)"
+172419713.0,172419713.01,,,2458841.374,"new CTOI, Montalto (2022)"
+313301110.0,313301110.01,,,2458815.555,"new CTOI, Montalto (2022)"
+14247181.0,14247181.01,,,2458842.062,"new CTOI, Montalto (2022)"
+236309211.0,236309211.01,,,2458955.415,"new CTOI, Montalto (2022)"
+22744846.0,22744846.01,,,2458898.967,"new CTOI, Montalto (2022)"
+289078206.0,289078206.01,,,2458683.127,"new CTOI, Montalto (2022)"
+348842168.0,348842168.01,,,2459045.44,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+356355042.0,356355042.01,,,2458982.643,"new CTOI, Montalto (2022)"
+139726266.0,139726266.01,,,,Found with our in-house single transit finder; Sector 32
+326483210.0,326483210.01,,,2458741.329,"new CTOI likely member of FSR 0342, PATHOS-66 in Nardiello et al. (2021)"
+170361401.0,170361401.01,1.094,1.0946,,"new CTOI, Montalto et al. (2020)"
+120199940.0,120199940.01,,,2458492.224,DTARPS 134 in Melton+  arXiv:2302.06724
+33989652.0,33989652.01,6.194,6.1891,,"new CTOI, Montalto et al. (2020)"
+356642879.0,356642879.01,,,2458815.736,"new CTOI, Montalto (2022)"
+67047661.0,67047661.01,,,,
+311532610.0,311532610.01,,,2458624.132,"new CTOI, Montalto (2022)"
+154927098.0,154927098.01,,,2458684.073,From 5 Cycle 2 SPOC sectors; slightly V-shaped
+470247230.0,470247230.01,,,2458949.912,"new CTOI, Montalto (2022)"
+287231788.0,287231788.01,,,2458870.032,"new CTOI, Montalto (2022)"
+309234923.0,309234923.01,,,2458789.251,"new CTOI, Montalto (2022)"
+440957227.0,440957227.01,,,2458603.012,DTARPS 447 in Melton+  arXiv:2302.06724
+289584752.0,289584752.01,,,2458815.747,"new CTOI, Montalto (2022)"
+326397318.0,326397318.01,,,,
+26880046.0,26880046.01,,,2458683.437,"new CTOI, Montalto (2022)"
+317015040.0,317015040.01,,,2459867.783,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+332258412.0,332258412.01,,,2458794.905,"new CTOI likely member of NGC 457, PATHOS-67 in Nardiello et al. (2021)"
+116756420.0,116756420.01,,,2458792.18,All info obtained using the lightKurve framework
+254287410.0,254287410.01,,,2458354.361,manual ELEANOR search Tom Kaye
+377020459.0,377020459.01,,,,
+35485915.0,35485915.01,,,2458465.94,"new CTOI, Montalto (2022)"
+394340319.0,394340319.01,3.037,3.038975,,V-shaped; depth-aperture
+176689244.0,176689244.01,,,2458548.245,DTARPS 198 in Melton+  arXiv:2302.06724
+101569362.0,101569362.01,,,2458844.11,"Camera 1, CCD 3, Column 2067, Row 121, Sector 20"
+991806.0,991806.01,,,2458539.301,"new CTOI, Montalto (2022)"
+165881460.0,165881460.01,,,2458355.077,"new CTOI, Montalto (2022)"
+310355207.0,310355207.01,4.575,,,No report on TEV
+402851922.0,402851922.01,,,2458544.971,DTARPS 419 in Melton+  arXiv:2302.06724
+327189231.0,327189231.01,,,2458763.101,"new CTOI, Montalto (2022)"
+378421253.0,378421253.01,0.751,,,CDIPS report; variability
+68665559.0,68665559.01,,,2459009.783,"new CTOI, Montalto (2022)"
+769986.0,769986.01,,,2458437.747,"new CTOI, Montalto (2022)"
+453097786.0,453097786.01,,,2458328.095,DTARPS 451 in Melton+  arXiv:2302.06724
+119241628.0,119241628.01,,,2458468.132,"new CTOI, Montalto (2022)"
+309133240.0,309133240.01,,,2458788.58,"new CTOI, Montalto (2022)"
+212380077.0,212380077.01,,,2458396.61,"camera 1, ccd 2, column 1516, row 1297, sector 3"
+264979636.0,264979636.02,,,2458493.691,s2n=6.5; near a 5:2 resonance with TOI-518.01
+349904891.0,349904891.01,,,2458324.964,"new CTOI, Montalto (2022)"
+357033670.0,357033670.01,,,2458783.975,single transit event from the TSTPC working group
+306580215.0,306580215.01,,,2458571.224,DTARPS 343 in Melton+  arXiv:2302.06724
+99834321.0,99834321.01,,,2459584.39,Nguyen et al. (2022)
+334901244.0,334901244.01,,,2458982.693,"new CTOI, Montalto (2022)"
+391539041.0,391539041.01,,,2458812.752,"new CTOI, Montalto (2022)"
+236817949.0,236817949.01,0.63,,,14 sigma odd even
+293991511.0,293991511.01,,,2458470.09,"Camera 1, CCD 4, Column 1402, Row 243, Sector 6"
+350274116.0,350274116.01,,,2458343.8,Found with our in-house single transit finder
+389854818.0,389854818.01,,,2458895.751,"new CTOI, Montalto (2022)"
+147852475.0,147852475.01,3.917,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+45357107.0,45357107.01,2.177,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+139403953.0,139403953.01,,,2458790.443,"new CTOI, Montalto (2022)"
+16842739.0,16842739.01,,,2458683.175,"new CTOI, Montalto (2022)"
+357044866.0,357044866.01,,,2458671.441,"new CTOI, Montalto (2022)"
+62917964.0,62917964.01,,,2458682.05,"new CTOI, Montalto (2022)"
+302040469.0,302040469.01,,,2460014.465,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+259319882.0,259319882.01,,,2458383.732,"new CTOI, Montalto (2022)"
+300116105.0,300116105.01,,,2458467.619,"new CTOI, Montalto et al. (2020)"
+314829796.0,314829796.01,1.467,1.466453,,"new CTOI, Montalto et al. (2020)"
+376258038.0,376258038.01,,,2458789.885,"new CTOI, Montalto (2022)"
+345045396.0,345045396.01,,,2458764.15,"new CTOI, Montalto (2022)"
+381477001.0,381477001.01,,,2458764.466,"new CTOI, Montalto (2022)"
+419517627.0,419517627.01,,,2458710.732,"new CTOI, Montalto (2022)"
+462648313.0,462648313.01,,,2458982.197,"new CTOI, Montalto (2022)"
+167671392.0,167671392.01,,,2458441.306,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+249950761.0,249950761.01,,,2458789.066,"new CTOI, Montalto (2022)"
+290403522.0,290403522.01,,,2458346.564,"Warm Jupiter candidate around rapid rotator, expected high eccentricity given the transit duration and stellar density"
+402992891.0,402992891.01,,,2459834.594,PHT candidate.
+422650433.0,422650433.01,1.29,,,"No TEV report; Camera 1, CCD 4, Column 1786, Row 255, Sector 4"
+327712163.0,327712163.01,,,2458325.557,DTARPS 368 in Melton+  arXiv:2302.06724
+355828331.0,355828331.01,,,2458681.694,"new CTOI, Montalto (2022)"
+198589475.0,198589475.01,,,2458679.674,"new CTOI, Montalto (2022)"
+142583775.0,142583775.01,,,2458680.822,"new CTOI, Montalto (2022)"
+159185219.0,159185219.01,,,2458929.485,"new CTOI, Montalto (2022)"
+219471945.0,219471945.01,,,2458953.189,"new CTOI, Montalto (2022)"
+347044473.0,347044473.01,,,2458813.533,"new CTOI, Montalto (2022)"
+9729503.0,9729503.01,,,2458979.212,"new CTOI, Montalto (2022)"
+461157517.0,461157517.01,,,2460017.875,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+155877220.0,155877220.01,,,2458710.829,"new CTOI, Montalto (2022)"
+63548665.0,63548665.01,,,2458680.734,"new CTOI, Montalto (2022)"
+112987554.0,112987554.01,,,2458657.066,"new CTOI, Montalto (2022)"
+220568520.0,220568520.01,,,2458337.723,DTARPS 237 in Melton+  arXiv:2302.06724
+274804678.0,274804678.01,,,2458785.231,"new CTOI, Montalto (2022)"
+25472026.0,25472026.01,,,2458761.955,"new CTOI, Montalto (2022)"
+271369421.0,271369421.01,,,2458507.251,Found with our in-house single transit finder
+219987067.0,219987067.01,,,2458354.118,"new CTOI, Montalto (2022)"
+417830114.0,417830114.01,,,2458676.223,"new CTOI, Montalto (2022)"
+317451641.0,317451641.01,,,2458816.017,"new CTOI, Montalto (2022)"
+219771660.0,219771660.01,,,2459702.412,Found with our in-house single transit finder; Sector 51; v-shaped
+289382659.0,289382659.01,,,2458813.655,"new CTOI, Montalto (2022)"
+384609312.0,384609312.01,,,2458355.576,DTARPS 403 in Melton+  arXiv:2302.06724
+429417637.0,429417637.01,,,2458709.629,"new CTOI, Montalto (2022)"
+318692558.0,318692558.01,,,2458326.412,DTARPS 359 in Melton+  arXiv:2302.06724
+466930780.0,466930780.01,,,2459798.395,Single transit. Event at 2811.92 is a background event.
+143858329.0,143858329.01,,,2458571.746,DTARPS 160 in Melton+  arXiv:2302.06724
+219893931.0,219893931.01,,,2458680.089,"new CTOI, Montalto (2022)"
+331644554.0,331644554.01,0.0,,,No report
+82550215.0,82550215.01,,,2459712.686,Found with our in-house single transit finder; Sector 51
+47757785.0,47757785.01,,,2458702.2,"New CTOI, multiple periodic dips in 4 different observation periods over a 1000 days in TESS observations"
+231945429.0,231945429.01,30.462,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+17141821.0,17141821.01,,,2458870.407,"new CTOI, Montalto (2022)"
+239120068.0,239120068.01,,,2458842.239,"new CTOI, Montalto (2022)"
+101624192.0,101624192.01,,,2458898.612,"new CTOI, Montalto (2022)"
+147426828.0,147426828.01,,,2458492.845,"new CTOI likely member of NGC 2318     , PATHOS-13 in Nardiello et al. (2020)"
+22142764.0,22142764.01,,,2458469.016,DTARPS 026 in Melton+  arXiv:2302.06724
+198384864.0,198384864.01,,,2458846.585,PHT candidate.
+141866704.0,141866704.01,,,2459037.281,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+284300833.0,284300833.01,,,2458955.511,"new CTOI, Montalto (2022)"
+48622170.0,48622170.01,,,2458465.882,"new CTOI, Montalto (2022)"
+408678680.0,408678680.01,,,2458814.546,"new CTOI, Montalto (2022)"
+377169726.0,377169726.01,,,2458929.425,"new CTOI, Montalto (2022)"
+231930852.0,231930852.01,,,2458493.64,DTARPS 248 in Melton+  arXiv:2302.06724
+316340057.0,316340057.01,,,,Found with our in-house single transit finder; Sector 13
+77490011.0,77490011.01,,,2458788.699,"new CTOI, Montalto (2022)"
+450210844.0,450210844.01,,,2458815.666,"new CTOI, Montalto (2022)"
+152226055.0,152226055.01,,,2458325.145,"new CTOI, Montalto et al. (2020)"
+3900859.0,3900859.01,,,2458899.012,"new CTOI, Montalto (2022)"
+369395383.0,369395383.01,,,2458330.323,DTARPS 393 in Melton+  arXiv:2302.06724
+283224968.0,283224968.01,,,2458709.48,"new CTOI, Montalto (2022)"
+230980945.0,230980945.01,,,2458354.37,"new CTOI, Montalto (2022)"
+354834460.0,354834460.01,,,2458789.72,"new CTOI, Montalto (2022)"
+432110782.0,432110782.01,,,2458815.509,"new CTOI, Montalto (2022)"
+144995073.0,144995073.01,,,2458518.823,"new CTOI likely member of NGC 2669     , PATHOS-11 in Nardiello et al. (2020)"
+245426095.0,245426095.01,,,2458790.585,"new CTOI, Montalto (2022)"
+59280552.0,59280552.01,,,2458494.058,DTARPS 075 in Melton+  arXiv:2302.06724
+300448520.0,300448520.01,,,2458659.162,DTARPS 333 in Melton+  arXiv:2302.06724
+29989691.0,29989691.01,7.195,,,Corrected transit depth of 214.7 (+/-7.6) ppm; Marginal PC; within southern Continuous Viewing Zone
+422448310.0,422448310.01,,,2458588.03,All data obtained using the LightKurve framework
+13870815.0,13870815.01,,,2458682.487,"new CTOI, Montalto (2022)"
+311242780.0,311242780.01,,,2458626.369,DTARPS 353 in Melton+  arXiv:2302.06724
+444041825.0,444041825.01,,,2459239.662,Found with our in-house single transit finder
+22203201.0,22203201.01,,,2459009.635,"new CTOI, Montalto (2022)"
+39828389.0,39828389.01,,,2458951.418,"new CTOI, Montalto (2022)"
+300142607.0,300142607.01,,,2458469.618,DTARPS 331 in Melton+  arXiv:2302.06724
+455144819.0,455144819.01,,,2459970.196,Found with LcTools
+461651566.0,461651566.01,,,2458840.899,"new CTOI, Montalto (2022)"
+462516465.0,462516465.01,,,2458840.38,"new CTOI, Montalto (2022)"
+241071389.0,241071389.01,,,2458790.572,"new CTOI, Montalto (2022)"
+31054255.0,31054255.01,,,2458439.304,"new CTOI, Montalto (2022)"
+445077088.0,445077088.01,,,2458919.571,"new CTOI, Montalto (2022)"
+163962539.0,163962539.01,,,2458711.019,"new CTOI, Montalto (2022)"
+234895083.0,234895083.01,,,2458468.268,"new CTOI, Montalto (2022)"
+383510040.0,383510040.01,5.91,,,All data obtained using the lightkurve framework
+270204383.0,270204383.01,,,2458323.255,"new CTOI, Montalto (2022)"
+394579699.0,394579699.01,,,2458323.922,"new CTOI, Montalto (2022)"
+230016502.0,230016502.01,2.961,,,42 Re; V-shaped; slight odd-even
+461201151.0,461201151.01,,,2458570.18,"new CTOI, Montalto (2022)"
+92447866.0,92447866.01,,,2458325.705,"new CTOI, Montalto (2022)"
+79212406.0,79212406.01,,,2458469.266,DTARPS 100 in Melton+  arXiv:2302.06724
+141584976.0,141584976.01,,,2458815.721,"new CTOI, Montalto (2022)"
+383482813.0,383482813.01,,,2458625.016,"new CTOI, Montalto (2022)"
+383755895.0,383755895.01,,,2458682.904,"new CTOI, Montalto (2022)"
+231948825.0,231948825.01,,,2458493.348,DTARPS 249 in Melton+  arXiv:2302.06724
+71133316.0,71133316.01,,,2458444.879,DTARPS 091 in Melton+  arXiv:2302.06724
+25923058.0,25923058.01,,,2458761.592,"new CTOI, Montalto (2022)"
+47762924.0,47762924.01,,,2458682.699,"new CTOI, Montalto (2022)"
+280614628.0,280614628.01,,,2458492.3,DTARPS 306 in Melton+  arXiv:2302.06724
+389078639.0,389078639.01,,,2458321.739,"new CTOI, Montalto (2022)"
+307788096.0,307788096.01,,,2458384.285,DTARPS 348 in Melton+  arXiv:2302.06724
+71488258.0,71488258.01,,,2459989.418,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+99989903.0,99989903.01,,,2458683.213,"new CTOI, Montalto (2022)"
+285671982.0,285671982.01,,,2458786.027,"new CTOI, Montalto (2022)"
+11835032.0,11835032.01,,,2458837.209,"new CTOI, Montalto (2022)"
+418036300.0,418036300.01,,,2459715.069,PHT candidate. Single transit event.
+97472236.0,97472236.01,,,2458898.867,"new CTOI, Montalto (2022)"
+289910047.0,289910047.01,,,2458815.183,"new CTOI, Montalto (2022)"
+407851964.0,407851964.01,,,2458738.374,"new CTOI, Montalto (2022)"
+10934226.0,10934226.01,4.803,,,"No report on TEV; new CTOI from NEMESIS, https://arxiv.org/abs/2103.05647"
+148835042.0,148835042.01,,,2458954.402,"new CTOI, Montalto (2022)"
+85485452.0,85485452.01,,,2458784.098,"new CTOI, Montalto (2022)"
+271971130.0,271971130.02,,,2459007.988,Candidate found using Sherlockpipe - reported in the discovery paper for TOI-715 b
+284188533.0,284188533.01,,,2459727.798,Candidate from the XESP working group. Period may be half or 1/4. Details at: http://xjltp.china-vo.org/xesp.html
+95111024.0,95111024.01,,,2458493.099,DTARPS 108 in Melton+  arXiv:2302.06724
+372136783.0,372136783.01,,,2458737.326,"new CTOI, Montalto (2022)"
+214977922.0,214977922.01,,,2458623.937,"new CTOI, Montalto (2022)"
+419091401.0,419091401.01,12.707,,,"new CTOI likely member of Ruprecht 48  , PATHOS-27 in Nardiello et al. (2020)"
+38813184.0,38813184.01,,,2458329.755,DTARPS 051 in Melton+  arXiv:2302.06724
+163078563.0,163078563.01,,,2458494.057,DTARPS 186 in Melton+  arXiv:2302.06724
+30275861.0,30275861.01,,,2459036.731,A Search for Exoplanet Candidates in TESS short cadence Lightcurves with Bayesian Detection: Taaki et al. in prep 2022
+402111634.0,402111634.01,,,2458616.146,"new CTOI, Montalto (2022)"
+418695901.0,418695901.01,,,2458702.123,"new CTOI, Montalto (2022)"
+397487633.0,397487633.01,,,2459661.752,Found with our in-house single transit finder; Sector 49
+274948663.0,274948663.01,,,2458780.078,"new CTOI, Montalto (2022)"
+418083937.0,418083937.01,,,2458789.903,"new CTOI, Montalto (2022)"
+156138731.0,156138731.01,,,2459744.695,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+126982911.0,126982911.01,,,2459450.207,ctoi from Tess-Spoc Sec 42-43 - Vetting attached (Triceratops)
+344552721.0,344552721.01,,,2458652.953,"new CTOI, Montalto (2022)"
+369474541.0,369474541.01,,,2459451.456,"new ctoi from Sectors 42,43 SPOC FFIs; Vetting attached"
+355957709.0,355957709.01,,,2458977.308,"new CTOI, Montalto (2022)"
+99652177.0,99652177.01,,,2458842.282,"new CTOI, Montalto (2022)"
+409883914.0,409883914.01,,,2458636.825,"new CTOI, Montalto (2022)"
+286835453.0,286835453.01,,,2458840.981,"new CTOI, Montalto (2022)"
+55999432.0,55999432.01,,,2458439.116,DTARPS 074 in Melton+  arXiv:2302.06724
+259409575.0,259409575.01,,,2458383.116,"new CTOI, Montalto (2022)"
+357183567.0,357183567.01,,,2458678.932,"new CTOI, Montalto (2022)"
+159348593.0,159348593.01,,,2458981.524,"new CTOI, Montalto (2022)"
+272636742.0,272636742.01,,,2458669.832,"new CTOI, Montalto (2022)"
+366074071.0,366074071.01,,,2459884.492,Planet candidates from the XESP working group. Details at: http://xjltp.china-vo.org/xesp.html
+265337761.0,265337761.01,,,2458649.894,"new CTOI, Montalto (2022)"
+186623513.0,186623513.01,,,2458790.078,"new CTOI, Montalto (2022)"
+444977814.0,444977814.01,,,2459589.278,New ctoi from sec 47 Tess-Spoc - Attached Triceratops vetting (FPP=0.017)
+449925672.0,449925672.01,,,2458815.721,"new CTOI, Montalto (2022)"
+68489030.0,68489030.01,,,2458679.506,"new CTOI, Montalto (2022)"
+120232321.0,120232321.01,3.62,,,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+200505458.0,200505458.01,,,2458735.786,"new CTOI, Montalto (2022)"
+429286485.0,429286485.01,,,2458357.115,DTARPS 435 in Melton+  arXiv:2302.06724
+229802011.0,229802011.01,,,2458327.571,DTARPS 241 in Melton+  arXiv:2302.06724
+351801055.0,351801055.01,,,2458675.728,"new CTOI, Montalto (2022)"
+328814508.0,328814508.01,,,2458815.71,"new CTOI, Montalto (2022)"
+738065944.0,738065944.01,7.755,,,"No report on TEV; new CTOI, Montalto et al. (2020)"
+7559164.0,7559164.01,,,2458489.838,"new CTOI, Montalto (2022)"
+72931000.0,72931000.01,,,2458569.478,"new CTOI, Montalto (2022)"
+288982337.0,288982337.01,,,2458842.096,"new CTOI, Montalto (2022)"
+82407001.0,82407001.01,,,2458954.021,"new CTOI, Montalto (2022)"
+392715556.0,392715556.01,,,2458814.469,"new CTOI, Montalto (2022)"
+66439168.0,66439168.01,,,2458361.507,manual ELEANOR search Tom Kaye
+153936502.0,153936502.01,,,2458681.247,"new CTOI, Montalto (2022)"
+84990650.0,84990650.01,,,2458815.965,"new CTOI, Montalto (2022)"
+285468374.0,285468374.01,,,2458787.633,"new CTOI, Montalto (2022)"
+242657938.0,242657938.01,,,2458764.239,"new CTOI, Montalto (2022)"
+309902656.0,309902656.01,,,2458326.87,DTARPS 351 in Melton+  arXiv:2302.06724
+284801448.0,284801448.01,,,2458683.022,"new CTOI, Montalto (2022)"
+393785071.0,393785071.01,,,2458981.97,"new CTOI, Montalto (2022)"
+356683700.0,356683700.01,,,2458673.803,"new CTOI, Montalto (2022)"
+307952444.0,307952444.01,,,2458870.428,"new CTOI, Montalto (2022)"
+95927079.0,95927079.01,,,2458897.763,"new CTOI, Montalto (2022)"
+57193196.0,57193196.01,,,2458955.245,"new CTOI, Montalto (2022)"
+129711632.0,129711632.01,,,2458324.978,"new CTOI, Montalto (2022)"
+34196883.0,34196883.01,,,2458468.641,DTARPS 041 in Melton+  arXiv:2302.06724
+190217431.0,190217431.01,,,2458840.388,"new CTOI, Montalto (2022)"
+246974219.0,246974219.01,,,2458789.776,"new CTOI, Montalto (2022)"
+148043270.0,148043270.01,,,2458468.209,"new CTOI, Montalto (2022)"
+193883106.0,193883106.01,,,2458982.102,"new CTOI, Montalto (2022)"
+206599822.0,206599822.01,,,2458494.661,DTARPS 219 in Melton+  arXiv:2302.06724
+393800976.0,393800976.01,,,2458899.145,"new CTOI, Montalto (2022)"
+111750317.0,111750317.01,,,2458470.536,DTARPS 124 in Melton+  arXiv:2302.06724
+1922426635.0,1922426635.01,,,2458653.618,"new CTOI, Montalto (2022)"
+190995146.0,190995146.01,,,2458764.258,"new CTOI, Montalto (2022)"
+158445734.0,158445734.01,,,2459608.357,Nguyen et al. (2022)
+426756103.0,426756103.01,,,2458815.894,"new CTOI, Montalto (2022)"
+382521776.0,382521776.01,,,2458358.257,Identification and vetting detailed in https://arxiv.org/abs/2101.10919.
+150951108.0,150951108.01,,,2458762.029,"new CTOI, Montalto (2022)"
+356307721.0,356307721.01,,,2458672.244,"new CTOI, Montalto (2022)"
+161046860.0,161046860.01,,,2458737.088,"new CTOI, Montalto (2022)"
+154511099.0,154511099.01,,,2458675.405,"new CTOI, Montalto (2022)"
+461676679.0,461676679.01,,,2458841.285,"new CTOI, Montalto (2022)"
+103321203.0,103321203.01,,,2458470.265,DTARPS 122 in Melton+  arXiv:2302.06724
+200093838.0,200093838.01,,,2458467.677,"new CTOI, Montalto (2022)"
+232612421.0,232612421.01,4.361,4.36,,Centroid offset on another star
+235713297.0,235713297.01,,,2458671.173,"new CTOI, Montalto (2022)"
+121158392.0,121158392.01,,,2458412.838,"new CTOI, Montalto (2022)"
+386066628.0,386066628.01,,,2458493.286,DTARPS 404 in Melton+  arXiv:2302.06724
+259612303.0,259612303.01,,,2458812.839,"new CTOI, Montalto (2022)"
+76042621.0,76042621.01,,,2459009.405,"new CTOI, Montalto (2022)"
+317860392.0,317860392.01,,,2458493.37,DTARPS 358 in Melton+  arXiv:2302.06724
+398382775.0,398382775.01,,,2458619.52,"new CTOI, Montalto (2022)"
+66532202.0,66532202.01,,,2458467.868,"new CTOI, Montalto (2022)"
+63322050.0,63322050.01,,,2458709.642,"new CTOI, Montalto (2022)"
+16999099.0,16999099.01,,,2458955.064,"new CTOI, Montalto (2022)"
+239655463.0,239655463.01,,,2458736.677,"new CTOI, Montalto (2022)"
+306303056.0,306303056.01,,,2458842.293,"new CTOI, Montalto (2022)"
+68216297.0,68216297.01,,,2458842.272,"new CTOI, Montalto (2022)"
+153067709.0,153067709.01,,,2458495.89,DTARPS 177 in Melton+  arXiv:2302.06724
+351202190.0,351202190.01,,,2458710.923,"new CTOI, Montalto (2022)"
+252913663.0,252913663.01,,,2458840.396,"new CTOI, Montalto (2022)"
+260366403.0,260366403.01,,,2458812.312,"new CTOI, Montalto (2022)"
+456261187.0,456261187.01,,,2458841.095,"new CTOI, Montalto (2022)"
+101219991.0,101219991.01,,,2458789.421,"new CTOI, Montalto (2022)"
+409056122.0,409056122.01,,,2458804.861,"new CTOI, Montalto (2022)"
+836308178.0,836308178.01,,,2458517.218,"new CTOI, Montalto (2022)"
+102951242.0,102951242.01,,,2458816.041,"new CTOI, Montalto (2022)"
+21639186.0,21639186.01,,,2458574.869,DTARPS 025 in Melton+  arXiv:2302.06724
+417136990.0,417136990.01,,,2458912.008,"new CTOI, Montalto (2022)"
+219466580.0,219466580.01,,,2458660.922,"new CTOI, Montalto (2022)"
+274036048.0,274036048.01,,,2458412.486,"new CTOI, Montalto (2022)"
+176789524.0,176789524.01,,,2458762.257,"new CTOI, Montalto (2022)"
+115693377.0,115693377.01,,,2458356.645,DTARPS 128 in Melton+  arXiv:2302.06724
+434806551.0,434806551.01,,,2458764.583,"new CTOI, Montalto (2022)"
+157129170.0,157129170.01,,,2458469.839,DTARPS 182 in Melton+  arXiv:2302.06724
